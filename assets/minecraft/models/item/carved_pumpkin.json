@@ -1,0 +1,24 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "block/carved_pumpkin"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 0}, "model": "block/carved_pumpkin" },
+		{ "predicate": { "custom_model_data": 1}, "model": "item/pumpkin/hexhat" },
+		{ "predicate": { "custom_model_data": 2}, "model": "item/pumpkin/hexhatblair" },
+		{ "predicate": { "custom_model_data": 3}, "model": "item/pumpkin/taucherglocke" },
+		{ "predicate": { "custom_model_data": 4}, "model": "item/pumpkin/bandit" },
+		{ "predicate": { "custom_model_data": 5}, "model": "item/pumpkin/cylinder" },
+		{ "predicate": { "custom_model_data": 6}, "model": "item/pumpkin/bunny" },
+		{ "predicate": { "custom_model_data": 7}, "model": "item/pumpkin/piratehat" },
+		{ "predicate": { "custom_model_data": 8}, "model": "item/pumpkin/trap" },
+		{ "predicate": { "custom_model_data": 9}, "model": "item/pumpkin/rhoodhat" },
+		{ "predicate": { "custom_model_data": 10}, "model": "item/pumpkin/southpiratehat" },
+		{ "predicate": { "custom_model_data": 11}, "model": "item/pumpkin/minohead" },
+		{ "predicate": { "custom_model_data": 12}, "model": "item/pumpkin/warthat" },
+		{ "predicate": { "custom_model_data": 13}, "model": "item/pumpkin/vampcollar" },
+		{ "predicate": { "custom_model_data": 14}, "model": "item/pumpkin/vampiric_helm" },
+		{ "predicate": { "custom_model_data": 15}, "model": "item/pumpkin/santahat" }		
+	]
+}

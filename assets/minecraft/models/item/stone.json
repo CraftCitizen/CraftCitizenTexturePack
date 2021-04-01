@@ -1,0 +1,12 @@
+{
+    "parent": "block/stone",
+		"overrides": [
+		{ "predicate": { "custom_model_data": 0}, "model": "block/stone" },
+		{ "predicate": { "custom_model_data": 1}, "model": "item/blueprints/blueprint" },
+		{ "predicate": { "custom_model_data": 2}, "model": "item/blueprints/tombstone" },
+		{ "predicate": { "custom_model_data": 3}, "model": "item/blueprints/noobhouse" },
+		{ "predicate": { "custom_model_data": 4}, "model": "item/blueprints/blueprintplayer" },
+		{ "predicate": { "custom_model_data": 5}, "model": "item/blueprints/questionmark" },
+		{ "predicate": { "custom_model_data": 6}, "model": "item/customblocks/jukebox" }		
+	]
+}

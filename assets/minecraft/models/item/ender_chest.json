@@ -1,0 +1,6 @@
+{
+    "parent": "item/chestvanilla",
+    "textures": {
+        "particle": "block/obsidian"
+    }
+}

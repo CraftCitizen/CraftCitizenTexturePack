@@ -1,0 +1,30 @@
+{
+    "parent": "block/lectern",
+		"overrides": [
+		{ "predicate": { "custom_model_data": 0}, "model": "block/lectern" },
+		{ "predicate": { "custom_model_data": 1}, "model": "item/portal/portal" },
+		{ "predicate": { "custom_model_data": 2}, "model": "item/portal/portalbig" },
+		{ "predicate": { "custom_model_data": 3}, "model": "item/portal/portaldonator" },
+		{ "predicate": { "custom_model_data": 4}, "model": "item/portal/portalbigdonator" },
+		{ "predicate": { "custom_model_data": 5}, "model": "item/portal/portal_black" },
+		{ "predicate": { "custom_model_data": 6}, "model": "item/portal/portalbig_black" },
+		{ "predicate": { "custom_model_data": 7}, "model": "item/portal/portal_redstone" },
+		{ "predicate": { "custom_model_data": 8}, "model": "item/portal/portalbig_redstone" },
+		{ "predicate": { "custom_model_data": 9}, "model": "item/portal/portalbig_leaves" },
+		{ "predicate": { "custom_model_data": 10}, "model": "item/portal/portal_leaves" },
+		{ "predicate": { "custom_model_data": 11}, "model": "item/portal/portalbig_oak" },
+		{ "predicate": { "custom_model_data": 12}, "model": "item/portal/portal_oak" },
+		{ "predicate": { "custom_model_data": 13}, "model": "item/portal/portalbig_bedrock" },
+		{ "predicate": { "custom_model_data": 14}, "model": "item/portal/portal_bedrock" },
+		{ "predicate": { "custom_model_data": 15}, "model": "item/portal/portalbig_obsidian" },
+		{ "predicate": { "custom_model_data": 16}, "model": "item/portal/portal_obsidian" },
+		{ "predicate": { "custom_model_data": 17}, "model": "item/portal/portalbig_pink" },
+		{ "predicate": { "custom_model_data": 18}, "model": "item/portal/portal_pink" },
+		{ "predicate": { "custom_model_data": 19}, "model": "item/portal/portalbig_blue" },
+		{ "predicate": { "custom_model_data": 20}, "model": "item/portal/portal_blue" },
+		{ "predicate": { "custom_model_data": 21}, "model": "item/portal/portalbig_gold" },
+		{ "predicate": { "custom_model_data": 22}, "model": "item/portal/portal_gold" },
+		{ "predicate": { "custom_model_data": 23}, "model": "item/portal/portalbig_purple" },
+		{ "predicate": { "custom_model_data": 24}, "model": "item/portal/portal_purple" }			
+	]
+}

@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/netherite_axe"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 6}, "model": "item/tools/southaxen" },
+		{ "predicate": { "custom_model_data": 7}, "model": "item/netheriteaxe/sauron" },
+		{ "predicate": { "custom_model_data": 11}, "model": "item/netheritesword/bottle" },
+		{ "predicate": { "custom_model_data": 12}, "model": "item/netheriteaxe/anubisaxe" },
+		{ "predicate": { "custom_model_data": 13}, "model": "item/netheriteaxe/anubisstaff" },
+		{ "predicate": { "custom_model_data": 14}, "model": "item/netheriteaxe/anubisstaffa" }			
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/diamond_axe"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "item/diamondaxe/dwarvencharge" },
+		{ "predicate": { "custom_model_data": 2}, "model": "item/diamondaxe/vaxe" },
+		{ "predicate": { "custom_model_data": 3}, "model": "item/diamondaxe/thelever" },
+		{ "predicate": { "custom_model_data": 4}, "model": "item/diamondaxe/arminaxe" },
+		{ "predicate": { "custom_model_data": 5}, "model": "item/diamondaxe/wateraxe" },
+		{ "predicate": { "custom_model_data": 6}, "model": "item/tools/southaxe" },
+		{ "predicate": { "custom_model_data": 7}, "model": "item/diamondaxe/arenaaxefire" },
+		{ "predicate": { "custom_model_data": 8}, "model": "item/diamondaxe/chickenleg" },
+		{ "predicate": { "custom_model_data": 9}, "model": "item/diamondaxe/redmace" },
+		{ "predicate": { "custom_model_data": 10}, "model": "item/diamondaxe/minoaxe" },
+		{ "predicate": { "custom_model_data": 11}, "model": "item/diamondaxe/vampiriclance" }
+	]
+}

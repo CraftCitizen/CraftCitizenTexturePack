@@ -1,0 +1,17 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/music_disc_chirp"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "item/aetherfragment/aetherpetty" },
+		{ "predicate": { "custom_model_data": 2}, "model": "item/aetherfragment/aetherlesser" },
+		{ "predicate": { "custom_model_data": 3}, "model": "item/aetherfragment/aethercommon" },
+		{ "predicate": { "custom_model_data": 4}, "model": "item/aetherfragment/aethergreater" },
+		{ "predicate": { "custom_model_data": 5}, "model": "item/aetherfragment/aethergrand" },
+		{ "predicate": { "custom_model_data": 6}, "model": "item/aetherfragment/portalstone" },
+		{ "predicate": { "custom_model_data": 7}, "model": "item/aetherfragment/runestone02" },
+		{ "predicate": { "custom_model_data": 8}, "model": "item/aetherfragment/runestone" },
+		{ "predicate": { "custom_model_data": 100}, "model": "item/vote/scroll" }
+	]
+}

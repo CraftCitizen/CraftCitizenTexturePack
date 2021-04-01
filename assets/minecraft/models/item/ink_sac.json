@@ -1,0 +1,23 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/ink_sac"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "item/vote/votetoken" },
+		{ "predicate": { "custom_model_data": 2}, "model": "item/vote/researchwrit" },
+		{ "predicate": { "custom_model_data": 10}, "model": "item/aetherfragment/honorpetty" },
+		{ "predicate": { "custom_model_data": 11}, "model": "item/aetherfragment/honorlesser" },
+		{ "predicate": { "custom_model_data": 12}, "model": "item/aetherfragment/honorcommon" },
+		{ "predicate": { "custom_model_data": 13}, "model": "item/aetherfragment/honorgreater" },
+		{ "predicate": { "custom_model_data": 14}, "model": "item/aetherfragment/honorgrand" },
+		{ "predicate": { "custom_model_data": 100}, "model": "item/vote/scroll" },
+		{ "predicate": { "custom_model_data": 101}, "model": "item/vote/eventticket" },
+		{ "predicate": { "custom_model_data": 102}, "model": "item/vote/seasonticket" },
+		{ "predicate": { "custom_model_data": 103}, "model": "item/vote/senpaichip1" },
+		{ "predicate": { "custom_model_data": 104}, "model": "item/vote/senpaichip2" },
+		{ "predicate": { "custom_model_data": 105}, "model": "item/vote/senpaichip3" },
+		{ "predicate": { "custom_model_data": 106}, "model": "item/vote/scarab" },
+		{ "predicate": { "custom_model_data": 107}, "model": "item/vote/coin1" }		
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/diamond_sword"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "item/diamondsword/dawnbreaker" },
+		{ "predicate": { "custom_model_data": 2}, "model": "item/diamondsword/frostmourne" },
+		{ "predicate": { "custom_model_data": 3}, "model": "item/diamondsword/ashbringer" },
+		{ "predicate": { "custom_model_data": 4}, "model": "item/diamondsword/shalamayne" },
+		{ "predicate": { "custom_model_data": 5}, "model": "item/diamondsword/thunderfury" },
+		{ "predicate": { "custom_model_data": 7}, "model": "item/diamondsword/vsword" },
+		{ "predicate": { "custom_model_data": 9}, "model": "item/diamondsword/walkingstick" },
+		{ "predicate": { "custom_model_data": 10}, "model": "item/diamondsword/claivesword" },
+		{ "predicate": { "custom_model_data": 11}, "model": "item/diamondsword/windbladetwo" },
+		{ "predicate": { "custom_model_data": 12}, "model": "item/diamondsword/windbladetwoactive" },
+		{ "predicate": { "custom_model_data": 13}, "model": "item/diamondsword/reaperscythe" },
+		{ "predicate": { "custom_model_data": 14}, "model": "item/diamondsword/reaperscytheactive" },
+		{ "predicate": { "custom_model_data": 19}, "model": "item/diamondsword/piratecutlass" },
+		{ "predicate": { "custom_model_data": 20}, "model": "item/diamondsword/barstool" },
+		{ "predicate": { "custom_model_data": 21}, "model": "item/diamondsword/candle" },
+		{ "predicate": { "custom_model_data": 22}, "model": "item/diamondsword/halloweensword" },
+		{ "predicate": { "custom_model_data": 23}, "model": "item/diamondsword/scorpiondag" },
+		{ "predicate": { "custom_model_data": 24}, "model": "item/diamondsword/scorpionscythe" },
+		{ "predicate": { "custom_model_data": 25}, "model": "item/diamondsword/arenaswordfire" },
+		{ "predicate": { "custom_model_data": 26}, "model": "item/diamondsword/arenaswordfire2" },
+		{ "predicate": { "custom_model_data": 27}, "model": "item/diamondsword/runeblade" },
+		{ "predicate": { "custom_model_data": 28}, "model": "item/diamondsword/southsword" },
+		{ "predicate": { "custom_model_data": 29}, "model": "item/diamondsword/enddagger" },
+		{ "predicate": { "custom_model_data": 30}, "model": "item/diamondsword/angelsword" },
+		{ "predicate": { "custom_model_data": 43}, "model": "item/diamondsword/vampire_sword" },
+		{ "predicate": { "custom_model_data": 50}, "model": "item/diamondsword/pencil" },
+		{ "predicate": { "custom_model_data": 51}, "model": "item/diamondsword/pencilgreen" },
+		{ "predicate": { "custom_model_data": 52}, "model": "item/diamondsword/pencilpurp" },
+		{ "predicate": { "custom_model_data": 53}, "model": "item/diamondsword/valgardsword" }		
+	]
+}

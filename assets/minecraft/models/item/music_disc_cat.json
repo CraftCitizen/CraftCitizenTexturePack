@@ -1,0 +1,15 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/music_disc_cat"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "item/itemparts/aetherite_crystal" },
+		{ "predicate": { "custom_model_data": 2}, "model": "item/itemparts/aetherite_powder" },
+		{ "predicate": { "custom_model_data": 3}, "model": "item/itemparts/ancient_rune" },
+		{ "predicate": { "custom_model_data": 4}, "model": "item/itemparts/vampiric_blood" },
+		{ "predicate": { "custom_model_data": 5}, "model": "item/itemparts/darkstone" },
+		{ "predicate": { "custom_model_data": 6}, "model": "item/itemparts/vampiric_skull" },
+		{ "predicate": { "custom_model_data": 16}, "model": "item/vote/vampiric_goblet" }
+	]
+}
