@@ -690,7 +690,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/titles/artistocrate.png",
+			"file": "minecraft:font/titles/artistocrat.png",
 			"ascent": 7.75,
 			"height": 7.75,
 			"chars": ["\uE016"]
