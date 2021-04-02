@@ -627,6 +627,13 @@
 		},
 		{
 			"type": "bitmap",
+			"file": "minecraft:font/titles/chat_tick.png",
+			"ascent": 8,
+			"height": 10,
+			"chars": ["\uE009"]
+		},
+		{
+			"type": "bitmap",
 			"file": "minecraft:font/titles/player.png",
 			"ascent": 7.75,
 			"height": 7.75,
