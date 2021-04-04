@@ -1,10 +1,10 @@
 {
 	"__comment": "Designed by Pashjn with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/flower_a",
-		"texture": "blocks/flower_a",
-		"voxels_atlas": "blocks/flower_a",
-		"voxels_atlas1": "blocks/flower_a1"
+		"particle": "block/flower_a",
+		"texture": "block/flower_a",
+		"voxels_atlas": "block/flower_a",
+		"voxels_atlas1": "block/flower_a1"
 	},
 	"elements": [ 	 
 		{
