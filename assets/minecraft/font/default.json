@@ -648,6 +648,62 @@
 		},
 		{
 			"type": "bitmap",
+			"file": "minecraft:font/titles/peasant.png",
+			"ascent": 7.75,
+			"height": 7.75,
+			"chars": ["\uE010"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/titles/hireling.png",
+			"ascent": 7.75,
+			"height": 7.75,
+			"chars": ["\uE011"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/titles/merchant.png",
+			"ascent": 7.75,
+			"height": 7.75,
+			"chars": ["\uE012"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/titles/knight.png",
+			"ascent": 7.75,
+			"height": 7.75,
+			"chars": ["\uE013"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/titles/noble.png",
+			"ascent": 7.75,
+			"height": 7.75,
+			"chars": ["\uE014"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/titles/lord.png",
+			"ascent": 7.75,
+			"height": 7.75,
+			"chars": ["\uE015"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/titles/artistocrat.png",
+			"ascent": 7.75,
+			"height": 7.75,
+			"chars": ["\uE016"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/titles/citizen.png",
+			"ascent": 7.75,
+			"height": 7.75,
+			"chars": ["\uE017"]
+		},
+		{
+			"type": "bitmap",
 			"file": "minecraft:font/inventory/border_inventory.png",
 			"ascent": 13,
 			"height": 126,
