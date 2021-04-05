@@ -1,7 +1,7 @@
 {
   "variants": {
     "attached=false,east=true,north=false,south=false,west=false,disarmed=false,powered=false":[
-		{"model": "block/tripwire/example"}
+		{"model": "block/tripwire/flower_a"}
 	]
   }
 }
