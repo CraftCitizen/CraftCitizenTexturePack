@@ -1,6 +1,6 @@
 {
 	"variants": {
-		"instrument=basedrum,note=0":[
+		"instrument=basedrum,note=0,powered=false":[
 			{"model": "block/note_block/bass_drum_0"}
 		]
 	}
