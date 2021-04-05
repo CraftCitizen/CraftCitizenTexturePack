@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:item/generated",
+  "overrides": [
+		{ "predicate": { "custom_model_data": 0}, "model": "item/string" },
+		{ "predicate": { "custom_model_data": 1}, "model": "block/tripwire/flower_a" }		
+  ],
+  "textures": {
+    "layer0": "minecraft:item/string"
+  }  
+}
