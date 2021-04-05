@@ -1,7 +1,25 @@
 {
   "variants": {
     "attached=false,east=true,north=false,south=false,west=false,disarmed=false,powered=false":[
-		{"model": "block/tripwire/flower_a"}
-	]
+		{"model": "block/tripwire/flower_a"}	
+	],
+    "attached=false,east=true,north=true,south=false,west=false,disarmed=false,powered=false":[
+		{"model": "block/tripwire/flower_b"}
+	],
+    "attached=false,east=true,north=true,south=true,west=false,disarmed=false,powered=false":[
+		{"model": "block/tripwire/flower_c"}
+	],
+    "attached=false,east=true,north=true,south=true,west=true,disarmed=false,powered=false":[
+		{"model": "block/tripwire/flower_d"}
+	],
+    "attached=false,east=false,north=false,south=false,west=true,disarmed=false,powered=false":[
+		{"model": "block/tripwire/flower_e"}
+	],
+    "attached=false,east=false,north=false,south=true,west=true,disarmed=false,powered=false":[
+		{"model": "block/tripwire/flower_f"}
+	],
+    "attached=false,east=false,north=true,south=true,west=true,disarmed=false,powered=false":[
+		{"model": "block/tripwire/flower_g"}
+	]	
   }
 }
