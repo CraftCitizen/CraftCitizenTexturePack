@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:item/generated",
+    "overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "block/tripwire/flower_h" },
+		{ "predicate": { "custom_model_data": 2}, "model": "block/tripwire/test" }	
+  ],
+  "textures": {
+    "layer0": "minecraft:item/leather_horse_armor"
+  }
+}

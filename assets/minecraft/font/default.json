@@ -732,6 +732,13 @@
 		},
 		{
 			"type": "bitmap",
+			"file": "minecraft:font/inventory/adminshop.png",
+			"ascent": 13,
+			"height": 127,
+			"chars": ["\uE304"]
+		},
+		{
+			"type": "bitmap",
 			"file": "minecraft:font/tooltips/tip1.png",
 			"ascent": 20,
 			"height": 20,
