@@ -3,7 +3,10 @@
     "overrides": [
 		{ "predicate": { "custom_model_data": 1}, "model": "block/tripwire/flower_h" },
 		{ "predicate": { "custom_model_data": 2}, "model": "item/blueprints/chair1" },
-		{ "predicate": { "custom_model_data": 3}, "model": "item/blueprints/chair2" }
+		{ "predicate": { "custom_model_data": 3}, "model": "item/blueprints/chair2" },
+		{ "predicate": { "custom_model_data": 4}, "model": "item/customblocks/awning" },
+		{ "predicate": { "custom_model_data": 5}, "model": "item/customblocks/chair_a" },
+		{ "predicate": { "custom_model_data": 6}, "model": "item/customblocks/chair_b" }
   ],
   "textures": {
     "layer0": "minecraft:item/leather_horse_armor"
