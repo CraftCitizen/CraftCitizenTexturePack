@@ -1,8 +1,8 @@
 {
 	"__comment": "Designed by Pashjn with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "block/particle",
-		"texture": "block/texture",
+		"particle": "block/extractor",
+		"texture": "block/extractor",
 		"voxels_atlas": "block/extractor",
 		"Frag1": "item/aether/aethergreater",
 		"texture1": "block/a1",
