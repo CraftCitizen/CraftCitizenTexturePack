@@ -4,25 +4,7 @@
 		{"model": "item/customblocks/painter"}	
 	],
     "east=true,north=true,south=false,west=false,up=false,down=false":[
-		{"model": "block/tripwire/flower_a"}
-	],
-    "east=true,north=true,south=true,west=false,up=false,down=false":[
-		{"model": "block/tripwire/flower_b"}	
-	],
-    "east=true,north=true,south=true,west=true,up=false,down=false":[
-		{"model": "block/tripwire/flower_c"}	
-	],
-    "east=false,north=false,south=false,west=true,up=false,down=false":[
-		{"model": "block/tripwire/flower_d"}	
-	],
-    "east=false,north=false,south=true,west=true,up=false,down=false":[
-		{"model": "block/tripwire/flower_e"}	
-	],
-    "east=false,north=true,south=true,west=true,up=false,down=false":[
-		{"model": "block/tripwire/flower_f"}	
-	],
-    "east=false,north=true,south=false,west=false,up=false,down=false":[
-		{"model": "block/tripwire/flower_g"}	
+		{"model": "item/customblocks/extractor"}	
 	]	
   }
-}fals
+}
