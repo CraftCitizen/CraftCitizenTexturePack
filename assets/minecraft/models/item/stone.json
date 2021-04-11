@@ -17,6 +17,7 @@
 		{ "predicate": { "custom_model_data": 13}, "model": "item/customblocks/flower_e" },
 		{ "predicate": { "custom_model_data": 14}, "model": "item/customblocks/flower_f" },
 		{ "predicate": { "custom_model_data": 15}, "model": "item/customblocks/flower_g" },
-		{ "predicate": { "custom_model_data": 16}, "model": "item/customblocks/extractor" }		
+		{ "predicate": { "custom_model_data": 16}, "model": "item/customblocks/extractor" },
+		{ "predicate": { "custom_model_data": 17}, "model": "item/customblocks/bench" }		
 	]
 }
