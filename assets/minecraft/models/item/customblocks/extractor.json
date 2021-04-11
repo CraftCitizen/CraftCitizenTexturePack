@@ -4,7 +4,7 @@
 		"particle": "block/extractor",
 		"texture": "block/extractor",
 		"voxels_atlas": "block/extractor",
-		"Frag1": "item/aether/aethergreater",
+		"frag1": "item/aether/aethergreater",
 		"texture1": "block/a1",
 		"texture2": "block/stea",
 		"texture3": "block/machines"
@@ -15,12 +15,12 @@
 			"from": [ 2.5, 16, 0 ],
 			"to": [ 9.5, 16.001, 5.5 ],
 			"faces": {
-				"down": { "uv": [ 0, 0, 16, 16 ], "texture": "#Frag1" },
-				"up": { "uv": [ 0, 0, 16, 16 ], "texture": "#Frag1" },
-				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#Frag1" },
-				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#Frag1" },
-				"west": { "uv": [ 0, 0, 16, 16 ], "texture": "#Frag1" },
-				"east": { "uv": [ 0, 0, 16, 16 ], "texture": "#Frag1" }
+				"down": { "uv": [ 0, 0, 16, 16 ], "texture": "#frag1" },
+				"up": { "uv": [ 0, 0, 16, 16 ], "texture": "#frag1" },
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#frag1" },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#frag1" },
+				"west": { "uv": [ 0, 0, 16, 16 ], "texture": "#frag1" },
+				"east": { "uv": [ 0, 0, 16, 16 ], "texture": "#frag1" }
 			}
 		},
 		{
@@ -1848,12 +1848,12 @@
 			"from": [ 11, 16, 8.5 ],
 			"to": [ 18, 16.001, 14 ],
 			"faces": {
-				"down": { "uv": [ 0, 0, 16, 16 ], "texture": "#Frag1" },
-				"up": { "uv": [ 0, 0, 16, 16 ], "texture": "#Frag1" },
-				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#Frag1" },
-				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#Frag1" },
-				"west": { "uv": [ 0, 0, 16, 16 ], "texture": "#Frag1" },
-				"east": { "uv": [ 0, 0, 16, 16 ], "texture": "#Frag1" }
+				"down": { "uv": [ 0, 0, 16, 16 ], "texture": "#frag1" },
+				"up": { "uv": [ 0, 0, 16, 16 ], "texture": "#frag1" },
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#frag1" },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#frag1" },
+				"west": { "uv": [ 0, 0, 16, 16 ], "texture": "#frag1" },
+				"east": { "uv": [ 0, 0, 16, 16 ], "texture": "#frag1" }
 			}
 		}
 	],
@@ -1871,8 +1871,8 @@
 			"scale":  [ 0.2, 0.2, 0.2 ]
 		},
 		"gui": {
-			"rotation":  [ 29, -4, 14 ],			
-			"translation":  [ -1.4, 2, 0 ],
+			"rotation":  [ 29, -4, 14 ],
+			"translation":  [ -1.39, 2.0869, 0 ],
 			"scale":  [ 0.3, 0.3, 0.3 ]
 		},
 		"ground": {
@@ -1881,7 +1881,7 @@
 		},
 		"fixed": {
 			"rotation":  [ -90, 0, 0 ],
-			"translation":  [ -1.4, 0, -21 ]
+			"translation":  [ -1.391, 0, -20.86 ]
 		}
 	}
 }
