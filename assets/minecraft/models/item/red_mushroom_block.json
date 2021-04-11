@@ -2,12 +2,12 @@
   "parent": "minecraft:block/red_mushroom_block_inventory",
    "overrides": [
 		{ "predicate": { "custom_model_data": 1}, "model": "item/customblocks/painter"},
-		{ "predicate": { "custom_model_data": 1}, "model": "block/tripwire/flower_a" },
-		{ "predicate": { "custom_model_data": 2}, "model": "block/tripwire/flower_b" },
-		{ "predicate": { "custom_model_data": 3}, "model": "block/tripwire/flower_c" },
-		{ "predicate": { "custom_model_data": 4}, "model": "block/tripwire/flower_d" },
-		{ "predicate": { "custom_model_data": 5}, "model": "block/tripwire/flower_e" },
-		{ "predicate": { "custom_model_data": 6}, "model": "block/tripwire/flower_f" },
-		{ "predicate": { "custom_model_data": 7}, "model": "block/tripwire/flower_g" }		
+		{ "predicate": { "custom_model_data": 2}, "model": "block/tripwire/flower_a" },
+		{ "predicate": { "custom_model_data": 3}, "model": "block/tripwire/flower_b" },
+		{ "predicate": { "custom_model_data": 4}, "model": "block/tripwire/flower_c" },
+		{ "predicate": { "custom_model_data": 5}, "model": "block/tripwire/flower_d" },
+		{ "predicate": { "custom_model_data": 6}, "model": "block/tripwire/flower_e" },
+		{ "predicate": { "custom_model_data": 7}, "model": "block/tripwire/flower_f" },
+		{ "predicate": { "custom_model_data": 8}, "model": "block/tripwire/flower_g" }		
 	]
 }
