@@ -1,7 +1,7 @@
 {
   "variants": {
     "east=true,north=false,south=false,west=false,up=false,down=false":[
-		{"model": "block/red_mushroom_block"}	
+		{"model": "item/customblocks/painter"}	
 	]	
   }
 }

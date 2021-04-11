@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/red_mushroom_block_inventory",
    "overrides": [
-		{ "predicate": { "custom_model_data": 1}, "model": "block/red_mushroom_block/stone1"}
+		{ "predicate": { "custom_model_data": 1}, "model": "item/customblocks/painter"}
 	]
 }
