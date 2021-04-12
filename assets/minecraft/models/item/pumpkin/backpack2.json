@@ -3,13 +3,13 @@
 	"textures": {
 		"particle": "blocks/particle",
 		"texture": "blocks/texture",
-		"voxels_atlas": "item/backpack1",
+		"voxels_atlas": "item/backpack2",
 		"texture1": "item/clock_63",
 		"texture2": "item/glass_bottle",
 		"texture3": "item/shears",
-		"texture4": "item/bamboo",
-		"texture5": "item/wooden_shovel",
-		"texture6": "item/fishing_rod",
+		"texture4": "item/wooden_sword",
+		"texture5": "item/wooden_pickaxe",
+		"texture6": "item/bow",
 		"texture7": "item/chain",
 		"texture8": "blocks/e_texture"
 	},
@@ -798,15 +798,15 @@
 		},
 		{
 			"__comment": "Box61",
-			"from": [ 7.5, 3.5, 11 ],
-			"to": [ 11.5, 9.5, 11.001 ],
+			"from": [ 7.7321, 2.8535, 11 ],
+			"to": [ 13.7321, 8.8535, 11.001 ],
 			"faces": {
-				"down": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture4" },
-				"up": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture4" },
-				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture4" },
-				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture4" },
-				"west": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture4" },
-				"east": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture4" }
+				"down": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture4", "rotation": 180 },
+				"up": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture4", "rotation": 180 },
+				"north": { "uv": [ 16, 16, 0, 0 ], "texture": "#texture4" },
+				"south": { "uv": [ 16, 16, 0, 0 ], "texture": "#texture4" },
+				"west": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture4", "rotation": 180 },
+				"east": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture4", "rotation": 180 }
 			}
 		},
 		{
@@ -824,8 +824,8 @@
 		},
 		{
 			"__comment": "Box61",
-			"from": [ 7.7998, 3.3668, 11 ],
-			"to": [ 14.7998, 8.3668, 11.001 ],
+			"from": [ 11.5, 4.5, 6.5 ],
+			"to": [ 11.501, 9.5, 11.5 ],
 			"faces": {
 				"down": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture6" },
 				"up": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture6" },
@@ -872,7 +872,7 @@
 			"rotation":  [ 9, -23, 0 ]
 		},
 		"head": {
-			"rotation":  [ 6, 0, 0 ],			
+			"rotation":  [ 6, 0, 0 ],
 			"translation":  [ 0.0002, -11.81, 10.434 ],
 			"scale":  [ 2, 2.3826, 1.5 ]
 		},
