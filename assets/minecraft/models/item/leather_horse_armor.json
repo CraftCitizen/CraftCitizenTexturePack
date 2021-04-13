@@ -91,6 +91,174 @@
 				"custom_model_data": 21
 			},
 			"model": "modelengine:plague/arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 22
+			},
+			"model": "modelengine:scarab/leftlegs"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 23
+			},
+			"model": "modelengine:scarab/rightlegs"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 24
+			},
+			"model": "modelengine:scarab/leftleg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 25
+			},
+			"model": "modelengine:scarab/rightleg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 26
+			},
+			"model": "modelengine:scarab/leftleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 27
+			},
+			"model": "modelengine:scarab/rightleg3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 28
+			},
+			"model": "modelengine:scarab/scarab"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 29
+			},
+			"model": "modelengine:dirtdevil/bone"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 30
+			},
+			"model": "modelengine:dirtdevil/bone2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 31
+			},
+			"model": "modelengine:dirtdevil/dirtdevil"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 32
+			},
+			"model": "modelengine:rattler/jaw"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 33
+			},
+			"model": "modelengine:rattler/rattle"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 34
+			},
+			"model": "modelengine:rattler/link5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 35
+			},
+			"model": "modelengine:rattler/link4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 36
+			},
+			"model": "modelengine:rattler/link3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 37
+			},
+			"model": "modelengine:rattler/link2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 38
+			},
+			"model": "modelengine:rattler/link"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 39
+			},
+			"model": "modelengine:rattler/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 40
+			},
+			"model": "modelengine:camel/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 41
+			},
+			"model": "modelengine:camel/leftbackfoot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 42
+			},
+			"model": "modelengine:camel/leftbackleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 43
+			},
+			"model": "modelengine:camel/rightbackfoot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 44
+			},
+			"model": "modelengine:camel/rightbackleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 45
+			},
+			"model": "modelengine:camel/leftfrontfoot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 46
+			},
+			"model": "modelengine:camel/leftfrontleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 47
+			},
+			"model": "modelengine:camel/rightfrontfoot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 48
+			},
+			"model": "modelengine:camel/rightfrontleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 49
+			},
+			"model": "modelengine:camel/camel"
 		}		
   ],
   "textures": {
