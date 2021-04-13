@@ -7,7 +7,91 @@
 		{ "predicate": { "custom_model_data": 4}, "model": "item/customblocks/awning" },
 		{ "predicate": { "custom_model_data": 5}, "model": "item/customblocks/chair_a" },
 		{ "predicate": { "custom_model_data": 6}, "model": "item/customblocks/chair_b" },
-		{ "predicate": { "custom_model_data": 7}, "model": "item/customblocks/painter_color" }
+		{ "predicate": { "custom_model_data": 7}, "model": "item/customblocks/painter_color" },
+		{
+			"predicate": {
+				"custom_model_data": 8
+			},
+			"model": "modelengine:pharaoh/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9
+			},
+			"model": "modelengine:pharaoh/bandage"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10
+			},
+			"model": "modelengine:pharaoh/righthand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 11
+			},
+			"model": "modelengine:pharaoh/rightarm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 12
+			},
+			"model": "modelengine:pharaoh/lefthand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 13
+			},
+			"model": "modelengine:pharaoh/leftarm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 14
+			},
+			"model": "modelengine:pharaoh/rightfoot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 15
+			},
+			"model": "modelengine:pharaoh/rightleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 16
+			},
+			"model": "modelengine:pharaoh/leftfoot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 17
+			},
+			"model": "modelengine:pharaoh/leftleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 18
+			},
+			"model": "modelengine:pharaoh/pharaoh"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 19
+			},
+			"model": "modelengine:plague/hand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 20
+			},
+			"model": "modelengine:plague/fore"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 21
+			},
+			"model": "modelengine:plague/arm"
+		}		
   ],
   "textures": {
     "layer0": "minecraft:item/leather_horse_armor"
