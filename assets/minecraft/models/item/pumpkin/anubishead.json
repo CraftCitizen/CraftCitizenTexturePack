@@ -1,8 +1,8 @@
 {
 	"__comment": "Designed by Pashjn with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/particle",
-		"texture": "blocks/texture",
+		"particle": "items/anubishead",
+		"texture": "items/anubishead",
 		"voxels_atlas": "items/anubishead"
 	},
 	"elements": [ 	 

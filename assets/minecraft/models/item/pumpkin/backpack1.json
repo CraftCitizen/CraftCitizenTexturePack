@@ -1,8 +1,8 @@
 {
 	"__comment": "Designed by Pashjn with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/particle",
-		"texture": "blocks/texture",
+		"particle": "item/backpack1",
+		"texture": "item/backpack1",
 		"voxels_atlas": "item/backpack1",
 		"texture1": "item/clock_63",
 		"texture2": "item/glass_bottle",
