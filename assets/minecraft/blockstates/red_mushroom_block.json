@@ -5,6 +5,9 @@
 	],
     "east=true,north=true,south=false,west=false,up=false,down=false":[
 		{"model": "item/customblocks/extractor"}	
+	],
+    "east=true,north=true,south=true,west=false,up=false,down=false":[
+		{"model": "item/customblocks/pendulumclock"}	
 	]	
   }
-}
+}	

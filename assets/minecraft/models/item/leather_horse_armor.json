@@ -259,7 +259,8 @@
 				"custom_model_data": 49
 			},
 			"model": "modelengine:camel/camel"
-		}		
+		},
+		{ "predicate": { "custom_model_data": 50}, "model": "item/customblocks/pendulumclock" }		
   ],
   "textures": {
     "layer0": "minecraft:item/leather_horse_armor"
