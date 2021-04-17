@@ -3,9 +3,23 @@
 	"textures": {
 		"particle": "items/pendelauer",
 		"texture": "items/pendelauer",
-		"voxels_atlas": "items/pendelauer"
+		"voxels_atlas": "items/pendelauer",
+		"pendel": "items/pendel"
 	},
 	"elements": [ 	 
+		{
+			"__comment": "Box55",
+			"from": [ 2, -5, 10.51 ],
+			"to": [ 7.5, 8, 10.511 ],
+			"faces": {
+				"down": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
+				"up": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#pendel" },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#pendel" },
+				"west": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
+				"east": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
+			}
+		},
 		{
 			"__comment": "Voxels",
 			"from": [ -3.5, 20, -0.5 ],
@@ -729,8 +743,8 @@
 			"scale":  [ 0.7, 0.7, 0.7 ]
 		},
 		"fixed": {
-			"rotation":  [ -90, 0, 0 ],
-			"translation":  [ 6.2608, 4.8695, -38.25 ],
+			"rotation":  [ -90, -180, 0 ],
+			"translation":  [ -6.955, -4.869, -38.25 ],
 			"scale":  [ 2, 2, 2 ]
 		}
 	}
