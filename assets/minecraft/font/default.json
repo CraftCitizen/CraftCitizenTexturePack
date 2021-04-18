@@ -746,6 +746,13 @@
 		},
 		{
 			"type": "bitmap",
+			"file": "minecraft:font/inventory/fragmentextractor.png",
+			"ascent": 13,
+			"height": 73,
+			"chars": ["\uE306"]
+		},
+		{
+			"type": "bitmap",
 			"file": "minecraft:font/tooltips/tip1.png",
 			"ascent": 20,
 			"height": 20,
