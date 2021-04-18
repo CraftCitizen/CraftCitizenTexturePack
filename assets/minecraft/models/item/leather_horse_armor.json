@@ -263,7 +263,8 @@
 		{ "predicate": { "custom_model_data": 50}, "model": "item/customblocks/logs1" },
 		{ "predicate": { "custom_model_data": 51}, "model": "item/customblocks/pendeluhr" },
 		{ "predicate": { "custom_model_data": 52}, "model": "item/customblocks/logs2" },
-		{ "predicate": { "custom_model_data": 53}, "model": "item/customblocks/logs3" }		
+		{ "predicate": { "custom_model_data": 53}, "model": "item/customblocks/logs3" },
+		{ "predicate": { "custom_model_data": 54}, "model": "item/customblocks/tablecloth" }
   ],
   "textures": {
     "layer0": "minecraft:item/leather_horse_armor"
