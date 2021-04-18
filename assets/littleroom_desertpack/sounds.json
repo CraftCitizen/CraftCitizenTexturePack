@@ -33,5 +33,10 @@
 		 "sounds": [
 			"littleroom/dirtdevil/wind"
 		 ]
+	},
+   "littleroom.craftcitizen.door":{
+		 "sounds": [
+			"littleroom/craftcitizen/door"
+		 ]
 	}
 }
