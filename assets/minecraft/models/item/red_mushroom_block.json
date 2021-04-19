@@ -2,7 +2,6 @@
   "parent": "minecraft:block/red_mushroom_block_inventory",
    "overrides": [
 		{ "predicate": { "custom_model_data": 1}, "model": "item/customblocks/painter" },
-		{ "predicate": { "custom_model_data": 2}, "model": "item/customblocks/extractor" },
-		{ "predicate": { "custom_model_data": 3}, "model": "item/customblocks/pendulumclock" }		
+		{ "predicate": { "custom_model_data": 2}, "model": "item/customblocks/extractor" }	
 	]
 }
