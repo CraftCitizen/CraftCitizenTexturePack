@@ -267,9 +267,9 @@
 		{ "predicate": { "custom_model_data": 54}, "model": "item/customblocks/tablecloth" },
 		{ "predicate": { "custom_model_data": 55}, "model": "item/customblocks/ladder1" },
         { "predicate": { "custom_model_data": 56}, "model": "modelengine:sign/torso" },
-        { "predicate": { "custom_model_data": 57}, "model": "modelengine:signstore/store" },
-        { "predicate": { "custom_model_data": 58}, "model": "modelengine:signplants/plants" },	
-        { "predicate": { "custom_model_data": 59}, "model": "modelengine:signsword/sword" }		
+        { "predicate": { "custom_model_data": 57}, "model": "modelengine:signstore/torso" },
+        { "predicate": { "custom_model_data": 58}, "model": "modelengine:signplant/torso" },
+        { "predicate": { "custom_model_data": 59}, "model": "modelengine:signsword/torso" }		
   ],
   "textures": {
     "layer0": "minecraft:item/leather_horse_armor"
