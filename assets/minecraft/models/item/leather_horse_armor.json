@@ -270,7 +270,8 @@
         { "predicate": { "custom_model_data": 57}, "model": "modelengine:signstore/torso" },
         { "predicate": { "custom_model_data": 58}, "model": "modelengine:signplant/torso" },
         { "predicate": { "custom_model_data": 59}, "model": "modelengine:signsword/torso" },
-        { "predicate": { "custom_model_data": 60}, "model": "modelengine:signhorse/torso" }		
+        { "predicate": { "custom_model_data": 60}, "model": "modelengine:signhorse/torso" },
+        { "predicate": { "custom_model_data": 61}, "model": "modelengine:signpots/torso" }			
   ],
   "textures": {
     "layer0": "minecraft:item/leather_horse_armor"

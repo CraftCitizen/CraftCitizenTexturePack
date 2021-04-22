@@ -20,6 +20,8 @@
 		{ "predicate": { "custom_model_data": 16}, "model": "item/customblocks/extractor" },
 		{ "predicate": { "custom_model_data": 17}, "model": "item/customblocks/bench" },
 		{ "predicate": { "custom_model_data": 18}, "model": "item/blueprints/table1" },
-		{ "predicate": { "custom_model_data": 19}, "model": "item/blueprints/locked_item"}
+		{ "predicate": { "custom_model_data": 19}, "model": "item/blueprints/locked_item" },
+		{ "predicate": { "custom_model_data": 20}, "model": "item/customblocks/counter" },
+		{ "predicate": { "custom_model_data": 21}, "model": "item/customblocks/signpost" }		
 	]
 }
