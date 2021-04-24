@@ -18,6 +18,7 @@
 		{ "predicate": { "custom_model_data": 104}, "model": "item/vote/senpaichip2" },
 		{ "predicate": { "custom_model_data": 105}, "model": "item/vote/senpaichip3" },
 		{ "predicate": { "custom_model_data": 106}, "model": "item/vote/scarab" },
-		{ "predicate": { "custom_model_data": 107}, "model": "item/vote/coin1" }		
+		{ "predicate": { "custom_model_data": 107}, "model": "item/vote/coin1" },
+		{ "predicate": { "custom_model_data": 108}, "model": "item/vote/scrolls2" }		
 	]
 }

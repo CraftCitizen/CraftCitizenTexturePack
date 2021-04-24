@@ -50,6 +50,7 @@
 		{ "predicate": { "custom_model_data": 67}, "model": "item/netheritesword/seasononec" },
 		{ "predicate": { "custom_model_data": 68}, "model": "item/netheritesword/easternsword1" },
 		{ "predicate": { "custom_model_data": 69}, "model": "item/netheritesword/easternsword2" },
-		{ "predicate": { "custom_model_data": 70}, "model": "item/netheritesword/vnethersword1" }		
+		{ "predicate": { "custom_model_data": 70}, "model": "item/netheritesword/vnethersword1" },
+		{ "predicate": { "custom_model_data": 71}, "model": "item/netheritesword/zhuludungeon" }		
 	]
 }
