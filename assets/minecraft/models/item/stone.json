@@ -23,6 +23,6 @@
 		{ "predicate": { "custom_model_data": 19}, "model": "item/blueprints/locked_item" },
 		{ "predicate": { "custom_model_data": 20}, "model": "item/customblocks/counter" },
 		{ "predicate": { "custom_model_data": 21}, "model": "item/customblocks/signpost" },
-		{ "predicate": { "custom_model_data": 21}, "model": "item/customblocks/table2" }		
+		{ "predicate": { "custom_model_data": 22}, "model": "item/customblocks/table2" }		
 	]
 }
