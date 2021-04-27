@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by MrZoom31 with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"iron_sword": "items/iron_sword",
+		"iron_sword": "items/swords2",
 		"particle": "items/cc2"
 	},
 	"elements": [ 	 
