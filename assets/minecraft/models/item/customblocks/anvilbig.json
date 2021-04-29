@@ -1,0 +1,76 @@
+{
+	"__comment": "Designed by Pashjn for CraftCitizen with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"particle": "block/anvil_top",
+		"texture": "block/anvil",
+		"texture1": "block/anvil_top"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Box1",
+			"from": [ -7, 2, -8 ],
+			"to": [ 23, 7, 23.5 ],
+			"faces": {
+				"down": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
+				"up": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
+				"north": { "uv": [ 0, 9, 16, 14 ], "texture": "#texture" },
+				"south": { "uv": [ 0, 9, 16, 14 ], "texture": "#texture" },
+				"west": { "uv": [ 0, 9, 16, 14 ], "texture": "#texture" },
+				"east": { "uv": [ 0, 9, 16, 14 ], "texture": "#texture" }
+			}
+		},
+		{
+			"__comment": "Box2",
+			"from": [ -5, 7, -6 ],
+			"to": [ 21, 13, 21.5 ],
+			"faces": {
+				"down": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
+				"up": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
+				"north": { "uv": [ 0, 3, 16, 9 ], "texture": "#texture" },
+				"south": { "uv": [ 0, 3, 16, 9 ], "texture": "#texture" },
+				"west": { "uv": [ 0, 3, 16, 9 ], "texture": "#texture" },
+				"east": { "uv": [ 0, 3, 16, 9 ], "texture": "#texture" }
+			}
+		},
+		{
+			"__comment": "Box3",
+			"from": [ -8.5, 13, -9.5 ],
+			"to": [ 24.5, 16, 25 ],
+			"faces": {
+				"down": { "uv": [ 3.5, 0, 12.5, 16 ], "texture": "#texture1" },
+				"up": { "uv": [ 3, 0, 12.5, 16 ], "texture": "#texture1" },
+				"north": { "uv": [ 3, 0, 12.5, 16 ], "texture": "#texture1", "rotation": 90 },
+				"south": { "uv": [ 3, 0, 13, 16 ], "texture": "#texture1", "rotation": 90 },
+				"west": { "uv": [ 4, 0, 13, 16 ], "texture": "#texture1", "rotation": 270 },
+				"east": { "uv": [ 3.5, 0, 13, 16 ], "texture": "#texture1", "rotation": 270 }
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"scale":  [ 0.4, 0.4, 0.4 ]
+		},
+		"thirdperson_lefthand": {
+			"scale":  [ 0.4, 0.4, 0.4 ]
+		},
+		"firstperson_righthand": {
+			"scale":  [ 0.4, 0.4, 0.4 ]
+		},
+		"firstperson_lefthand": {
+			"scale":  [ 0.4, 0.4, 0.4 ]
+		},
+		"gui": {
+			"rotation":  [ 30, 225, 0 ],
+			"scale":  [ 0.4, 0.4, 0.4 ]
+		},
+		"ground": {
+			"rotation":  [ 38, 0, 0 ],
+			"scale":  [ 0.4, 0.4, 0.4 ]
+		},
+		"fixed": {
+			"rotation":  [ -90, 0, 0 ],
+			"translation":  [ 1.3969, -17.39, -18.08 ],
+			"scale":  [ 3.4, 3.0303, 3.4 ]
+		}
+	}
+}
