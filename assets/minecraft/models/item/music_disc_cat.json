@@ -10,6 +10,13 @@
 		{ "predicate": { "custom_model_data": 4}, "model": "item/itemparts/vampiric_blood" },
 		{ "predicate": { "custom_model_data": 5}, "model": "item/itemparts/darkstone" },
 		{ "predicate": { "custom_model_data": 6}, "model": "item/itemparts/vampiric_skull" },
-		{ "predicate": { "custom_model_data": 16}, "model": "item/vote/vampiric_goblet" }
+		{ "predicate": { "custom_model_data": 16}, "model": "item/vote/vampiric_goblet" },
+		{ "predicate": { "custom_model_data": 17}, "model": "item/vote/trophys2_50" },
+		{ "predicate": { "custom_model_data": 18}, "model": "item/vote/trophys2_100" },
+		{ "predicate": { "custom_model_data": 19}, "model": "item/vote/trophys2_200" },
+		{ "predicate": { "custom_model_data": 20}, "model": "item/vote/trophys2_1000" },
+		{ "predicate": { "custom_model_data": 21}, "model": "item/vote/trophys2_2000" },
+		{ "predicate": { "custom_model_data": 22}, "model": "item/vote/trophys2_5000" },
+		{ "predicate": { "custom_model_data": 23}, "model": "item/vote/trophys2_reward" }		
 	]
 }
