@@ -272,7 +272,8 @@
         { "predicate": { "custom_model_data": 59}, "model": "modelengine:signsword/torso" },
         { "predicate": { "custom_model_data": 60}, "model": "modelengine:signhorse/torso" },
         { "predicate": { "custom_model_data": 61}, "model": "modelengine:signpots/torso" },
-        { "predicate": { "custom_model_data": 62}, "model": "modelengine:signanvil/torso" }		
+        { "predicate": { "custom_model_data": 62}, "model": "modelengine:signanvil/torso" },
+        { "predicate": { "custom_model_data": 63}, "model": "item/customblocks/rockingchair1" }		
   ],
   "textures": {
     "layer0": "minecraft:item/leather_horse_armor"
