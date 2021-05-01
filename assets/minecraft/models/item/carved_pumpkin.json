@@ -27,6 +27,8 @@
 		{ "predicate": { "custom_model_data": 20}, "model": "item/pumpkin/pharaohhat2" },
 		{ "predicate": { "custom_model_data": 21}, "model": "item/pumpkin/tutbeard" },
 		{ "predicate": { "custom_model_data": 22}, "model": "item/pumpkin/silvercrown" },
-		{ "predicate": { "custom_model_data": 23}, "model": "item/pumpkin/glasses1" }		
+		{ "predicate": { "custom_model_data": 23}, "model": "item/pumpkin/glasses1" },
+		{ "predicate": { "custom_model_data": 24}, "model": "littleroom_deadbeard:item/corsair"},
+		{ "predicate": { "custom_model_data": 25}, "model": "littleroom_deadbeard:item/bandana"}		
 	]
 }

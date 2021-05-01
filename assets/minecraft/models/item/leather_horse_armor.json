@@ -273,7 +273,193 @@
         { "predicate": { "custom_model_data": 60}, "model": "modelengine:signhorse/torso" },
         { "predicate": { "custom_model_data": 61}, "model": "modelengine:signpots/torso" },
         { "predicate": { "custom_model_data": 62}, "model": "modelengine:signanvil/torso" },
-        { "predicate": { "custom_model_data": 63}, "model": "item/customblocks/rockingchair1" }		
+        { "predicate": { "custom_model_data": 63}, "model": "item/customblocks/rockingchair1" },
+	    {
+			"predicate": {
+				"custom_model_data": 64
+			},
+			"model": "modelengine:birdman/leftleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 65
+			},
+			"model": "modelengine:birdman/rightleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 66
+			},
+			"model": "modelengine:birdman/leftwing"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 67
+			},
+			"model": "modelengine:birdman/rightwing"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 68
+			},
+			"model": "modelengine:birdman/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 69
+			},
+			"model": "modelengine:birdman/birdman"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 70
+			},
+			"model": "modelengine:deadbeard/hook"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 71
+			},
+			"model": "modelengine:deadbeard/rightarm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72
+			},
+			"model": "modelengine:deadbeard/empty"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 73
+			},
+			"model": "modelengine:deadbeard/flintlock"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 74
+			},
+			"model": "modelengine:deadbeard/tnt"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 75
+			},
+			"model": "modelengine:deadbeard/lefthand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 76
+			},
+			"model": "modelengine:deadbeard/leftarm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 77
+			},
+			"model": "modelengine:deadbeard/rightfoot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 78
+			},
+			"model": "modelengine:deadbeard/rightleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 79
+			},
+			"model": "modelengine:deadbeard/leftleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 80
+			},
+			"model": "modelengine:deadbeard/beard1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 81
+			},
+			"model": "modelengine:deadbeard/beard2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 82
+			},
+			"model": "modelengine:deadbeard/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 83
+			},
+			"model": "modelengine:deadbeard/deadbeard"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 84
+			},
+			"model": "modelengine:tnt/tnt"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 85
+			},
+			"model": "modelengine:undeadcrew/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 86
+			},
+			"model": "modelengine:undeadcrew/lefthand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 87
+			},
+			"model": "modelengine:undeadcrew/leftarm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 88
+			},
+			"model": "modelengine:undeadcrew/leftfoot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 89
+			},
+			"model": "modelengine:undeadcrew/leftleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 90
+			},
+			"model": "modelengine:undeadcrew/rightfoot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 91
+			},
+			"model": "modelengine:undeadcrew/rightleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 92
+			},
+			"model": "modelengine:undeadcrew/righthand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 93
+			},
+			"model": "modelengine:undeadcrew/rightarm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 94
+			},
+			"model": "modelengine:undeadcrew/undeadcrew"
+		}		
   ],
   "textures": {
     "layer0": "minecraft:item/leather_horse_armor"
