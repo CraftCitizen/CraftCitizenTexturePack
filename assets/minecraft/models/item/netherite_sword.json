@@ -52,6 +52,8 @@
 		{ "predicate": { "custom_model_data": 69}, "model": "item/netheritesword/easternsword2" },
 		{ "predicate": { "custom_model_data": 70}, "model": "item/netheritesword/vnethersword1" },
 		{ "predicate": { "custom_model_data": 71}, "model": "item/netheritesword/zhuludungeon" },
-		{ "predicate": { "custom_model_data": 72}, "model": "item/netheritesword/swords2" }		
+		{ "predicate": { "custom_model_data": 72}, "model": "item/netheritesword/swords2" },
+		{ "predicate": { "custom_model_data": 73}, "model": "item/pots/beer1" },
+		{ "predicate": { "custom_model_data": 74}, "model": "item/netheritesword/hobbitelfsword" }		
 	]
 }

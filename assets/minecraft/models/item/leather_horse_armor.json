@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:item/generated",
     "overrides": [
-		{ "predicate": { "custom_model_data": 1}, "model": "block/tripwire/flower_h" },
+		{ "predicate": { "custom_model_data": 1}, "model": "item/blueprints/chair1" },
 		{ "predicate": { "custom_model_data": 2}, "model": "item/blueprints/chair1" },
 		{ "predicate": { "custom_model_data": 3}, "model": "item/blueprints/chair2" },
 		{ "predicate": { "custom_model_data": 4}, "model": "item/customblocks/awning" },

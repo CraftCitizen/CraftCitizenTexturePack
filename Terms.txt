@@ -1,0 +1,33 @@
+﻿
+
+=================================== CraftCitizen Resource Pack  =============================================
+
+
+	      This is a Resource Pack for Minecraft a game by Mojang created for the Survival Server craftcitizen.net
+
+			       Creative Commons Attribution-NonCommercial 4.0 International License.
+					https://creativecommons.org/licenses/by-nc-nd/3.0/us/
+
+
+
+=========================================== THE TERMS OF USE  ========================================================
+
+
+All the .jsons tagged with the names Elo106, Pashjn, Sizzle, StevenKing,Borin and Cornel are CraftCitizen property.
+The use, modification or any kind of traffic of these files are forbidden without our agreement. We will take any kind of legislative action if necessary.
+
+
+
+===============================================================================================================================
+
+						   Credits: Pashjn and Elo106 - craftcitizen.net
+
+						      Version: For 1.16.3+
+							
+							    Links:
+
+				                     www.craftcitizen.net
+
+===============================================================================================================================
+
+				Don't hesitate to contact us for any questions pashjn@yahoo.de
