@@ -1,0 +1,17 @@
+{
+   "littleroom.duck.death":{
+		 "sounds": [
+			"littleroom/duck/death"
+		 ]
+	},
+   "littleroom.duck.hurt":{
+		 "sounds": [
+			"littleroom/duck/hurt"
+		 ]
+	},
+   "littleroom.duck.idle":{
+		 "sounds": [
+			"littleroom/duck/idle"
+		 ]
+	}
+}
