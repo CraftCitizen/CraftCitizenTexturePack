@@ -54,6 +54,7 @@
 		{ "predicate": { "custom_model_data": 71}, "model": "item/netheritesword/zhuludungeon" },
 		{ "predicate": { "custom_model_data": 72}, "model": "item/netheritesword/swords2" },
 		{ "predicate": { "custom_model_data": 73}, "model": "item/pots/beer1" },
-		{ "predicate": { "custom_model_data": 74}, "model": "item/netheritesword/hobbitelfsword" }		
+		{ "predicate": { "custom_model_data": 74}, "model": "item/netheritesword/hobbitelfsword" },
+		{ "predicate": { "custom_model_data": 75}, "model": "item/shield/vshield2" }		
 	]
 }

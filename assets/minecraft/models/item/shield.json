@@ -226,6 +226,36 @@
                 "custom_model_data": 12
             },
             "model": "item/shield/season2shield1"			
+        },
+			{
+            "predicate": {
+				"blocking": 0,
+                "custom_model_data": 13
+				
+            },
+            "model": "item/shield/vshield1"
+        },
+		        {
+            "predicate": {
+				"blocking": 1,
+                "custom_model_data": 13
+            },
+            "model": "item/shield/vshield10"			
+        },
+			{
+            "predicate": {
+				"blocking": 0,
+                "custom_model_data": 14
+				
+            },
+            "model": "item/shield/vshield2"
+        },
+		        {
+            "predicate": {
+				"blocking": 1,
+                "custom_model_data": 14
+            },
+            "model": "item/shield/vshield20"			
         }		
     ]
 }
