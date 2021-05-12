@@ -867,7 +867,20 @@
 				"custom_model_data": 162
 			},
 			"model": "modelengine:spineffect/swingeffect"
-		}		
+		},
+		{
+			"predicate": {
+				"custom_model_data": 163
+			},
+			"model": "modelengine:signshield/torso"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 164
+			},
+			"model": "modelengine:signbow/torso"
+		},		
+        { "predicate": { "custom_model_data": 165}, "model": "item/customblocks/silvergobletfilled" }		
   ],
   "textures": {
     "layer0": "minecraft:item/leather_horse_armor"

@@ -174,6 +174,72 @@
 				"custom_model_data": 6
 			},
 			"model": "item/bow/easternbow13"
-		}		
+		},
+		{ "predicate": { "custom_model_data": 7}, "model": "item/bow/vbow1" },
+		{
+			"predicate": {
+				"custom_model_data": 7,
+				"pulling": 1
+			},
+			"model": "item/bow/vbow10"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 0.65,
+				"custom_model_data": 7
+			},
+			"model": "item/bow/vbow11"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 0.9,
+				"custom_model_data": 7
+			},
+			"model": "item/bow/vbow12"
+		},
+		{ "predicate": { "custom_model_data": 8}, "model": "item/bow/vbow2" },
+		{
+			"predicate": {
+				"custom_model_data": 8,
+				"pulling": 1
+			},
+			"model": "item/bow/vbow20"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 0.65,
+				"custom_model_data": 8
+			},
+			"model": "item/bow/vbow21"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 0.9,
+				"custom_model_data": 8
+			},
+			"model": "item/bow/vbow22"
+		},
+		{ "predicate": { "custom_model_data": 9}, "model": "item/bow/vbow3" },
+		{
+			"predicate": {
+				"custom_model_data": 9,
+				"pulling": 1
+			},
+			"model": "item/bow/vbow30"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 0.65,
+				"custom_model_data": 9
+			},
+			"model": "item/bow/vbow31"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 0.9,
+				"custom_model_data": 9
+			},
+			"model": "item/bow/vbow32"
+		}			
 	]
 }

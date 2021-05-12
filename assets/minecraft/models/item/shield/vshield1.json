@@ -116,6 +116,7 @@
 			"__comment": "Box9",
 			"from": [ 3, -0.51, 4.5 ],
 			"to": [ 7, -0.509, 16 ],
+			"rotation": { "origin": [ 3, -0.5, 4.5 ], "axis": "y", "angle": 45 },
 			"faces": {
 				"down": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture1" },
 				"up": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture1" },
@@ -193,12 +194,12 @@
 			"scale":  [ 1.5, 1.5, 1.5 ]
 		},
 		"firstperson_righthand": {
-			"rotation":  [ -6, -17, -98 ],
-			"translation":  [ -21.56, -1.39, -4.173 ]
+			"rotation":  [ -6, -159, -98 ],
+			"translation":  [ 3.4825, -0.694, -4.173 ]
 		},
 		"firstperson_lefthand": {
-			"rotation":  [ -6, -17, -98 ],
-			"translation":  [ -21.56, -1.39, -4.173 ]
+			"rotation":  [ -6, -159, -98 ],
+			"translation":  [ 3.4825, -0.694, -4.173 ]
 		},
 		"gui": {
 			"rotation":  [ -59, 55, -21 ],
