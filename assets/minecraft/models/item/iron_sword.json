@@ -7,6 +7,8 @@
 		{ "predicate": { "custom_model_data": 1}, "model": "item/ironsword/steelsword" },
 		{ "predicate": { "custom_model_data": 2}, "model": "item/ironsword/steelsworddumb" },
 		{ "predicate": { "custom_model_data": 3}, "model": "item/ironsword/vironsword1" },
-		{ "predicate": { "custom_model_data": 4}, "model": "item/ironsword/vironsword2" }		
+		{ "predicate": { "custom_model_data": 4}, "model": "item/ironsword/vironsword2" },
+		{"predicate": {"custom_model_data":5}, "model": "item/halloween/frankenstein_arm"},
+		{"predicate": {"custom_model_data":6}, "model": "item/halloween/frankenstein_leg"}		
 	]
 }

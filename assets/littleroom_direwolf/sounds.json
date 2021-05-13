@@ -1,0 +1,27 @@
+{
+   "littleroom.direwolf.howl":{
+		 "sounds": [
+			"littleroom/direwolf/howl"
+		 ]
+	},
+   "littleroom.direwolf.bite":{
+		 "sounds": [
+			"littleroom/direwolf/bite"
+		 ]
+	},
+   "littleroom.direwolf.death":{
+		 "sounds": [
+			"littleroom/direwolf/death"
+		 ]
+	},
+   "littleroom.direwolf.slash":{
+		 "sounds": [
+			"littleroom/direwolf/slash"
+		 ]
+	},
+   "littleroom.direwolf.idle":{
+		 "sounds": [
+			"littleroom/direwolf/idle"
+		 ]
+	}
+}

@@ -1,0 +1,15 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/paper"
+    },
+    "overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "littleroom:item/dragonfly_wing1"},
+		{"predicate": {"custom_model_data":2}, "model": "littleroom:item/dragonfly_wing2"},
+		{"predicate": {"custom_model_data":3}, "model": "littleroom:item/dragonfly_wing3"},
+		{"predicate": {"custom_model_data":4}, "model": "littleroom:item/dragonfly_wing4"},
+		{"predicate": {"custom_model_data":5}, "model": "littleroom:item/flamingo_feather"},
+		{"predicate": {"custom_model_data":6}, "model": "littleroom:item/pearl"}
+
+        ]
+}

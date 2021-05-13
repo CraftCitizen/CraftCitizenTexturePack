@@ -30,6 +30,11 @@
 		{ "predicate": { "custom_model_data": 23}, "model": "item/pumpkin/glasses1" },
 		{ "predicate": { "custom_model_data": 24}, "model": "littleroom_deadbeard:item/corsair"},
 		{ "predicate": { "custom_model_data": 25}, "model": "littleroom_deadbeard:item/bandana"},
-		{ "predicate": { "custom_model_data": 26}, "model": "littleroom:item/goblincrown"}		
+		{ "predicate": { "custom_model_data": 26}, "model": "littleroom:item/goblincrown"},
+		{ "predicate": { "custom_model_data": 27}, "model": "littleroom_direwolf:items/direwolfhead"},
+		{"predicate": {"custom_model_data":28}, "model": "item/halloween/frankenstein_mask"},
+		{"predicate": {"custom_model_data":29}, "model": "item/halloween/mummy_mask"},
+		{"predicate": {"custom_model_data":30}, "model": "item/halloween/vamp_mask"},
+		{"predicate": {"custom_model_data":31}, "model": "littleroom_duckhat:duck_hat"}		
 	]
 }

@@ -25,6 +25,7 @@
 		{ "predicate": { "custom_model_data": 21}, "model": "item/customblocks/signpost" },
 		{ "predicate": { "custom_model_data": 22}, "model": "item/customblocks/table2" },
 		{ "predicate": { "custom_model_data": 23}, "model": "item/customblocks/signpostsimple" },
-		{ "predicate": { "custom_model_data": 24}, "model": "item/customblocks/anvilbig" }		
+		{ "predicate": { "custom_model_data": 24}, "model": "item/customblocks/anvilbig" },
+		{ "predicate": { "custom_model_data": 25}, "model": "item/customblocks/piano" }		
 	]
 }

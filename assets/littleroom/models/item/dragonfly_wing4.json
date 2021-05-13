@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "littleroom:item/dragonfly_wing4"
+    }
+}

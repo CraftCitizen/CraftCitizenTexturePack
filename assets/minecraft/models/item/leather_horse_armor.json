@@ -880,7 +880,1225 @@
 			},
 			"model": "modelengine:signbow/torso"
 		},		
-        { "predicate": { "custom_model_data": 165}, "model": "item/customblocks/silvergobletfilled" }		
+        { "predicate": { "custom_model_data": 165}, "model": "item/customblocks/silvergobletfilled" },
+		{
+			"predicate": {
+				"custom_model_data": 166
+			},
+			"model": "modelengine:banshee/banshee"
+		},
+		{
+			"predicate": {
+				"custom_model_data":167
+			},
+			"model": "modelengine:bloodthirst/blood"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 168
+			},
+			"model": "modelengine:broom/broom"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 169
+			},
+			"model": "modelengine:cacti/cacti"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 170
+			},
+			"model": "modelengine:candycauldron/candy"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 171
+			},
+			"model": "modelengine:candycauldron/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 172
+			},
+			"model": "modelengine:coffin/bone4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 173
+			},
+			"model": "modelengine:coffin/bone3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 174
+			},
+			"model": "modelengine:coffin/bone2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 175
+			},
+			"model": "modelengine:coffin/bone"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 176
+			},
+			"model": "modelengine:coffin/lid"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 177
+			},
+			"model": "modelengine:coffin/bone5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 178
+			},
+			"model": "modelengine:coffin/bone6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 179
+			},
+			"model": "modelengine:coffin/bone7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 180
+			},
+			"model": "modelengine:coffin/bone8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 181
+			},
+			"model": "modelengine:coffin/casket"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 182
+			},
+			"model": "modelengine:direwolf/rbfoot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 183
+			},
+			"model": "modelengine:direwolf/rthigh"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 184
+			},
+			"model": "modelengine:direwolf/rbfoot2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 185
+			},
+			"model": "modelengine:direwolf/rthigh2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 186
+			},
+			"model": "modelengine:direwolf/tailtip"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 187
+			},
+			"model": "modelengine:direwolf/tail2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 188
+			},
+			"model": "modelengine:direwolf/tail1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 189
+			},
+			"model": "modelengine:direwolf/tailbase"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 190
+			},
+			"model": "modelengine:direwolf/rffoot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 191
+			},
+			"model": "modelengine:direwolf/rfshoulder"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 192
+			},
+			"model": "modelengine:direwolf/rffoot2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 193
+			},
+			"model": "modelengine:direwolf/rfshoulder2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 194
+			},
+			"model": "modelengine:direwolf/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 195
+			},
+			"model": "modelengine:direwolf/shoulders"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 196
+			},
+			"model": "modelengine:direwolf/back"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 197
+			},
+			"model": "modelengine:direwolf_desert/rbfoot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 198
+			},
+			"model": "modelengine:direwolf_desert/rthigh"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 199
+			},
+			"model": "modelengine:direwolf_desert/rbfoot2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 200
+			},
+			"model": "modelengine:direwolf_desert/rthigh2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 201
+			},
+			"model": "modelengine:direwolf_desert/tailtip"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 202
+			},
+			"model": "modelengine:direwolf_desert/tail2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 203
+			},
+			"model": "modelengine:direwolf_desert/tail1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 204
+			},
+			"model": "modelengine:direwolf_desert/tailbase"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 205
+			},
+			"model": "modelengine:direwolf_desert/rffoot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 206
+			},
+			"model": "modelengine:direwolf_desert/rfshoulder"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 207
+			},
+			"model": "modelengine:direwolf_desert/rffoot2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 208
+			},
+			"model": "modelengine:direwolf_desert/rfshoulder2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 209
+			},
+			"model": "modelengine:direwolf_desert/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 210
+			},
+			"model": "modelengine:direwolf_desert/shoulders"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 211
+			},
+			"model": "modelengine:direwolf_desert/back"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 212
+			},
+			"model": "modelengine:direwolf_taiga/rbfoot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 213
+			},
+			"model": "modelengine:direwolf_taiga/rthigh"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 214
+			},
+			"model": "modelengine:direwolf_taiga/rbfoot2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 215
+			},
+			"model": "modelengine:direwolf_taiga/rthigh2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 216
+			},
+			"model": "modelengine:direwolf_taiga/tailtip"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 217
+			},
+			"model": "modelengine:direwolf_taiga/tail2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 218
+			},
+			"model": "modelengine:direwolf_taiga/tail1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 219
+			},
+			"model": "modelengine:direwolf_taiga/tailbase"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 220
+			},
+			"model": "modelengine:direwolf_taiga/rffoot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 221
+			},
+			"model": "modelengine:direwolf_taiga/rfshoulder"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 222
+			},
+			"model": "modelengine:direwolf_taiga/rffoot2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 223
+			},
+			"model": "modelengine:direwolf_taiga/rfshoulder2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 224
+			},
+			"model": "modelengine:direwolf_taiga/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 225
+			},
+			"model": "modelengine:direwolf_taiga/shoulders"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 226
+			},
+			"model": "modelengine:direwolf_taiga/back"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 228
+			},
+			"model": "modelengine:direwolfbite/bottomjaw"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 229
+			},
+			"model": "modelengine:direwolfbite/topjaw"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 230
+			},
+			"model": "modelengine:direwolfslash/slash"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 231
+			},
+			"model": "modelengine:dragonfly/leftwing"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 232
+			},
+			"model": "modelengine:dragonfly/rightwing"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 233
+			},
+			"model": "modelengine:dragonfly/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 234
+			},
+			"model": "modelengine:dragonfly/leftleg1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 235
+			},
+			"model": "modelengine:dragonfly/rightleg1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 236
+			},
+			"model": "modelengine:dragonfly/leftleg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 237
+			},
+			"model": "modelengine:dragonfly/rightleg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 238
+			},
+			"model": "modelengine:dragonfly/dragonfly"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 239
+			},
+			"model": "modelengine:dragonfly2/leftwing"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 240
+			},
+			"model": "modelengine:dragonfly2/rightwing"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 241
+			},
+			"model": "modelengine:dragonfly2/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 242
+			},
+			"model": "modelengine:dragonfly2/leftleg1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 243
+			},
+			"model": "modelengine:dragonfly2/rightleg1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 244
+			},
+			"model": "modelengine:dragonfly2/leftleg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 245
+			},
+			"model": "modelengine:dragonfly2/rightleg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 246
+			},
+			"model": "modelengine:dragonfly2/dragonfly"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 247
+			},
+			"model": "modelengine:dragonfly3/leftwing"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 248
+			},
+			"model": "modelengine:dragonfly3/rightwing"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 249
+			},
+			"model": "modelengine:dragonfly3/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 250
+			},
+			"model": "modelengine:dragonfly3/leftleg1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 251
+			},
+			"model": "modelengine:dragonfly3/rightleg1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 252
+			},
+			"model": "modelengine:dragonfly3/leftleg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 253
+			},
+			"model": "modelengine:dragonfly3/rightleg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 254
+			},
+			"model": "modelengine:dragonfly3/dragonfly"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 255
+			},
+			"model": "modelengine:dragonfly4/leftwing"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 256
+			},
+			"model": "modelengine:dragonfly4/rightwing"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 257
+			},
+			"model": "modelengine:dragonfly4/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 258
+			},
+			"model": "modelengine:dragonfly4/leftleg1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 259
+			},
+			"model": "modelengine:dragonfly4/rightleg1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 260
+			},
+			"model": "modelengine:dragonfly4/leftleg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 261
+			},
+			"model": "modelengine:dragonfly4/rightleg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 262
+			},
+			"model": "modelengine:dragonfly4/dragonfly"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 263
+			},
+			"model": "modelengine:flamingo/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 264
+			},
+			"model": "modelengine:flamingo/rightwing"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 265
+			},
+			"model": "modelengine:flamingo/leftwing"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 266
+			},
+			"model": "modelengine:flamingo/leftfoot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 267
+			},
+			"model": "modelengine:flamingo/leftleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 268
+			},
+			"model": "modelengine:flamingo/rightfoot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 269
+			},
+			"model": "modelengine:flamingo/rightleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 270
+			},
+			"model": "modelengine:flamingo/flamingo"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 271
+			},
+			"model": "modelengine:flamingo_baby/rightwing"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 272
+			},
+			"model": "modelengine:flamingo_baby/rightleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 273
+			},
+			"model": "modelengine:flamingo_baby/leftleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 274
+			},
+			"model": "modelengine:flamingo_baby/leftwing"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 275
+			},
+			"model": "modelengine:flamingo_baby/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 276
+			},
+			"model": "modelengine:flamingo_baby/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 277
+			},
+			"model": "modelengine:frankenstein/rightforearm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 278
+			},
+			"model": "modelengine:frankenstein/rightarm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 279
+			},
+			"model": "modelengine:frankenstein/leftforearm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 280
+			},
+			"model": "modelengine:frankenstein/leftarm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 281
+			},
+			"model": "modelengine:frankenstein/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 282
+			},
+			"model": "modelengine:frankenstein/rightcalf"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 283
+			},
+			"model": "modelengine:frankenstein/rightleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 284
+			},
+			"model": "modelengine:frankenstein/leftcalf"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 285
+			},
+			"model": "modelengine:frankenstein/leftleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 286
+			},
+			"model": "modelengine:frankenstein/torso"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 287
+			},
+			"model": "modelengine:giantclam/pearl"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 288
+			},
+			"model": "modelengine:giantclam/top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 289
+			},
+			"model": "modelengine:giantclam/bottom"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 290
+			},
+			"model": "modelengine:hatduck/leftleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 291
+			},
+			"model": "modelengine:hatduck/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 292
+			},
+			"model": "modelengine:hatduck/rightleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 293
+			},
+			"model": "modelengine:hatduck/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 294
+			},
+			"model": "modelengine:hornytoad/frontleftarm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 295
+			},
+			"model": "modelengine:hornytoad/frontrightarm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 296
+			},
+			"model": "modelengine:hornytoad/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 297
+			},
+			"model": "modelengine:hornytoad/backleftarm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 298
+			},
+			"model": "modelengine:hornytoad/backrightarm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 299
+			},
+			"model": "modelengine:hornytoad/hornytoad"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 300
+			},
+			"model": "modelengine:mummy/leftfoot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 301
+			},
+			"model": "modelengine:mummy/leftcalf"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 302
+			},
+			"model": "modelengine:mummy/leftleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 303
+			},
+			"model": "modelengine:mummy/rightfoot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 304
+			},
+			"model": "modelengine:mummy/rightcalf"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 305
+			},
+			"model": "modelengine:mummy/rightleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 306
+			},
+			"model": "modelengine:mummy/lefthand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 307
+			},
+			"model": "modelengine:mummy/leftforearm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 308
+			},
+			"model": "modelengine:mummy/leftarm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 309
+			},
+			"model": "modelengine:mummy/righthand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 310
+			},
+			"model": "modelengine:mummy/rightforearm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 311
+			},
+			"model": "modelengine:mummy/rightarm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 312
+			},
+			"model": "modelengine:mummy/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 313
+			},
+			"model": "modelengine:mummy/torso"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 314
+			},
+			"model": "modelengine:rat/lleg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 315
+			},
+			"model": "modelengine:rat/lleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 316
+			},
+			"model": "modelengine:rat/tail"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 317
+			},
+			"model": "modelengine:rat/lleg3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 318
+			},
+			"model": "modelengine:rat/lleg4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 319
+			},
+			"model": "modelengine:rat/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 320
+			},
+			"model": "modelengine:shadowwolf/rbfoot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 321
+			},
+			"model": "modelengine:shadowwolf/rthigh"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 322
+			},
+			"model": "modelengine:shadowwolf/rbfoot2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 323
+			},
+			"model": "modelengine:shadowwolf/rthigh2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 324
+			},
+			"model": "modelengine:shadowwolf/tailtip"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 325
+			},
+			"model": "modelengine:shadowwolf/tail2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 326
+			},
+			"model": "modelengine:shadowwolf/tail1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 327
+			},
+			"model": "modelengine:shadowwolf/tailbase"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 328
+			},
+			"model": "modelengine:shadowwolf/rffoot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 329
+			},
+			"model": "modelengine:shadowwolf/rfshoulder"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 330
+			},
+			"model": "modelengine:shadowwolf/rffoot2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 331
+			},
+			"model": "modelengine:shadowwolf/rfshoulder2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 332
+			},
+			"model": "modelengine:shadowwolf/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 333
+			},
+			"model": "modelengine:shadowwolf/shoulders"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 334
+			},
+			"model": "modelengine:shadowwolf/back"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 335
+			},
+			"model": "modelengine:snappingturtle/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 336
+			},
+			"model": "modelengine:snappingturtle/leftleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 337
+			},
+			"model": "modelengine:snappingturtle/rightleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 338
+			},
+			"model": "modelengine:snappingturtle/leftleg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 339
+			},
+			"model": "modelengine:snappingturtle/rightleg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 340
+			},
+			"model": "modelengine:snappingturtle/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 341
+			},
+			"model": "modelengine:trampoline/trampoline"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 342
+			},
+			"model": "modelengine:tumbleweed/tumbleweed"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 343
+			},
+			"model": "modelengine:undeadminer/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 344
+			},
+			"model": "modelengine:undeadminer/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 345
+			},
+			"model": "modelengine:undeadminer/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 346
+			},
+			"model": "modelengine:undeadminer/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 347
+			},
+			"model": "modelengine:undeadminer/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 348
+			},
+			"model": "modelengine:undeadminer/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 349
+			},
+			"model": "modelengine:vamp/lefthand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 350
+			},
+			"model": "modelengine:vamp/leftforearm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 351
+			},
+			"model": "modelengine:vamp/leftbicep"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 352
+			},
+			"model": "modelengine:vamp/righthand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 353
+			},
+			"model": "modelengine:vamp/rightforearm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 354
+			},
+			"model": "modelengine:vamp/rightbicep"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 355
+			},
+			"model": "modelengine:vamp/leftfoot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 356
+			},
+			"model": "modelengine:vamp/leftcalf"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 357
+			},
+			"model": "modelengine:vamp/leftthigh"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 358
+			},
+			"model": "modelengine:vamp/rightfoot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 359
+			},
+			"model": "modelengine:vamp/rightcalf"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 360
+			},
+			"model": "modelengine:vamp/rightthigh"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 361
+			},
+			"model": "modelengine:vamp/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 362
+			},
+			"model": "modelengine:vamp/torso"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 363
+			},
+			"model": "modelengine:vulture/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 364
+			},
+			"model": "modelengine:vulture/rightleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 365
+			},
+			"model": "modelengine:vulture/leftleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 366
+			},
+			"model": "modelengine:vulture/rightwing"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 367
+			},
+			"model": "modelengine:vulture/leftwing3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 368
+			},
+			"model": "modelengine:vulture/vulture"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 369
+			},
+			"model": "modelengine:zombievomit/vomit"
+		}		
   ],
   "textures": {
     "layer0": "minecraft:item/leather_horse_armor"
