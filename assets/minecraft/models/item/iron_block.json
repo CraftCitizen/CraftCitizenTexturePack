@@ -1,0 +1,9 @@
+{
+    "parent": "block/iron_block",
+		"overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "block/jukebox/normal" },
+		{ "predicate": { "custom_model_data": 2}, "model": "block/jukebox/copy" },
+		{ "predicate": { "custom_model_data": 3}, "model": "block/jukebox/paste" },
+		{ "predicate": { "custom_model_data": 4}, "model": "block/jukebox/insert" }
+	]
+}

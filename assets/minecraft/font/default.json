@@ -753,6 +753,13 @@
 		},
 		{
 			"type": "bitmap",
+			"file": "minecraft:font/inventory/jukebox_song_editor.png",
+			"ascent": 13,
+			"height": 126,
+			"chars": ["\uE307"]
+		},
+		{
+			"type": "bitmap",
 			"file": "minecraft:font/tooltips/tip1.png",
 			"ascent": 20,
 			"height": 20,

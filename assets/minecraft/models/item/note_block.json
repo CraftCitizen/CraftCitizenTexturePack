@@ -1,0 +1,31 @@
+{
+    "parent": "block/note_block",
+		"overrides": [
+		{ "predicate": { "custom_model_data": 0}, "model": "block/note_block" },
+		{ "predicate": { "custom_model_data": 1}, "model": "block/jukebox/noteblock0"},
+		{ "predicate": { "custom_model_data": 2}, "model": "block/jukebox/noteblock1"},
+		{ "predicate": { "custom_model_data": 3}, "model": "block/jukebox/noteblock2"},
+		{ "predicate": { "custom_model_data": 4}, "model": "block/jukebox/noteblock3"},
+		{ "predicate": { "custom_model_data": 5}, "model": "block/jukebox/noteblock4"},
+		{ "predicate": { "custom_model_data": 6}, "model": "block/jukebox/noteblock5"},
+		{ "predicate": { "custom_model_data": 7}, "model": "block/jukebox/noteblock6"},
+		{ "predicate": { "custom_model_data": 8}, "model": "block/jukebox/noteblock7"},
+		{ "predicate": { "custom_model_data": 9}, "model": "block/jukebox/noteblock8"},
+		{ "predicate": { "custom_model_data": 10}, "model": "block/jukebox/noteblock9"},
+		{ "predicate": { "custom_model_data": 11}, "model": "block/jukebox/noteblock10"},
+		{ "predicate": { "custom_model_data": 12}, "model": "block/jukebox/noteblock11"},
+		{ "predicate": { "custom_model_data": 13}, "model": "block/jukebox/noteblock12"},
+		{ "predicate": { "custom_model_data": 14}, "model": "block/jukebox/noteblock13"},
+		{ "predicate": { "custom_model_data": 15}, "model": "block/jukebox/noteblock14"},
+		{ "predicate": { "custom_model_data": 16}, "model": "block/jukebox/noteblock15"},
+		{ "predicate": { "custom_model_data": 17}, "model": "block/jukebox/noteblock16"},
+		{ "predicate": { "custom_model_data": 18}, "model": "block/jukebox/noteblock17"},
+		{ "predicate": { "custom_model_data": 19}, "model": "block/jukebox/noteblock18"},
+		{ "predicate": { "custom_model_data": 20}, "model": "block/jukebox/noteblock19"},
+		{ "predicate": { "custom_model_data": 21}, "model": "block/jukebox/noteblock20"},
+		{ "predicate": { "custom_model_data": 22}, "model": "block/jukebox/noteblock21"},
+		{ "predicate": { "custom_model_data": 23}, "model": "block/jukebox/noteblock22"},
+		{ "predicate": { "custom_model_data": 24}, "model": "block/jukebox/noteblock23"},
+		{ "predicate": { "custom_model_data": 25}, "model": "block/jukebox/noteblock24"}
+	]
+}

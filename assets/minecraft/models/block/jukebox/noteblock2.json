@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+        "layer0": "minecraft:item/jukebox/noteblock", "layer1": "minecraft:item/jukebox/noteblock2"
+  }
+}
