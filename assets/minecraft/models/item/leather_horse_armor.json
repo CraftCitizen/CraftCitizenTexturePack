@@ -2098,7 +2098,8 @@
 				"custom_model_data": 369
 			},
 			"model": "modelengine:zombievomit/vomit"
-		}		
+		},
+        { "predicate": { "custom_model_data": 370}, "model": "item/customblocks/goldengobletfilled" }		
   ],
   "textures": {
     "layer0": "minecraft:item/leather_horse_armor"
