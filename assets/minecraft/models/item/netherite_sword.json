@@ -56,6 +56,10 @@
 		{ "predicate": { "custom_model_data": 73}, "model": "item/pots/beer1" },
 		{ "predicate": { "custom_model_data": 74}, "model": "item/netheritesword/hobbitelfsword" },
 		{ "predicate": { "custom_model_data": 75}, "model": "item/shield/vshield2" },
-		{ "predicate": { "custom_model_data": 76}, "model": "item/netheritesword/bloodthirster" }		
+		{ "predicate": { "custom_model_data": 76}, "model": "item/netheritesword/bloodthirster" },
+		{ "predicate": { "custom_model_data": 77}, "model": "item/netheritesword/armclaws" },
+		{ "predicate": { "custom_model_data": 78}, "model": "item/netheritesword/ironrapier" },
+		{ "predicate": { "custom_model_data": 79}, "model": "item/netheritesword/fist1" },
+        { "predicate": { "custom_model_data": 80}, "model": "littleroom_deadbeard:item/hook"}		
 	]
 }

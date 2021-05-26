@@ -256,6 +256,21 @@
                 "custom_model_data": 14
             },
             "model": "item/shield/vshield20"			
+        },
+			{
+            "predicate": {
+				"blocking": 0,
+                "custom_model_data": 15
+				
+            },
+            "model": "item/shield/fistshield1"
+        },
+		        {
+            "predicate": {
+				"blocking": 1,
+                "custom_model_data": 15
+            },
+            "model": "item/shield/fistshield1"			
         }		
     ]
 }

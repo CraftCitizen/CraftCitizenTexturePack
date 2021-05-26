@@ -2098,6 +2098,187 @@
 				"custom_model_data": 369
 			},
 			"model": "modelengine:zombievomit/vomit"
+		},
+        { "predicate": { "custom_model_data": 370}, "model": "item/customblocks/goldengobletfilled" },
+		{
+			"predicate": {
+				"custom_model_data": 371
+			},
+			"model": "modelengine:golem/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 372
+			},
+			"model": "modelengine:golem/leftarm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 373
+			},
+			"model": "modelengine:golem/leftarm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 374
+			},
+			"model": "modelengine:golem/leftleg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 375
+			},
+			"model": "modelengine:golem/leftleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 376
+			},
+			"model": "modelengine:golem/rightleg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 377
+			},
+			"model": "modelengine:golem/rightleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 378
+			},
+			"model": "modelengine:golem/rightarm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 379
+			},
+			"model": "modelengine:golem/rightarm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 380
+			},
+			"model": "modelengine:golem/torso"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 381
+			},
+			"model": "modelengine:jelly/tendrils4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 382
+			},
+			"model": "modelengine:jelly/tendrils"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 383
+			},
+			"model": "modelengine:jelly/tendrils3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 384
+			},
+			"model": "modelengine:jelly/tendrils2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 385
+			},
+			"model": "modelengine:jelly/membrane"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 386
+			},
+			"model": "modelengine:jelly/jelly"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 387
+			},
+			"model": "modelengine:mimic/3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 388
+			},
+			"model": "modelengine:mimic/2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 389
+			},
+			"model": "modelengine:mimic/1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 390
+			},
+			"model": "modelengine:mimic/tongue"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 391
+			},
+			"model": "modelengine:mimic/bone2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 392
+			},
+			"model": "modelengine:mimic/bone"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 393
+			},
+			"model": "modelengine:shark/rightfin"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 394
+			},
+			"model": "modelengine:shark/rightfin2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 395
+			},
+			"model": "modelengine:shark/tail2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 396
+			},
+			"model": "modelengine:shark/tail1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 397
+			},
+			"model": "modelengine:shark/jaw"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 398
+			},
+			"model": "modelengine:shark/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 399
+			},
+			"model": "modelengine:shark/neck"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 400
+			},
+			"model": "modelengine:shark/body"
 		}		
   ],
   "textures": {
