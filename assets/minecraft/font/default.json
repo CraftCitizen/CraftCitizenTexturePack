@@ -799,6 +799,230 @@
 			"ascent": 8,
 			"height": 9,
 			"chars": ["\uE101"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/compass_00.png",
+			"ascent": 10,
+			"height": 15,
+			"chars": ["\uEC00"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/compass_01.png",
+			"ascent": 10,
+			"height": 15,
+			"chars": ["\uEC01"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/compass_02.png",
+			"ascent": 10,
+			"height": 15,
+			"chars": ["\uEC02"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/compass_03.png",
+			"ascent": 10,
+			"height": 15,
+			"chars": ["\uEC03"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/compass_04.png",
+			"ascent": 10,
+			"height": 15,
+			"chars": ["\uEC04"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/compass_05.png",
+			"ascent": 10,
+			"height": 15,
+			"chars": ["\uEC05"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/compass_06.png",
+			"ascent": 10,
+			"height": 15,
+			"chars": ["\uEC06"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/compass_07.png",
+			"ascent": 10,
+			"height": 15,
+			"chars": ["\uEC07"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/compass_08.png",
+			"ascent": 10,
+			"height": 15,
+			"chars": ["\uEC08"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/compass_09.png",
+			"ascent": 10,
+			"height": 15,
+			"chars": ["\uEC09"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/compass_10.png",
+			"ascent": 10,
+			"height": 15,
+			"chars": ["\uEC10"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/compass_11.png",
+			"ascent": 10,
+			"height": 15,
+			"chars": ["\uEC11"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/compass_12.png",
+			"ascent": 10,
+			"height": 15,
+			"chars": ["\uEC12"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/compass_13.png",
+			"ascent": 10,
+			"height": 15,
+			"chars": ["\uEC13"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/compass_14.png",
+			"ascent": 10,
+			"height": 15,
+			"chars": ["\uEC14"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/compass_15.png",
+			"ascent": 10,
+			"height": 15,
+			"chars": ["\uEC15"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/compass_16.png",
+			"ascent": 10,
+			"height": 15,
+			"chars": ["\uEC16"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/compass_17.png",
+			"ascent": 10,
+			"height": 15,
+			"chars": ["\uEC17"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/compass_18.png",
+			"ascent": 10,
+			"height": 15,
+			"chars": ["\uEC18"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/compass_19.png",
+			"ascent": 10,
+			"height": 15,
+			"chars": ["\uEC19"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/compass_20.png",
+			"ascent": 10,
+			"height": 15,
+			"chars": ["\uEC20"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/compass_21.png",
+			"ascent": 10,
+			"height": 15,
+			"chars": ["\uEC21"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/compass_22.png",
+			"ascent": 10,
+			"height": 15,
+			"chars": ["\uEC22"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/compass_23.png",
+			"ascent": 10,
+			"height": 15,
+			"chars": ["\uEC23"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/compass_24.png",
+			"ascent": 10,
+			"height": 15,
+			"chars": ["\uEC24"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/compass_25.png",
+			"ascent": 10,
+			"height": 15,
+			"chars": ["\uEC25"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/compass_26.png",
+			"ascent": 10,
+			"height": 15,
+			"chars": ["\uEC26"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/compass_27.png",
+			"ascent": 10,
+			"height": 15,
+			"chars": ["\uEC27"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/compass_28.png",
+			"ascent": 10,
+			"height": 15,
+			"chars": ["\uEC28"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/compass_29.png",
+			"ascent": 10,
+			"height": 15,
+			"chars": ["\uEC29"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/compass_30.png",
+			"ascent": 10,
+			"height": 15,
+			"chars": ["\uEC30"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:item/compass_31.png",
+			"ascent": 10,
+			"height": 15,
+			"chars": ["\uEC31"]
 		}
     ]
 }
