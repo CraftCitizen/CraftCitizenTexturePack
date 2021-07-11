@@ -60,6 +60,7 @@
 		{ "predicate": { "custom_model_data": 77}, "model": "item/netheritesword/armclaws" },
 		{ "predicate": { "custom_model_data": 78}, "model": "item/netheritesword/ironrapier" },
 		{ "predicate": { "custom_model_data": 79}, "model": "item/netheritesword/fist1" },
-        { "predicate": { "custom_model_data": 80}, "model": "littleroom_deadbeard:item/hook"}		
+        { "predicate": { "custom_model_data": 80}, "model": "littleroom_deadbeard:item/hook"},
+        { "predicate": { "custom_model_data": 81}, "model": "item/netheritesword/staff"}		
 	]
 }

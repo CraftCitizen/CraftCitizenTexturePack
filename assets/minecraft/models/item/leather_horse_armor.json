@@ -2279,6 +2279,432 @@
 				"custom_model_data": 400
 			},
 			"model": "modelengine:shark/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 401
+			},
+			"model": "modelengine:archer/noggin"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 402
+			},
+			"model": "modelengine:archer/lefthand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 403
+			},
+			"model": "modelengine:archer/leftarm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 404
+			},
+			"model": "modelengine:archer/leftfoot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 405
+			},
+			"model": "modelengine:archer/leftleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 406
+			},
+			"model": "modelengine:archer/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 407
+			},
+			"model": "modelengine:archer/leftwing"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 408
+			},
+			"model": "modelengine:archer/rightwing"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 409
+			},
+			"model": "modelengine:archer/hawk"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 410
+			},
+			"model": "modelengine:archer/righthand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 411
+			},
+			"model": "modelengine:archer/rightarm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 412
+			},
+			"model": "modelengine:archer/rightfoot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 413
+			},
+			"model": "modelengine:archer/rightleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 414
+			},
+			"model": "modelengine:archer/archer"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 415
+			},
+			"model": "modelengine:blacksmith/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 416
+			},
+			"model": "modelengine:blacksmith/rightfoot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 417
+			},
+			"model": "modelengine:blacksmith/rightleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 418
+			},
+			"model": "modelengine:blacksmith/leftfoot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 419
+			},
+			"model": "modelengine:blacksmith/leftleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 420
+			},
+			"model": "modelengine:blacksmith/righthand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 421
+			},
+			"model": "modelengine:blacksmith/rightarm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 422
+			},
+			"model": "modelengine:blacksmith/lefthand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 423
+			},
+			"model": "modelengine:blacksmith/leftarm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 424
+			},
+			"model": "modelengine:blacksmith/blacksmith"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 425
+			},
+			"model": "modelengine:butcher/lefthand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 426
+			},
+			"model": "modelengine:butcher/leftarm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 427
+			},
+			"model": "modelengine:butcher/righthand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 428
+			},
+			"model": "modelengine:butcher/rightarm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 429
+			},
+			"model": "modelengine:butcher/leftfoot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 430
+			},
+			"model": "modelengine:butcher/leftleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 431
+			},
+			"model": "modelengine:butcher/rightfoot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 432
+			},
+			"model": "modelengine:butcher/rightleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 433
+			},
+			"model": "modelengine:butcher/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 434
+			},
+			"model": "modelengine:butcher/butcher"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 435
+			},
+			"model": "modelengine:farmer/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 436
+			},
+			"model": "modelengine:farmer/lefthand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 437
+			},
+			"model": "modelengine:farmer/leftarm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 438
+			},
+			"model": "modelengine:farmer/leftfoot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 439
+			},
+			"model": "modelengine:farmer/leftleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 440
+			},
+			"model": "modelengine:farmer/righthand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 441
+			},
+			"model": "modelengine:farmer/rightarm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 442
+			},
+			"model": "modelengine:farmer/rightfoot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 443
+			},
+			"model": "modelengine:farmer/rightleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 444
+			},
+			"model": "modelengine:farmer/farmer"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 445
+			},
+			"model": "modelengine:guard/hiltsword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 446
+			},
+			"model": "modelengine:guard/handsword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 447
+			},
+			"model": "modelengine:guard/lefthand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 448
+			},
+			"model": "modelengine:guard/leftarm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 449
+			},
+			"model": "modelengine:guard/rightfoot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 450
+			},
+			"model": "modelengine:guard/rightleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 451
+			},
+			"model": "modelengine:guard/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 452
+			},
+			"model": "modelengine:guard/torch"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 453
+			},
+			"model": "modelengine:guard/empty"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 454
+			},
+			"model": "modelengine:guard/righthand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 455
+			},
+			"model": "modelengine:guard/rightarm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 456
+			},
+			"model": "modelengine:guard/leftfoot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 457
+			},
+			"model": "modelengine:guard/leftleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 458
+			},
+			"model": "modelengine:guard/guard"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 459
+			},
+			"model": "modelengine:npcgreeting/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 460
+			},
+			"model": "modelengine:wizard/lefthand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 461
+			},
+			"model": "modelengine:wizard/leftarm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 462
+			},
+			"model": "modelengine:wizard/righthand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 463
+			},
+			"model": "modelengine:wizard/rightarm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 464
+			},
+			"model": "modelengine:wizard/leftfoot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 465
+			},
+			"model": "modelengine:wizard/leftleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 466
+			},
+			"model": "modelengine:wizard/rightfoot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 467
+			},
+			"model": "modelengine:wizard/rightleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 468
+			},
+			"model": "modelengine:wizard/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 469
+			},
+			"model": "modelengine:wizard/wizard"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 470
+			},
+			"model": "modelengine:wizard/page"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 471
+			},
+			"model": "modelengine:wizard/book"
 		}		
   ],
   "textures": {
