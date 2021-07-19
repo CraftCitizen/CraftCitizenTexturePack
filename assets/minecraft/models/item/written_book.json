@@ -5,7 +5,8 @@
     },
 	"overrides": [
 		{ "predicate": { "custom_model_data": 1}, "model": "item/book/pbook1" },
-		{ "predicate": { "custom_model_data": 2}, "model": "item/book/wizardbook" },
-		{ "predicate": { "custom_model_data": 3}, "model": "item/book/portalbook" }		
+		{ "predicate": { "custom_model_data": 2}, "model": "item/book/pbook2" },
+		{ "predicate": { "custom_model_data": 3}, "model": "item/book/portalbook" },
+		{ "predicate": { "custom_model_data": 4}, "model": "item/book/wizardbook" }		
 	]
 }

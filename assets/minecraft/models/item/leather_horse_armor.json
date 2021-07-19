@@ -2705,6 +2705,216 @@
 				"custom_model_data": 471
 			},
 			"model": "modelengine:wizard/book"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 472
+			},
+			"model": "modelengine:gigas/leftfoot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 473
+			},
+			"model": "modelengine:gigas/leftknee"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 474
+			},
+			"model": "modelengine:gigas/leftleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 475
+			},
+			"model": "modelengine:gigas/leftfoot2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 476
+			},
+			"model": "modelengine:gigas/leftknee2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 477
+			},
+			"model": "modelengine:gigas/leftleg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 478
+			},
+			"model": "modelengine:gigas/rightfoot1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 479
+			},
+			"model": "modelengine:gigas/rightknee1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 480
+			},
+			"model": "modelengine:gigas/rightleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 481
+			},
+			"model": "modelengine:gigas/rightfoot2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 482
+			},
+			"model": "modelengine:gigas/rightknee2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 483
+			},
+			"model": "modelengine:gigas/rightleg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 484
+			},
+			"model": "modelengine:gigas/leftflippertoe"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 485
+			},
+			"model": "modelengine:gigas/leftflipperfoot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 486
+			},
+			"model": "modelengine:gigas/leftflipper"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 487
+			},
+			"model": "modelengine:gigas/rightflippertoe"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 488
+			},
+			"model": "modelengine:gigas/rightflipperfoot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 489
+			},
+			"model": "modelengine:gigas/rightflipper"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 490
+			},
+			"model": "modelengine:gigas/leftmandible"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 491
+			},
+			"model": "modelengine:gigas/rightmandible"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 492
+			},
+			"model": "modelengine:gigas/lilclawfinger"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 493
+			},
+			"model": "modelengine:gigas/lilclawarm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 494
+			},
+			"model": "modelengine:gigas/lilclaw"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 495
+			},
+			"model": "modelengine:gigas/bigclawfinger"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 496
+			},
+			"model": "modelengine:gigas/bigclawhand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 497
+			},
+			"model": "modelengine:gigas/bigclaw"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 498
+			},
+			"model": "modelengine:gigas/gigas"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 499
+			},
+			"model": "modelengine:gigasbabyblue/claws"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 500
+			},
+			"model": "modelengine:gigasbabyblue/frontlegs"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 501
+			},
+			"model": "modelengine:gigasbabyblue/backlegs"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 502
+			},
+			"model": "modelengine:gigasbabyblue/gigasbaby"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 503
+			},
+			"model": "modelengine:gigasbabyred/claws"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 504
+			},
+			"model": "modelengine:gigasbabyred/frontlegs"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 505
+			},
+			"model": "modelengine:gigasbabyred/backlegs"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 506
+			},
+			"model": "modelengine:gigasbabyred/gigasbaby"
 		}		
   ],
   "textures": {
