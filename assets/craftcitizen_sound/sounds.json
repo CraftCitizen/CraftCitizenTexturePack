@@ -1,0 +1,12 @@
+{
+   "craftcitizen.quest.accept":{
+		 "sounds": [
+			"craftcitizen/quest/quest_accept"
+		 ]
+	}, 
+	"craftcitizen.quest.complete":{
+		 "sounds": [
+			"craftcitizen/quest/quest_complete"
+		 ]
+	}
+}

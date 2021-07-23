@@ -1023,6 +1023,20 @@
 			"ascent": 10,
 			"height": 15,
 			"chars": ["\uEC31"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/bob.png",
+			"ascent": -2,
+			"height": 41,
+			"chars": ["\uEA00"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/frame.png",
+			"ascent": 4,
+			"height": 53,
+			"chars": ["\uEA01"]
 		}
     ]
 }
