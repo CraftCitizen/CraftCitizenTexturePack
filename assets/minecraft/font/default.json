@@ -704,6 +704,13 @@
 		},
 		{
 			"type": "bitmap",
+			"file": "minecraft:font/titles/quest_item.png",
+			"ascent": 7.75,
+			"height": 7.75,
+			"chars": ["\uE105"]
+		},
+		{
+			"type": "bitmap",
 			"file": "minecraft:font/inventory/border_inventory.png",
 			"ascent": 13,
 			"height": 126,
