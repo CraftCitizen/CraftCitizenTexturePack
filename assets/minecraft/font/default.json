@@ -1037,6 +1037,13 @@
 			"ascent": 4,
 			"height": 53,
 			"chars": ["\uEA01"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/cc.png",
+			"ascent": -2,
+			"height": 41,
+			"chars": ["\uEA02"]
 		}
     ]
 }
