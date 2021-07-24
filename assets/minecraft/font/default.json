@@ -1051,6 +1051,41 @@
 			"ascent": -2,
 			"height": 41,
 			"chars": ["\uEA02"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/eric_hammerstone.png",
+			"ascent": -2,
+			"height": 41,
+			"chars": ["\uEA03"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/harrison_jones.png",
+			"ascent": -2,
+			"height": 41,
+			"chars": ["\uEA04"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/magic_rob.png",
+			"ascent": -2,
+			"height": 41,
+			"chars": ["\uEA05"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/mc_woof.png",
+			"ascent": -2,
+			"height": 41,
+			"chars": ["\uEA06"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/bjorn.png",
+			"ascent": -2,
+			"height": 41,
+			"chars": ["\uEA07"]
 		}
     ]
 }
