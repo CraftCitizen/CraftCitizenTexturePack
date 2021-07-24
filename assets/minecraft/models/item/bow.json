@@ -240,6 +240,94 @@
 				"custom_model_data": 9
 			},
 			"model": "item/bow/vbow32"
+		},
+		{ "predicate": { "custom_model_data": 10}, "model": "item/bow/bonebow0" },
+		{
+			"predicate": {
+				"custom_model_data": 10,
+				"pulling": 1
+			},
+			"model": "item/bow/bonebow1"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 0.65,
+				"custom_model_data": 10
+			},
+			"model": "item/bow/bonebow2"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 0.9,
+				"custom_model_data": 10
+			},
+			"model": "item/bow/bonebow3"
+		},
+		{ "predicate": { "custom_model_data": 11}, "model": "item/bow/candybow0" },
+		{
+			"predicate": {
+				"custom_model_data": 11,
+				"pulling": 1
+			},
+			"model": "item/bow/candybow1"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 0.65,
+				"custom_model_data": 11
+			},
+			"model": "item/bow/candybow2"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 0.9,
+				"custom_model_data": 11
+			},
+			"model": "item/bow/candybow3"
+		},
+		{ "predicate": { "custom_model_data": 12}, "model": "item/bow/dragonbow0" },
+		{
+			"predicate": {
+				"custom_model_data": 12,
+				"pulling": 1
+			},
+			"model": "item/bow/dragonbow1"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 0.65,
+				"custom_model_data": 12
+			},
+			"model": "item/bow/dragonbow2"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 0.9,
+				"custom_model_data": 12
+			},
+			"model": "item/bow/dragonbow3"
+		},
+		{ "predicate": { "custom_model_data": 13}, "model": "item/bow/hydrabow0" },
+		{
+			"predicate": {
+				"custom_model_data": 13,
+				"pulling": 1
+			},
+			"model": "item/bow/hydrabow1"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 0.65,
+				"custom_model_data": 13
+			},
+			"model": "item/bow/hydrabow2"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 0.9,
+				"custom_model_data": 13
+			},
+			"model": "item/bow/hydrabow3"
 		}			
 	]
 }

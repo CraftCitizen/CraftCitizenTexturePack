@@ -62,6 +62,8 @@
 		{ "predicate": { "custom_model_data": 79}, "model": "item/netheritesword/fist1" },
         { "predicate": { "custom_model_data": 80}, "model": "littleroom_deadbeard:item/hook"},
         { "predicate": { "custom_model_data": 81}, "model": "item/netheritesword/staff"},
-        { "predicate": { "custom_model_data": 82}, "model": "littleroom_gigas:items/gigasclaw"}		
+        { "predicate": { "custom_model_data": 82}, "model": "littleroom_gigas:items/gigasclaw"},
+        { "predicate": { "custom_model_data": 83}, "model": "item/netheritesword/purpleflame"},
+        { "predicate": { "custom_model_data": 84}, "model": "item/netheritesword/endersword"}			
 	]
 }
