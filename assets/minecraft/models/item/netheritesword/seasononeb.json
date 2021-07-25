@@ -1215,14 +1215,14 @@
 			"scale":  [ 0.7434, 0.7652, 0.5695 ]
 		},
 		"firstperson_righthand": {
-			"rotation":  [ -19, -113, -86 ],
-			"translation":  [ 3.4782, 2.7826, -0.695 ],
-			"scale":  [ 0.25, 0.25, 0.25 ]
+			"rotation":  [ 0, -80, -86 ],
+			"translation":  [ 4.2, 7, -1.4 ],
+			"scale":  [ 0.4, 0.25, 0.25 ]
 		},
 		"firstperson_lefthand": {
-			"rotation":  [ -180, 100, -86 ],
-			"translation":  [ 3.4782, 2.7826, -0.695 ],
-			"scale":  [ 0.25, 0.25, 0.25 ]
+			"rotation":  [ -180, 90, -86 ],
+			"translation":  [ 4.2, 7, -1.4 ],
+			"scale":  [ 0.4, 0.25, 0.25 ]
 		},
 		"gui": {
 			"rotation":  [ -2, 0, 58 ],
