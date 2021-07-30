@@ -1128,6 +1128,27 @@
 			"ascent": -2,
 			"height": 41,
 			"chars": ["\uEA13"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/jonah.png",
+			"ascent": -2,
+			"height": 41,
+			"chars": ["\uEA14"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/jack.png",
+			"ascent": -2,
+			"height": 41,
+			"chars": ["\uEA15"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/crowleg.png",
+			"ascent": -2,
+			"height": 41,
+			"chars": ["\uEA16"]
 		}		
     ]
 }
