@@ -2700,12 +2700,12 @@
 		"firstperson_righthand": {
 			"rotation":  [ 3, 21, -90 ],
 			"translation":  [ 15.825, -2.782, -16.21 ],
-			"scale":  [ 0.4, 0.4, 0.4 ]
+			"scale":  [ 0.7, 0.4, 0.4 ]
 		},
 		"firstperson_lefthand": {
 			"rotation":  [ -175, -180, -90 ],
 			"translation":  [ 15.825, -2.782, -16.21 ],
-			"scale":  [ 0.4, 0.4, 0.4 ]
+			"scale":  [ 0.7, 0.4, 0.4 ]
 		},
 		"gui": {
 			"rotation":  [ 90, -135, 0 ],

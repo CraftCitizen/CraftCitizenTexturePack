@@ -1163,6 +1163,69 @@
 			"ascent": -2,
 			"height": 41,
 			"chars": ["\uEA07"]
-		}
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/fenn.png",
+			"ascent": -2,
+			"height": 41,
+			"chars": ["\uEA08"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/jacqueline.png",
+			"ascent": -2,
+			"height": 41,
+			"chars": ["\uEA09"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/otin.png",
+			"ascent": -2,
+			"height": 41,
+			"chars": ["\uEA10"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/ellie.png",
+			"ascent": -2,
+			"height": 41,
+			"chars": ["\uEA11"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/tinkerer.png",
+			"ascent": -2,
+			"height": 41,
+			"chars": ["\uEA12"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/barkley.png",
+			"ascent": -2,
+			"height": 41,
+			"chars": ["\uEA13"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/jonah.png",
+			"ascent": -2,
+			"height": 41,
+			"chars": ["\uEA14"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/jack.png",
+			"ascent": -2,
+			"height": 41,
+			"chars": ["\uEA15"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/crowleg.png",
+			"ascent": -2,
+			"height": 41,
+			"chars": ["\uEA16"]
+		}		
     ]
 }
