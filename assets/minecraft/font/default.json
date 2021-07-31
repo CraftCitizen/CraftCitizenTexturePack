@@ -1226,6 +1226,13 @@
 			"ascent": -2,
 			"height": 41,
 			"chars": ["\uEA16"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/terry.png",
+			"ascent": -2,
+			"height": 41,
+			"chars": ["\uEA17"]
 		}		
     ]
 }
