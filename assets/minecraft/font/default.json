@@ -1268,6 +1268,13 @@
 			"ascent": -2,
 			"height": 41,
 			"chars": ["\uEA22"]
-		}			
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/valguard.png",
+			"ascent": -2,
+			"height": 41,
+			"chars": ["\uEA23"]
+		}				
     ]
 }
