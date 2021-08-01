@@ -1261,6 +1261,13 @@
 			"ascent": -2,
 			"height": 41,
 			"chars": ["\uEA21"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/astralien.png",
+			"ascent": -2,
+			"height": 41,
+			"chars": ["\uEA22"]
 		}			
     ]
 }
