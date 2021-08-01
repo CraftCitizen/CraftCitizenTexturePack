@@ -1233,6 +1233,34 @@
 			"ascent": -2,
 			"height": 41,
 			"chars": ["\uEA17"]
-		}		
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/oliver.png",
+			"ascent": -2,
+			"height": 41,
+			"chars": ["\uEA18"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/sizzl.png",
+			"ascent": -2,
+			"height": 41,
+			"chars": ["\uEA19"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/lurielle.png",
+			"ascent": -2,
+			"height": 41,
+			"chars": ["\uEA20"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/pashjn.png",
+			"ascent": -2,
+			"height": 41,
+			"chars": ["\uEA21"]
+		}			
     ]
 }
