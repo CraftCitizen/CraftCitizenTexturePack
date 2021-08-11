@@ -1275,6 +1275,34 @@
 			"ascent": -2,
 			"height": 41,
 			"chars": ["\uEA23"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/nickie.png",
+			"ascent": -2,
+			"height": 41,
+			"chars": ["\uEA24"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/roger.png",
+			"ascent": -2,
+			"height": 41,
+			"chars": ["\uEA25"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/lutz.png",
+			"ascent": -2,
+			"height": 41,
+			"chars": ["\uEA26"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/hurricane.png",
+			"ascent": -2,
+			"height": 41,
+			"chars": ["\uEA27"]
 		}				
     ]
 }

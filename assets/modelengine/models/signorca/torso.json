@@ -1,0 +1,5538 @@
+{
+	"file_name": "torso",
+	"texture_size": [
+		64,
+		64
+	],
+	"textures": {
+		"aeff89d7-37ee-8111-53a4-33bae673296e": "modelengine:entity/textureorca"
+	},
+	"elements": [
+		{
+			"name": "torso cube",
+			"from": [
+				7.0699997,
+				17.784286,
+				8.038571
+			],
+			"to": [
+				8.93,
+				28.404285,
+				8.038571
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.030001,
+					9.804286,
+					7.9185715
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						0.75,
+						0.0,
+						0.0,
+						0.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						0.0,
+						0.0,
+						0.0,
+						4.375
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						1.5,
+						0.0,
+						2.25,
+						4.375
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						2.25,
+						0.0,
+						3.0,
+						4.375
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						0.75,
+						0.0,
+						0.0,
+						0.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						0.0,
+						0.0,
+						0.0,
+						4.375
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "torso cube",
+			"from": [
+				13.070001,
+				17.784286,
+				8.038571
+			],
+			"to": [
+				14.929999,
+				28.404285,
+				8.038571
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.030001,
+					9.804286,
+					7.9185715
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						0.75,
+						0.0,
+						0.0,
+						0.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						0.0,
+						0.0,
+						0.0,
+						4.375
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						3.0,
+						0.0,
+						3.75,
+						4.375
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						3.75,
+						0.0,
+						4.5,
+						4.375
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						0.75,
+						0.0,
+						0.0,
+						0.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						0.0,
+						0.0,
+						0.0,
+						4.375
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				-0.40000033,
+				12.2,
+				8.0
+			],
+			"to": [
+				0.19999981,
+				14.6,
+				8.6
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						13.5,
+						8.75,
+						13.25,
+						9.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						12.5,
+						8.75,
+						12.75,
+						9.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						12.5,
+						7.75,
+						12.75,
+						8.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						9.5,
+						12.5,
+						9.75,
+						13.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						8.75,
+						13.5,
+						8.5,
+						13.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						12.5,
+						9.75,
+						12.75,
+						10.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				6.2,
+				6.8,
+				8.0
+			],
+			"to": [
+				6.8,
+				9.2,
+				8.6
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						14.0,
+						7.0,
+						13.75,
+						7.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						13.0,
+						0.0,
+						13.25,
+						1.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						12.5,
+						12.75,
+						12.75,
+						13.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						13.0,
+						1.0,
+						13.25,
+						2.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						7.25,
+						14.0,
+						7.0,
+						13.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						13.0,
+						2.0,
+						13.25,
+						3.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				0.19999981,
+				11.6,
+				8.0
+			],
+			"to": [
+				0.7999997,
+				15.8,
+				8.6
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						13.5,
+						9.25,
+						13.25,
+						9.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						12.0,
+						8.5,
+						12.25,
+						10.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						12.0,
+						6.75,
+						12.25,
+						8.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						12.0,
+						10.25,
+						12.25,
+						12.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						13.5,
+						9.25,
+						13.25,
+						9.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						12.0,
+						12.0,
+						12.25,
+						13.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				0.7999997,
+				11.0,
+				8.0
+			],
+			"to": [
+				1.3999997,
+				16.400002,
+				8.6
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						13.5,
+						9.75,
+						13.25,
+						10.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						11.75,
+						4.75,
+						12.0,
+						7.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						11.75,
+						2.5,
+						12.0,
+						4.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						11.75,
+						7.0,
+						12.0,
+						9.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						13.5,
+						9.75,
+						13.25,
+						9.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						11.75,
+						9.25,
+						12.0,
+						11.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				1.3999997,
+				11.0,
+				8.0
+			],
+			"to": [
+				1.9999998,
+				17.0,
+				8.6
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						10.5,
+						13.25,
+						10.25,
+						13.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						5.5,
+						11.5,
+						5.75,
+						14.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						5.25,
+						11.5,
+						5.5,
+						14.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						11.5,
+						5.5,
+						11.75,
+						8.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						13.5,
+						10.25,
+						13.25,
+						10.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						11.5,
+						8.0,
+						11.75,
+						10.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				1.9999998,
+				11.0,
+				8.0
+			],
+			"to": [
+				2.6,
+				17.6,
+				8.6
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						13.5,
+						10.5,
+						13.25,
+						10.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						11.25,
+						6.0,
+						11.5,
+						8.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						5.75,
+						11.25,
+						6.0,
+						14.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						11.25,
+						8.75,
+						11.5,
+						11.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						13.5,
+						10.5,
+						13.25,
+						10.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						11.5,
+						0.0,
+						11.75,
+						2.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				2.6,
+				11.0,
+				8.0
+			],
+			"to": [
+				3.1999998,
+				18.2,
+				8.6
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						13.5,
+						11.0,
+						13.25,
+						11.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						10.0,
+						11.0,
+						10.25,
+						14.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						11.0,
+						9.75,
+						11.25,
+						12.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						11.25,
+						0.0,
+						11.5,
+						3.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						13.5,
+						11.0,
+						13.25,
+						10.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						11.25,
+						3.0,
+						11.5,
+						6.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				3.1999998,
+				11.0,
+				8.0
+			],
+			"to": [
+				3.7999997,
+				18.8,
+				8.6
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						13.5,
+						11.5,
+						13.25,
+						11.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						1.75,
+						10.25,
+						2.0,
+						13.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						1.5,
+						10.25,
+						1.75,
+						13.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						10.25,
+						3.5,
+						10.5,
+						6.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						13.5,
+						11.5,
+						13.25,
+						11.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						10.25,
+						6.75,
+						10.5,
+						10.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				3.7999997,
+				11.0,
+				8.0
+			],
+			"to": [
+				4.3999996,
+				18.8,
+				8.6
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						13.5,
+						12.0,
+						13.25,
+						12.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						10.5,
+						0.0,
+						10.75,
+						3.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						10.25,
+						10.0,
+						10.5,
+						13.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						10.5,
+						3.25,
+						10.75,
+						6.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						13.5,
+						12.0,
+						13.25,
+						11.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						6.25,
+						10.5,
+						6.5,
+						13.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				4.3999996,
+				11.6,
+				8.0
+			],
+			"to": [
+				5.0,
+				19.400002,
+				8.6
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						13.5,
+						12.5,
+						13.25,
+						12.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						10.5,
+						6.5,
+						10.75,
+						9.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						6.5,
+						10.5,
+						6.75,
+						13.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						6.75,
+						10.5,
+						7.0,
+						13.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						13.5,
+						12.5,
+						13.25,
+						12.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						10.5,
+						9.75,
+						10.75,
+						13.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				5.0,
+				11.6,
+				8.0
+			],
+			"to": [
+				5.6,
+				19.400002,
+				8.6
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						13.25,
+						13.25,
+						13.0,
+						13.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						10.75,
+						3.25,
+						11.0,
+						6.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						10.75,
+						0.0,
+						11.0,
+						3.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						6.0,
+						10.75,
+						6.25,
+						14.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						13.5,
+						13.0,
+						13.25,
+						12.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						10.75,
+						6.5,
+						11.0,
+						9.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				5.6,
+				11.6,
+				8.0
+			],
+			"to": [
+				6.2,
+				20.0,
+				8.6
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						13.5,
+						13.25,
+						13.25,
+						13.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						7.25,
+						10.0,
+						7.5,
+						13.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						7.0,
+						10.0,
+						7.25,
+						13.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						10.0,
+						7.5,
+						10.25,
+						11.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						13.5,
+						13.25,
+						13.25,
+						13.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						10.25,
+						0.0,
+						10.5,
+						3.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				6.2,
+				11.0,
+				8.0
+			],
+			"to": [
+				6.8,
+				20.0,
+				8.6
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						13.75,
+						0.25,
+						13.5,
+						0.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						9.75,
+						7.75,
+						10.0,
+						11.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						9.75,
+						4.0,
+						10.0,
+						7.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						10.0,
+						0.0,
+						10.25,
+						3.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						13.75,
+						0.25,
+						13.5,
+						0.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						10.0,
+						3.75,
+						10.25,
+						7.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				6.8,
+				6.2,
+				8.0
+			],
+			"to": [
+				8.0,
+				20.0,
+				8.6
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						13.75,
+						2.5,
+						13.25,
+						2.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						4.5,
+						5.75,
+						4.75,
+						11.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						4.5,
+						0.0,
+						5.0,
+						5.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						1.5,
+						4.5,
+						2.0,
+						10.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						13.75,
+						2.5,
+						13.25,
+						2.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						4.75,
+						5.75,
+						5.0,
+						11.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				8.0,
+				6.8,
+				8.0
+			],
+			"to": [
+				8.6,
+				20.0,
+				8.6
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						13.75,
+						0.75,
+						13.5,
+						1.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						5.0,
+						6.0,
+						5.25,
+						11.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						6.0,
+						0.0,
+						6.25,
+						5.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						5.25,
+						6.0,
+						5.5,
+						11.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						13.75,
+						0.75,
+						13.5,
+						0.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						5.5,
+						6.0,
+						5.75,
+						11.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				8.6,
+				8.0,
+				8.0
+			],
+			"to": [
+				9.2,
+				20.0,
+				8.6
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						13.75,
+						1.25,
+						13.5,
+						1.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						7.0,
+						5.0,
+						7.25,
+						10.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						7.0,
+						0.0,
+						7.25,
+						5.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						7.25,
+						0.0,
+						7.5,
+						5.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						13.75,
+						1.25,
+						13.5,
+						1.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						7.25,
+						5.0,
+						7.5,
+						10.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				9.2,
+				8.6,
+				8.0
+			],
+			"to": [
+				11.0,
+				20.0,
+				8.6
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						13.75,
+						3.25,
+						13.0,
+						3.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						7.5,
+						0.0,
+						7.75,
+						4.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						0.0,
+						0.0,
+						0.75,
+						4.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						0.75,
+						0.0,
+						1.5,
+						4.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						13.75,
+						3.25,
+						13.0,
+						3.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						7.5,
+						4.75,
+						7.75,
+						9.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				11.0,
+				9.2,
+				8.0
+			],
+			"to": [
+				12.2,
+				19.400002,
+				8.6
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						13.75,
+						3.5,
+						13.25,
+						3.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						2.75,
+						8.75,
+						3.0,
+						13.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						2.0,
+						4.5,
+						2.5,
+						8.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						2.5,
+						4.5,
+						3.0,
+						8.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						13.75,
+						3.0,
+						13.25,
+						2.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						8.75,
+						4.5,
+						9.0,
+						8.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				12.2,
+				9.8,
+				8.0
+			],
+			"to": [
+				12.8,
+				19.400002,
+				8.6
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						13.75,
+						1.5,
+						13.5,
+						1.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						8.0,
+						9.5,
+						8.25,
+						13.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						7.75,
+						9.5,
+						8.0,
+						13.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						9.5,
+						8.5,
+						9.75,
+						12.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						1.75,
+						13.75,
+						1.5,
+						13.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						9.75,
+						0.0,
+						10.0,
+						4.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				12.8,
+				9.2,
+				8.0
+			],
+			"to": [
+				13.400001,
+				19.400002,
+				8.6
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						13.75,
+						1.75,
+						13.5,
+						2.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						9.0,
+						0.0,
+						9.25,
+						4.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						8.75,
+						8.75,
+						9.0,
+						13.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						9.0,
+						4.25,
+						9.25,
+						8.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						2.0,
+						13.75,
+						1.75,
+						13.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						8.25,
+						9.0,
+						8.5,
+						13.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				13.400001,
+				8.6,
+				8.0
+			],
+			"to": [
+				14.0,
+				18.8,
+				8.6
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						13.75,
+						3.75,
+						13.5,
+						4.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						9.0,
+						8.5,
+						9.25,
+						12.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						8.5,
+						9.0,
+						8.75,
+						13.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						9.25,
+						0.0,
+						9.5,
+						4.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						13.75,
+						2.25,
+						13.5,
+						2.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						9.25,
+						4.25,
+						9.5,
+						8.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				18.8,
+				1.9999998,
+				7.9999914
+			],
+			"to": [
+				19.400002,
+				14.6,
+				8.599991
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						14.0,
+						6.0,
+						13.75,
+						6.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						6.5,
+						5.25,
+						6.75,
+						10.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						6.5,
+						0.0,
+						6.75,
+						5.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						6.75,
+						0.0,
+						7.0,
+						5.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						14.0,
+						6.0,
+						13.75,
+						5.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						6.75,
+						5.25,
+						7.0,
+						10.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				19.400002,
+				2.6,
+				7.9999914
+			],
+			"to": [
+				20.0,
+				12.8,
+				8.599991
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						14.0,
+						6.25,
+						13.75,
+						6.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						9.5,
+						0.0,
+						9.75,
+						4.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						9.25,
+						8.5,
+						9.5,
+						12.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						9.5,
+						4.25,
+						9.75,
+						8.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						6.5,
+						14.0,
+						6.25,
+						13.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						7.5,
+						9.5,
+						7.75,
+						13.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				20.0,
+				4.3999996,
+				7.9999914
+			],
+			"to": [
+				20.600002,
+				12.2,
+				8.599991
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						14.0,
+						6.5,
+						13.75,
+						6.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						11.0,
+						0.0,
+						11.25,
+						3.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						10.75,
+						9.75,
+						11.0,
+						13.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						11.0,
+						3.25,
+						11.25,
+						6.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						6.75,
+						14.0,
+						6.5,
+						13.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						11.0,
+						6.5,
+						11.25,
+						9.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				20.600002,
+				6.2,
+				7.9999914
+			],
+			"to": [
+				21.2,
+				10.4,
+				8.599991
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						14.0,
+						6.75,
+						13.75,
+						7.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						12.25,
+						8.75,
+						12.5,
+						10.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						12.25,
+						7.0,
+						12.5,
+						8.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						12.25,
+						10.5,
+						12.5,
+						12.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						7.0,
+						14.0,
+						6.75,
+						13.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						12.25,
+						12.25,
+						12.5,
+						14.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				14.0,
+				8.0,
+				8.0
+			],
+			"to": [
+				14.6,
+				18.8,
+				8.6
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						13.75,
+						4.25,
+						13.5,
+						4.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						8.25,
+						4.5,
+						8.5,
+						9.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						8.25,
+						0.0,
+						8.5,
+						4.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						8.5,
+						0.0,
+						8.75,
+						4.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						13.75,
+						4.25,
+						13.5,
+						4.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						8.5,
+						4.5,
+						8.75,
+						9.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				14.6,
+				7.4,
+				8.0
+			],
+			"to": [
+				15.2,
+				18.2,
+				8.6
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						13.75,
+						4.75,
+						13.5,
+						5.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						2.0,
+						8.75,
+						2.25,
+						13.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						8.75,
+						0.0,
+						9.0,
+						4.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						2.25,
+						8.75,
+						2.5,
+						13.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						13.75,
+						4.75,
+						13.5,
+						4.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						2.5,
+						8.75,
+						2.75,
+						13.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				15.2,
+				6.2,
+				8.0
+			],
+			"to": [
+				15.8,
+				17.6,
+				8.6
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						13.75,
+						5.25,
+						13.5,
+						5.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						7.75,
+						4.75,
+						8.0,
+						9.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						7.75,
+						0.0,
+						8.0,
+						4.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						8.0,
+						0.0,
+						8.25,
+						4.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						13.75,
+						5.25,
+						13.5,
+						5.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						8.0,
+						4.75,
+						8.25,
+						9.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				15.8,
+				5.0,
+				8.0
+			],
+			"to": [
+				16.400002,
+				17.6,
+				8.6
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						13.75,
+						5.75,
+						13.5,
+						6.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						5.75,
+						6.0,
+						6.0,
+						11.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						6.0,
+						5.5,
+						6.25,
+						10.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						6.25,
+						0.0,
+						6.5,
+						5.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						13.75,
+						5.75,
+						13.5,
+						5.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						6.25,
+						5.25,
+						6.5,
+						10.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				16.400002,
+				3.7999997,
+				8.0
+			],
+			"to": [
+				17.0,
+				18.2,
+				8.6
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						13.75,
+						6.25,
+						13.5,
+						6.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						5.25,
+						0.0,
+						5.5,
+						6.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						5.0,
+						0.0,
+						5.25,
+						6.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						5.5,
+						0.0,
+						5.75,
+						6.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						13.75,
+						6.25,
+						13.5,
+						6.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						5.75,
+						0.0,
+						6.0,
+						6.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				15.8,
+				-1.0000005,
+				8.0
+			],
+			"to": [
+				16.400002,
+				0.7999997,
+				8.6
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						13.75,
+						11.5,
+						13.5,
+						11.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						13.0,
+						6.5,
+						13.25,
+						7.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						13.0,
+						5.75,
+						13.25,
+						6.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						13.0,
+						7.25,
+						13.25,
+						8.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						13.75,
+						11.5,
+						13.5,
+						11.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						13.0,
+						8.0,
+						13.25,
+						8.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				15.2,
+				-1.6000004,
+				8.0
+			],
+			"to": [
+				15.8,
+				0.19999981,
+				8.6
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						13.75,
+						12.5,
+						13.5,
+						12.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						13.0,
+						8.75,
+						13.25,
+						9.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						8.75,
+						13.0,
+						9.0,
+						13.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						13.0,
+						9.5,
+						13.25,
+						10.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						13.75,
+						12.5,
+						13.5,
+						12.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						13.0,
+						10.25,
+						13.25,
+						11.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				14.6,
+				-2.2000003,
+				8.0
+			],
+			"to": [
+				15.2,
+				-0.40000033,
+				8.6
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						13.25,
+						13.5,
+						13.0,
+						13.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						10.75,
+						13.0,
+						11.0,
+						13.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						10.5,
+						13.0,
+						10.75,
+						13.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						13.0,
+						11.0,
+						13.25,
+						11.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						13.75,
+						13.0,
+						13.5,
+						12.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						11.5,
+						13.0,
+						11.75,
+						13.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				14.0,
+				-3.4000006,
+				8.0
+			],
+			"to": [
+				14.6,
+				-0.40000033,
+				8.6
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						13.5,
+						13.5,
+						13.25,
+						13.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						3.5,
+						12.5,
+						3.75,
+						13.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						3.25,
+						12.5,
+						3.5,
+						13.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						3.75,
+						12.5,
+						4.0,
+						13.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						13.75,
+						13.25,
+						13.5,
+						13.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						4.0,
+						12.5,
+						4.25,
+						13.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				13.400001,
+				-4.0000005,
+				8.0
+			],
+			"to": [
+				14.0,
+				0.19999981,
+				8.6
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						13.75,
+						13.5,
+						13.5,
+						13.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						12.25,
+						1.75,
+						12.5,
+						3.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						12.25,
+						0.0,
+						12.5,
+						1.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						12.25,
+						3.5,
+						12.5,
+						5.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						13.75,
+						13.5,
+						13.5,
+						13.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						12.25,
+						5.25,
+						12.5,
+						7.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				12.8,
+				-4.6000004,
+				8.0
+			],
+			"to": [
+				13.400001,
+				0.7999997,
+				8.6
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						14.0,
+						0.0,
+						13.75,
+						0.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						12.0,
+						0.0,
+						12.25,
+						2.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						11.75,
+						11.5,
+						12.0,
+						13.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						12.0,
+						2.25,
+						12.25,
+						4.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						0.25,
+						14.0,
+						0.0,
+						13.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						12.0,
+						4.5,
+						12.25,
+						6.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				12.2,
+				-4.6000004,
+				8.0
+			],
+			"to": [
+				12.8,
+				1.3999997,
+				8.6
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						14.0,
+						0.25,
+						13.75,
+						0.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						11.5,
+						10.5,
+						11.75,
+						13.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						9.75,
+						11.5,
+						10.0,
+						14.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						11.25,
+						11.5,
+						11.5,
+						14.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						0.5,
+						14.0,
+						0.25,
+						13.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						11.75,
+						0.0,
+						12.0,
+						2.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				11.6,
+				-5.200001,
+				8.0
+			],
+			"to": [
+				12.2,
+				1.3999997,
+				8.6
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						14.0,
+						0.75,
+						13.75,
+						1.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						4.5,
+						11.5,
+						4.75,
+						14.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						11.5,
+						2.75,
+						11.75,
+						5.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						4.75,
+						11.5,
+						5.0,
+						14.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						14.0,
+						0.75,
+						13.75,
+						0.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						5.0,
+						11.5,
+						5.25,
+						14.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				10.4,
+				-5.8,
+				8.0
+			],
+			"to": [
+				11.0,
+				-4.0000005,
+				8.6
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						1.5,
+						13.75,
+						1.25,
+						14.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						13.0,
+						12.5,
+						13.25,
+						13.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						13.0,
+						11.75,
+						13.25,
+						12.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						12.75,
+						13.0,
+						13.0,
+						13.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						14.0,
+						1.25,
+						13.75,
+						1.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						13.25,
+						0.0,
+						13.5,
+						0.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				9.8,
+				-5.8,
+				8.0
+			],
+			"to": [
+				10.4,
+				-5.200001,
+				8.6
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						2.75,
+						13.75,
+						2.5,
+						14.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						1.75,
+						13.75,
+						2.0,
+						14.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						13.75,
+						1.5,
+						14.0,
+						1.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						13.75,
+						1.75,
+						14.0,
+						2.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						14.0,
+						2.5,
+						13.75,
+						2.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						13.75,
+						2.0,
+						14.0,
+						2.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				11.0,
+				-5.200001,
+				8.0
+			],
+			"to": [
+				11.6,
+				-3.4000006,
+				8.6
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						1.75,
+						13.75,
+						1.5,
+						14.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						13.25,
+						1.5,
+						13.5,
+						2.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						13.25,
+						0.75,
+						13.5,
+						1.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						2.0,
+						13.25,
+						2.25,
+						14.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						14.0,
+						1.5,
+						13.75,
+						1.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						2.25,
+						13.25,
+						2.5,
+						14.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				11.0,
+				-2.2000003,
+				8.0
+			],
+			"to": [
+				11.6,
+				0.7999997,
+				8.6
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						3.0,
+						13.75,
+						2.75,
+						14.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						4.25,
+						12.5,
+						4.5,
+						13.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						12.5,
+						4.0,
+						12.75,
+						5.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						12.5,
+						5.25,
+						12.75,
+						6.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						14.0,
+						2.75,
+						13.75,
+						2.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						12.5,
+						6.5,
+						12.75,
+						7.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				10.4,
+				-1.6000004,
+				8.0
+			],
+			"to": [
+				11.0,
+				0.7999997,
+				8.6
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						3.25,
+						13.75,
+						3.0,
+						14.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						11.0,
+						12.75,
+						11.25,
+						13.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						12.75,
+						10.0,
+						13.0,
+						11.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						12.75,
+						11.0,
+						13.0,
+						12.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						14.0,
+						3.0,
+						13.75,
+						2.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						12.75,
+						12.0,
+						13.0,
+						13.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				9.8,
+				-1.0000005,
+				8.0
+			],
+			"to": [
+				10.4,
+				0.19999981,
+				8.6
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						3.5,
+						13.75,
+						3.25,
+						14.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						13.25,
+						5.75,
+						13.5,
+						6.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						13.25,
+						5.25,
+						13.5,
+						5.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						13.25,
+						6.25,
+						13.5,
+						6.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						14.0,
+						3.25,
+						13.75,
+						3.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						13.25,
+						6.75,
+						13.5,
+						7.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				9.2,
+				-1.0000005,
+				8.0
+			],
+			"to": [
+				9.8,
+				0.19999981,
+				8.6
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						3.75,
+						13.75,
+						3.5,
+						14.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						13.25,
+						7.75,
+						13.5,
+						8.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						13.25,
+						7.25,
+						13.5,
+						7.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						8.25,
+						13.25,
+						8.5,
+						13.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						14.0,
+						3.5,
+						13.75,
+						3.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						13.25,
+						8.25,
+						13.5,
+						8.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				8.6,
+				-1.0000005,
+				8.0
+			],
+			"to": [
+				9.2,
+				-0.40000033,
+				8.6
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						4.5,
+						13.75,
+						4.25,
+						14.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						3.75,
+						13.75,
+						4.0,
+						14.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						13.75,
+						3.5,
+						14.0,
+						3.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						13.75,
+						3.75,
+						14.0,
+						4.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						14.0,
+						4.25,
+						13.75,
+						4.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						4.0,
+						13.75,
+						4.25,
+						14.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				8.0,
+				-1.0000005,
+				8.0
+			],
+			"to": [
+				8.6,
+				-0.40000033,
+				8.6
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						14.0,
+						5.5,
+						13.75,
+						5.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						13.75,
+						4.5,
+						14.0,
+						4.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						13.75,
+						4.25,
+						14.0,
+						4.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						13.75,
+						4.75,
+						14.0,
+						5.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						14.0,
+						5.5,
+						13.75,
+						5.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						13.75,
+						5.0,
+						14.0,
+						5.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				16.400002,
+				-0.40000033,
+				8.0
+			],
+			"to": [
+				17.0,
+				1.9999998,
+				8.6
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						13.75,
+						12.0,
+						13.5,
+						12.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						9.0,
+						12.75,
+						9.25,
+						13.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						12.75,
+						8.0,
+						13.0,
+						9.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						12.75,
+						9.0,
+						13.0,
+						10.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						13.75,
+						12.0,
+						13.5,
+						11.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						9.25,
+						12.75,
+						9.5,
+						13.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				17.0,
+				-0.40000033,
+				8.0
+			],
+			"to": [
+				17.6,
+				18.8,
+				8.6
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						13.75,
+						6.75,
+						13.5,
+						7.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						3.25,
+						4.5,
+						3.5,
+						12.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						3.0,
+						4.5,
+						3.25,
+						12.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						3.5,
+						4.5,
+						3.75,
+						12.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						13.75,
+						6.75,
+						13.5,
+						6.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						3.75,
+						4.5,
+						4.0,
+						12.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				17.6,
+				0.19999981,
+				8.0
+			],
+			"to": [
+				18.2,
+				19.400002,
+				8.6
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						13.75,
+						7.0,
+						13.5,
+						7.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						4.25,
+						4.5,
+						4.5,
+						12.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						4.0,
+						4.5,
+						4.25,
+						12.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						0.0,
+						4.75,
+						0.25,
+						12.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						7.25,
+						13.75,
+						7.0,
+						13.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						0.25,
+						4.75,
+						0.5,
+						12.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				18.2,
+				0.7999997,
+				8.0
+			],
+			"to": [
+				18.8,
+				19.400002,
+				8.6
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						13.75,
+						7.25,
+						13.5,
+						7.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						0.75,
+						4.75,
+						1.0,
+						12.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						0.5,
+						4.75,
+						0.75,
+						12.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						1.0,
+						4.75,
+						1.25,
+						12.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						7.5,
+						13.75,
+						7.25,
+						13.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						1.25,
+						4.75,
+						1.5,
+						12.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				18.8,
+				16.400002,
+				8.0
+			],
+			"to": [
+				19.400002,
+				20.0,
+				8.6
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						8.0,
+						13.5,
+						7.75,
+						13.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						0.5,
+						12.5,
+						0.75,
+						14.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						12.5,
+						0.0,
+						12.75,
+						1.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						0.75,
+						12.5,
+						1.0,
+						14.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						13.75,
+						7.75,
+						13.5,
+						7.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						1.0,
+						12.5,
+						1.25,
+						14.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				19.400002,
+				17.6,
+				8.0
+			],
+			"to": [
+				20.0,
+				20.0,
+				8.6
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						8.25,
+						13.5,
+						8.0,
+						13.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						12.5,
+						11.75,
+						12.75,
+						12.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						12.5,
+						10.75,
+						12.75,
+						11.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						0.0,
+						12.75,
+						0.25,
+						13.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						13.75,
+						8.0,
+						13.5,
+						7.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						12.75,
+						0.0,
+						13.0,
+						1.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				20.0,
+				17.6,
+				8.0
+			],
+			"to": [
+				20.600002,
+				20.600002,
+				8.6
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						13.75,
+						8.25,
+						13.5,
+						8.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						12.5,
+						1.5,
+						12.75,
+						2.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						1.25,
+						12.5,
+						1.5,
+						13.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						12.5,
+						2.75,
+						12.75,
+						4.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						13.75,
+						8.25,
+						13.5,
+						8.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						3.0,
+						12.5,
+						3.25,
+						13.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				20.600002,
+				18.2,
+				8.0
+			],
+			"to": [
+				21.2,
+				20.600002,
+				8.6
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						13.75,
+						8.5,
+						13.5,
+						8.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						12.75,
+						1.0,
+						13.0,
+						2.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						0.25,
+						12.75,
+						0.5,
+						13.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						12.75,
+						2.0,
+						13.0,
+						3.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						8.75,
+						13.75,
+						8.5,
+						13.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						12.75,
+						3.0,
+						13.0,
+						4.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				21.2,
+				18.2,
+				8.0
+			],
+			"to": [
+				21.8,
+				20.600002,
+				8.6
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						13.75,
+						9.0,
+						13.5,
+						9.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						12.75,
+						5.0,
+						13.0,
+						6.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						12.75,
+						4.0,
+						13.0,
+						5.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						12.75,
+						6.0,
+						13.0,
+						7.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						13.75,
+						9.0,
+						13.5,
+						8.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						12.75,
+						7.0,
+						13.0,
+						8.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				21.8,
+				18.8,
+				8.0
+			],
+			"to": [
+				22.400002,
+				20.600002,
+				8.6
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						9.75,
+						13.5,
+						9.5,
+						13.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						13.0,
+						3.5,
+						13.25,
+						4.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						2.75,
+						13.0,
+						3.0,
+						13.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						13.0,
+						4.25,
+						13.25,
+						5.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						13.75,
+						9.5,
+						13.5,
+						9.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						13.0,
+						5.0,
+						13.25,
+						5.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				22.400002,
+				19.400002,
+				8.0
+			],
+			"to": [
+				23.0,
+				20.600002,
+				8.6
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						13.75,
+						9.75,
+						13.5,
+						10.0
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						13.25,
+						3.75,
+						13.5,
+						4.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						2.5,
+						13.25,
+						2.75,
+						13.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						13.25,
+						4.25,
+						13.5,
+						4.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						13.75,
+						9.75,
+						13.5,
+						9.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						13.25,
+						4.75,
+						13.5,
+						5.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		},
+		{
+			"name": "cube",
+			"from": [
+				23.0,
+				20.0,
+				8.0
+			],
+			"to": [
+				23.600002,
+				20.600002,
+				8.6
+			],
+			"rotation": {
+				"angle": 0.0,
+				"axis": "x",
+				"origin": [
+					8.0,
+					8.0,
+					8.0
+				]
+			},
+			"faces": {
+				"down": {
+					"uv": [
+						13.75,
+						11.0,
+						13.5,
+						11.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"east": {
+					"uv": [
+						10.25,
+						13.5,
+						10.5,
+						13.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"north": {
+					"uv": [
+						13.5,
+						10.0,
+						13.75,
+						10.25
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"south": {
+					"uv": [
+						13.5,
+						10.25,
+						13.75,
+						10.5
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [
+						13.75,
+						11.0,
+						13.5,
+						10.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				},
+				"west": {
+					"uv": [
+						13.5,
+						10.5,
+						13.75,
+						10.75
+					],
+					"rotation": 0,
+					"texture": "#aeff89d7-37ee-8111-53a4-33bae673296e",
+					"tintindex": 0
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [
+				0.0,
+				-6.4,
+				0.0
+			],
+			"rotation": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"scale": [
+				3.8095,
+				3.8095,
+				3.8095
+			]
+		},
+		"gui": {
+			"translation": [
+				0.0,
+				0.0,
+				0.0
+			],
+			"rotation": [
+				35.0,
+				225.0,
+				0.0
+			],
+			"scale": [
+				0.625,
+				0.625,
+				0.625
+			]
+		}
+	}
+}
