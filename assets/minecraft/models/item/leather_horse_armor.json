@@ -2915,6 +2915,12 @@
 				"custom_model_data": 506
 			},
 			"model": "modelengine:gigasbabyred/gigasbaby"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 507
+			},
+			"model": "modelengine:signorca/torso"
 		}		
   ],
   "textures": {
