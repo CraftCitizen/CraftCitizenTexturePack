@@ -34,6 +34,7 @@
 		{ "predicate": { "custom_model_data": 52}, "model": "item/diamondsword/pencilpurp" },
 		{ "predicate": { "custom_model_data": 53}, "model": "item/diamondsword/valgardsword" },
 		{ "predicate": { "custom_model_data": 54}, "model": "item/diamondsword/vdiasword2" },
-        { "predicate": { "custom_model_data": 55}, "model": "littleroom_deadbeard:item/hook"}		
+        { "predicate": { "custom_model_data": 55}, "model": "littleroom_deadbeard:item/hook"},
+        { "predicate": { "custom_model_data": 85}, "model": "item/swords/hammer1dia"}		
 	]
 }

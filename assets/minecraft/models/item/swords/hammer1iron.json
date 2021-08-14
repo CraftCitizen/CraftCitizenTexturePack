@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench by Pashjn",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "items/hammer",
-		"particle": "items/hammer"
+		"0": "items/hammer1iron",
+		"particle": "items/hammer1iron"
 	},
 	"elements": [
 		{

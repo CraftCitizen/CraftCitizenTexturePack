@@ -65,6 +65,6 @@
         { "predicate": { "custom_model_data": 82}, "model": "littleroom_gigas:items/gigasclaw"},
         { "predicate": { "custom_model_data": 83}, "model": "item/netheritesword/purpleflame"},
         { "predicate": { "custom_model_data": 84}, "model": "item/netheritesword/endersword"},
-        { "predicate": { "custom_model_data": 85}, "model": "item/netheritesword/hammer1"}		
+        { "predicate": { "custom_model_data": 85}, "model": "item/swords/hammer1netherite"}		
 	]
 }
