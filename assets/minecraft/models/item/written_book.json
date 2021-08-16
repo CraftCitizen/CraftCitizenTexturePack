@@ -6,7 +6,12 @@
 	"overrides": [
 		{ "predicate": { "custom_model_data": 1}, "model": "item/book/pbook1" },
 		{ "predicate": { "custom_model_data": 2}, "model": "item/book/pbook2" },
-		{ "predicate": { "custom_model_data": 3}, "model": "item/book/portalbook" },
-		{ "predicate": { "custom_model_data": 4}, "model": "item/book/wizardbook" }		
+		{ "predicate": { "custom_model_data": 3}, "model": "item/book/spellbook1" },
+		{ "predicate": { "custom_model_data": 4}, "model": "item/book/demonbook" },		
+		{ "predicate": { "custom_model_data": 5}, "model": "item/book/spellbook4" },
+		{ "predicate": { "custom_model_data": 6}, "model": "item/book/portalbook" },
+		{ "predicate": { "custom_model_data": 7}, "model": "item/book/spellbook2" },
+		{ "predicate": { "custom_model_data": 8}, "model": "item/book/spellbook3" },
+		{ "predicate": { "custom_model_data": 9}, "model": "item/book/wizardbook" }		
 	]
 }
