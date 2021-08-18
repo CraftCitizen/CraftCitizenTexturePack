@@ -1,0 +1,42 @@
+{
+   "littleroom.capra.death":{
+		 "sounds": [
+			"littleroom/capra/death"
+		 ]
+	},
+	"littleroom.capra.despair":{
+		 "sounds": [
+			"littleroom/capra/despair"
+		 ]
+	},
+	"littleroom.capra.laugh":{
+		 "sounds": [
+			"littleroom/capra/laugh"
+		 ]
+	},
+	"littleroom.capra.meteorimpact":{
+		 "sounds": [
+			"littleroom/capra/meteorimpact"
+		 ]
+	},
+	"littleroom.capra.phillip":{
+		 "sounds": [
+			"littleroom/capra/phillip"
+		 ]
+	},
+	"littleroom.capra.summon":{
+		 "sounds": [
+			"littleroom/capra/summon"
+		 ]
+	},
+	"littleroom.capra.glide":{
+		 "sounds": [
+			"littleroom/capra/glide"
+		 ]
+	},
+	"littleroom.capra.stun":{
+		 "sounds": [
+			"littleroom/capra/stun"
+		 ]
+	}
+}

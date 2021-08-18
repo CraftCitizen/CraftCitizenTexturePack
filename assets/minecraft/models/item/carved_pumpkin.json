@@ -37,6 +37,7 @@
 		{"predicate": {"custom_model_data":30}, "model": "item/halloween/vamp_mask"},
 		{"predicate": {"custom_model_data":31}, "model": "littleroom_duckhat:duck_hat"},
 		{ "predicate": { "custom_model_data": 32}, "model": "item/pumpkin/farmer" },
-		{ "predicate": { "custom_model_data": 33}, "model": "item/pumpkin/wizard" }		
+		{ "predicate": { "custom_model_data": 33}, "model": "item/pumpkin/wizard" },
+		{"predicate": {"custom_model_data":34}, "model": "littleroom_capra:capra/horns"}		
 	]
 }

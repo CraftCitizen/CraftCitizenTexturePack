@@ -2921,6 +2921,240 @@
 				"custom_model_data": 507
 			},
 			"model": "modelengine:signorca/torso"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 508
+			},
+			"model": "modelengine:capra/righthorn"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 509
+			},
+			"model": "modelengine:capra/lefthorn"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 510
+			},
+			"model": "modelengine:capra/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 511
+			},
+			"model": "modelengine:capra/crown"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 512
+			},
+			"model": "modelengine:capra/scythe"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 513
+			},
+			"model": "modelengine:capra/righthand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 514
+			},
+			"model": "modelengine:capra/rightforearm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 515
+			},
+			"model": "modelengine:capra/rightbicep"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 516
+			},
+			"model": "modelengine:capra/lefthand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 517
+			},
+			"model": "modelengine:capra/leftforearm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 518
+			},
+			"model": "modelengine:capra/leftbicep"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 519
+			},
+			"model": "modelengine:capra/rightleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 520
+			},
+			"model": "modelengine:capra/rightthigh"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 521
+			},
+			"model": "modelengine:capra/leftleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 522
+			},
+			"model": "modelengine:capra/leftthigh"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 523
+			},
+			"model": "modelengine:capra/rightwing"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 524
+			},
+			"model": "modelengine:capra/leftwing"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 525
+			},
+			"model": "modelengine:capra/capra"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 526
+			},
+			"model": "modelengine:caprachains/chains"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 527
+			},
+			"model": "modelengine:imp/leftwing"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 528
+			},
+			"model": "modelengine:imp/leftarm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 529
+			},
+			"model": "modelengine:imp/leftleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 530
+			},
+			"model": "modelengine:imp/rightwing"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 531
+			},
+			"model": "modelengine:imp/rightleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 532
+			},
+			"model": "modelengine:imp/rightarm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 533
+			},
+			"model": "modelengine:imp/imp"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 534
+			},
+			"model": "modelengine:magiccircle/magiccircle"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 535
+			},
+			"model": "modelengine:meteor/meteor"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 536
+			},
+			"model": "modelengine:phillip/frontrightleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 537
+			},
+			"model": "modelengine:phillip/righthorn"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 538
+			},
+			"model": "modelengine:phillip/lefthorn"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 539
+			},
+			"model": "modelengine:phillip/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 540
+			},
+			"model": "modelengine:phillip/backrightleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 541
+			},
+			"model": "modelengine:phillip/frontleftleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 542
+			},
+			"model": "modelengine:phillip/backleftleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 543
+			},
+			"model": "modelengine:phillip/phillip"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 544
+			},
+			"model": "modelengine:scythe/fx"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 545
+			},
+			"model": "modelengine:scythe/scythe"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 546
+			},
+			"model": "modelengine:slashfx/slashfx"
 		}		
   ],
   "textures": {

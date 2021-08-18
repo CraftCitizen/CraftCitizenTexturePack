@@ -1387,6 +1387,13 @@
 			"ascent": 15,
 			"height": 40,
 			"chars": ["\uEE10"]
+		},
+        {
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/karen.png",
+			"ascent": -2,
+			"height": 41,
+			"chars": ["\uEA30"]
 		}			
     ]
 }
