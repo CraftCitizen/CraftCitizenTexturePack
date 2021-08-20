@@ -3,7 +3,7 @@
 	"texture_size": [64, 64],
 	"textures": {
 		"0": "items/heartpiercer3",
-		"particle": "heartpiercer/heartpiercer3"
+		"particle": "items/heartpiercer3"
 	},
 	"elements": [
 		{

@@ -1394,6 +1394,27 @@
 			"ascent": -2,
 			"height": 41,
 			"chars": ["\uEA30"]
+		},
+        {
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/bane.png",
+			"ascent": -2,
+			"height": 41,
+			"chars": ["\uEE15"]
+		},
+        {
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/sphinx.png",
+			"ascent": -2,
+			"height": 41,
+			"chars": ["\uEE16"]
+		},
+        {
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/vagabond.png",
+			"ascent": -2,
+			"height": 41,
+			"chars": ["\uEE17"]
 		}			
     ]
 }
