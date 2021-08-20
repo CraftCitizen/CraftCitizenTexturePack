@@ -1,9 +1,0 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "item/book"
-    },
-	"overrides": [
-		{ "predicate": { "custom_model_data": 200}, "model": "item/book/questbook" }	
-	]
-}
