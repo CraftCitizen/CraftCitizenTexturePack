@@ -27,6 +27,8 @@
 		{ "predicate": { "custom_model_data": 113}, "model": "item/vote/swordscroll" },
 		{ "predicate": { "custom_model_data": 114}, "model": "item/vote/aetheringot" },
 		{ "predicate": { "custom_model_data": 115}, "model": "item/vote/questtoken" },
-		{ "predicate": { "custom_model_data": 116}, "model": "item/vote/scrolls3" }		
+		{ "predicate": { "custom_model_data": 116}, "model": "item/vote/scrolls3" },
+		{ "predicate": { "custom_model_data": 120}, "model": "item/tools/brokenspearblade" },
+		{ "predicate": { "custom_model_data": 121}, "model": "item/tools/brokenspearstaff" }			
 	]
 }
