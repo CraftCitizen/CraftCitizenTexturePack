@@ -1415,6 +1415,13 @@
 			"ascent": -2,
 			"height": 41,
 			"chars": ["\uEE17"]
-		}			
+		},
+        {
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/questmark.png",
+			"ascent": -2,
+			"height": 41,
+			"chars": ["\uEE18"]
+		}				
     ]
 }
