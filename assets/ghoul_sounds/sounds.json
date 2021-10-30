@@ -1,0 +1,22 @@
+{
+   "ghouls.scream1":{
+		 "sounds": [
+			"ghouls/scream1"
+		 ]
+	}, 
+	"ghouls.scream2":{
+		 "sounds": [
+			"ghouls/scream2"
+		 ]
+	}, 
+	"ghouls.scream3":{
+		 "sounds": [
+			"ghouls/scream3"
+		 ]
+	}, 
+	"ghouls.scream4":{
+		 "sounds": [
+			"ghouls/scream4"
+		 ]
+	}
+}

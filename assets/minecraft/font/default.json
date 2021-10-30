@@ -1422,6 +1422,34 @@
 			"ascent": -2,
 			"height": 41,
 			"chars": ["\uEE18"]
+		},
+        {
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/traitor.png",
+			"ascent": -2,
+			"height": 41,
+			"chars": ["\uEE19"]
+		},
+        {
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/magus.png",
+			"ascent": -2,
+			"height": 41,
+			"chars": ["\uEE20"]
+		},
+        {
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/drake.png",
+			"ascent": -2,
+			"height": 41,
+			"chars": ["\uEE21"]
+		},
+        {
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/peggy.png",
+			"ascent": -2,
+			"height": 41,
+			"chars": ["\uEE22"]
 		}				
     ]
 }

@@ -1,0 +1,72 @@
+{
+   "littleroom.mortos.mortosbite":{
+		 "sounds": [
+			"littleroom/mortos/mortosbite"
+		 ]
+	},
+	"littleroom.mortos.mortosbreath":{
+		 "sounds": [
+			"littleroom/mortos/mortosbreath"
+		 ]
+	},
+	"littleroom.mortos.mortostail":{
+		 "sounds": [
+			"littleroom/mortos/mortostail"
+		 ]
+	},
+	"littleroom.mortos.rotterdeath":{
+		 "sounds": [
+			"littleroom/mortos/rotterdeath"
+		 ]
+	},
+	"littleroom.mortos.rotterhit":{
+		 "sounds": [
+			"littleroom/mortos/rotterhit"
+		 ]
+	},
+	"littleroom.mortos.rotterhit2":{
+		 "sounds": [
+			"littleroom/mortos/rotterhit2"
+		 ]
+	},
+	"littleroom.mortos.rotterhit3":{
+		 "sounds": [
+			"littleroom/mortos/rotterhit3"
+		 ]
+	},
+	"littleroom.mortos.rotterspawn":{
+		 "sounds": [
+			"littleroom/mortos/rotterspawn"
+		 ]
+	},
+	"littleroom.mortos.rotterswing":{
+		 "sounds": [
+			"littleroom/mortos/rotterswing"
+		 ]
+	},
+	"littleroom.mortos.rotterswing2":{
+		 "sounds": [
+			"littleroom/mortos/rotterswing2"
+		 ]
+	},
+	"littleroom.mortos.rotterswing3":{
+		 "sounds": [
+			"littleroom/mortos/rotterswing3"
+		 ]
+	},
+	"littleroom.mortos.mortosland":{
+		 "sounds": [
+			"littleroom/mortos/mortosland"
+		 ]
+	},
+	"littleroom.mortos.mortosdeath":{
+		 "sounds": [
+			"littleroom/mortos/mortosdeath"
+		 ]
+	},
+	"littleroom.mortos.poof":{
+		 "sounds": [
+			"littleroom/mortos/poof"
+		 ]
+	}
+}
