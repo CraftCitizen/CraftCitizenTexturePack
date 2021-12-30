@@ -286,6 +286,21 @@
                 "custom_model_data": 16
             },
             "model": "item/shield/shieldb"			
+        },
+			{
+            "predicate": {
+				"blocking": 0,
+                "custom_model_data": 17
+				
+            },
+            "model": "item/shield/presentshield0"
+        },
+		        {
+            "predicate": {
+				"blocking": 1,
+                "custom_model_data": 17
+            },
+            "model": "item/shield/presentshield1"			
         }		
     ]
 }

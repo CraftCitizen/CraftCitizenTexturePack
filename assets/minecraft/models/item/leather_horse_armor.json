@@ -4229,6 +4229,234 @@
 				"custom_model_data": 725
 			},
 			"model": "modelengine:vamp/torso"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 726
+			},
+			"model": "modelengine:barrel/barrel"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 727
+			},
+			"model": "modelengine:chest/deckel"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 728
+			},
+			"model": "modelengine:chest/chest"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 729
+			},
+			"model": "modelengine:crate/lid"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 730
+			},
+			"model": "modelengine:crate/break"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 731
+			},
+			"model": "modelengine:crate/crate"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 732
+			},
+			"model": "modelengine:crate_small/crate"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 733
+			},
+			"model": "modelengine:sack/sack"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 734
+			},
+			"model": "modelengine:table/table"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 735
+			},
+			"model": "modelengine:table/bone"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 736
+			},
+			"model": "modelengine:vase/vase"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 737
+			},
+			"model": "modelengine:present/sack"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 738
+			},
+			"model": "modelengine:npcquestmark/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 739
+			},
+			"model": "modelengine:vs_carnivoreplant/jaw"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 740
+			},
+			"model": "modelengine:vs_carnivoreplant/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 741
+			},
+			"model": "modelengine:vs_carnivoreplant/neck2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 742
+			},
+			"model": "modelengine:vs_carnivoreplant/neck"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 743
+			},
+			"model": "modelengine:vs_carnivoreplant/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 744
+			},
+			"model": "modelengine:vs_carnivoreplant_baby/jaw"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 745
+			},
+			"model": "modelengine:vs_carnivoreplant_baby/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 746
+			},
+			"model": "modelengine:vs_carnivoreplant_baby/neck2"
+		},
+		{
+			"predicate": {
+				"custom_model_data":747
+			},
+			"model": "modelengine:vs_carnivoreplant_baby/neck"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 748
+			},
+			"model": "modelengine:vs_carnivoreplant_baby/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 749
+			},
+			"model": "modelengine:vs_fireplant/bone"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 750
+			},
+			"model": "modelengine:vs_fireplant/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 751
+			},
+			"model": "modelengine:vs_fireplant/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 752
+			},
+			"model": "modelengine:vs_healplant/bone"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 753
+			},
+			"model": "modelengine:vs_healplant/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 754
+			},
+			"model": "modelengine:vs_healplant_exhausted/bone"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 755
+			},
+			"model": "modelengine:vs_healplant_exhausted/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 756
+			},
+			"model": "modelengine:vs_iceplant/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 757
+			},
+			"model": "modelengine:vs_iceplant/bone"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 758
+			},
+			"model": "modelengine:vs_iceplant/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 759
+			},
+			"model": "modelengine:vs_levitateplant/bone"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 760
+			},
+			"model": "modelengine:vs_levitateplant/bone2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 761
+			},
+			"model": "modelengine:vs_levitateplant/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 762
+			},
+			"model": "modelengine:vs_nauseaplant/bone"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 763
+			},
+			"model": "modelengine:vs_nauseaplant/body"
 		}		
   ],
   "textures": {

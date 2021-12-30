@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/template_spawn_egg",
+  "overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "item/vs_plants_models/vs_healplant" },
+		{ "predicate": { "custom_model_data": 2}, "model": "item/vs_plants_models/vs_carnivoreplant_baby" },
+		{ "predicate": { "custom_model_data": 3}, "model": "item/vs_plants_models/vs_levitateplant" },
+		{ "predicate": { "custom_model_data": 4}, "model": "item/vs_plants_models/vs_nauseaplant" },
+		{ "predicate": { "custom_model_data": 5}, "model": "item/vs_plants_models/vs_fireplant" },
+		{ "predicate": { "custom_model_data": 6}, "model": "item/vs_plants_models/vs_iceplant" }		
+	]  
+}

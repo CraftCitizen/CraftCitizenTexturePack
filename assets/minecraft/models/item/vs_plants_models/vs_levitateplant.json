@@ -1,0 +1,127 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "modelengine:entity/vs_levitateplant"
+	},
+	"elements": [
+		{
+			"from": [5.076, -0.036, 6.388],
+			"to": [9.332, 2.7, 10.644],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.1847, 17.17154, 13.85444]},
+			"faces": {
+				"north": {"uv": [0, 8, 3.5, 10.25], "texture": "#0"},
+				"east": {"uv": [9, 6.5, 12.5, 8.75], "texture": "#0"},
+				"south": {"uv": [9, 8.75, 12.5, 11], "texture": "#0"},
+				"west": {"uv": [10, 0, 13.5, 2.25], "texture": "#0"},
+				"up": {"uv": [7.5, 3.5, 4, 0], "texture": "#0"},
+				"down": {"uv": [7.5, 3.5, 4, 7], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4.772, 0.116, 6.084],
+			"to": [9.636, 2.092, 10.948],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.1847, 2.57954, 8.38244]},
+			"faces": {
+				"north": {"uv": [10, 2.25, 14, 4], "texture": "#0"},
+				"east": {"uv": [10, 4, 14, 5.75], "texture": "#0"},
+				"south": {"uv": [0, 10.25, 4, 12], "texture": "#0"},
+				"west": {"uv": [4, 10.25, 8, 12], "texture": "#0"},
+				"up": {"uv": [4, 4, 0, 0], "texture": "#0"},
+				"down": {"uv": [4, 4, 0, 8], "texture": "#0"}
+			}
+		},
+		{
+			"from": [9.028, 0.268, 6.54],
+			"to": [12.068, 0.268, 10.492],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [9.332, 0.268, 8.516]},
+			"faces": {
+				"north": {"uv": [0, 0, 2.5, 0], "texture": "#0"},
+				"east": {"uv": [0, 0, 3.25, 0], "texture": "#0"},
+				"south": {"uv": [0, 0, 2.5, 0], "texture": "#0"},
+				"west": {"uv": [0, 0, 3.25, 0], "texture": "#0"},
+				"up": {"uv": [10, 3.25, 7.5, 0], "texture": "#0"},
+				"down": {"uv": [10, 3.25, 7.5, 6.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [12.02149, 2.12937, 6.54],
+			"to": [15.06149, 2.12937, 10.492],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [9.89349, 2.12937, 8.516]},
+			"faces": {
+				"north": {"uv": [0, 0, 2.5, 0], "texture": "#0"},
+				"east": {"uv": [0, 0, 3.25, 0], "texture": "#0"},
+				"south": {"uv": [0, 0, 2.5, 0], "texture": "#0"},
+				"west": {"uv": [0, 0, 3.25, 0], "texture": "#0"},
+				"up": {"uv": [6.5, 10.25, 4, 7], "texture": "#0"},
+				"down": {"uv": [9, 7, 6.5, 10.25], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-1.11511, -0.18964, 6.54],
+			"to": [1.92489, -0.18964, 10.492],
+			"rotation": {"angle": -45, "axis": "z", "origin": [4.05289, -0.18964, 8.516]},
+			"faces": {
+				"north": {"uv": [2.5, 0, 0, 0], "texture": "#0"},
+				"east": {"uv": [3.25, 0, 0, 0], "texture": "#0"},
+				"south": {"uv": [2.5, 0, 0, 0], "texture": "#0"},
+				"west": {"uv": [3.25, 0, 0, 0], "texture": "#0"},
+				"up": {"uv": [4, 10.25, 6.5, 7], "texture": "#0"},
+				"down": {"uv": [6.5, 7, 9, 10.25], "texture": "#0"}
+			}
+		},
+		{
+			"from": [2.34, 0.268, 6.54],
+			"to": [5.38, 0.268, 10.492],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [5.076, 0.268, 8.516]},
+			"faces": {
+				"north": {"uv": [2.5, 0, 0, 0], "texture": "#0"},
+				"east": {"uv": [3.25, 0, 0, 0], "texture": "#0"},
+				"south": {"uv": [2.5, 0, 0, 0], "texture": "#0"},
+				"west": {"uv": [3.25, 0, 0, 0], "texture": "#0"},
+				"up": {"uv": [7.5, 3.25, 10, 0], "texture": "#0"},
+				"down": {"uv": [7.5, 3.25, 10, 6.5], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 3.75, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 3.75, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 0, 34.75],
+			"translation": [0, 8.25, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 0, 34.75],
+			"translation": [0, 8.25, 0]
+		},
+		"ground": {
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [90, 46.25, 0],
+			"translation": [0, 1, 0],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [1.5, -0.75, -16.75],
+			"scale": [2, 2, 2]
+		}
+	},
+	"groups": [
+		{
+			"name": "body",
+			"origin": [-0.16667, 0.16667, 1.5],
+			"color": 0,
+			"children": [0, 1, 2, 3, 4, 5]
+		}
+	]
+}

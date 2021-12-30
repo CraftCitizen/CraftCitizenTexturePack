@@ -71,6 +71,7 @@
         { "predicate": { "custom_model_data": 88}, "model": "item/netheritesword/heartpiercer2"},
         { "predicate": { "custom_model_data": 89}, "model": "item/netheritesword/heartpiercer3"},
         { "predicate": { "custom_model_data": 90}, "model": "item/netheritesword/holycross1"},
-        { "predicate": { "custom_model_data": 91}, "model": "item/netheritesword/holycross2"}		
+        { "predicate": { "custom_model_data": 91}, "model": "item/netheritesword/holycross2"},
+        { "predicate": { "custom_model_data": 92}, "model": "item/netheritesword/presentsword"}		
 	]
 }

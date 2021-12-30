@@ -1450,6 +1450,20 @@
 			"ascent": -2,
 			"height": 41,
 			"chars": ["\uEE22"]
-		}				
+		},
+        {
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/cursedvision.png",
+			"ascent": -2,
+			"height": 41,
+			"chars": ["\uEE23"]
+		},
+        {
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/cursedvision.png",
+			"ascent": -2,
+			"height": 41,
+			"chars": ["\uEF01"]
+		}
     ]
 }
