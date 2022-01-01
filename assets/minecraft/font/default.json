@@ -1464,6 +1464,13 @@
 			"ascent": -2,
 			"height": 41,
 			"chars": ["\uEF01"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/titles/aether_currency.png",
+			"ascent": 7.75,
+			"height": 7.75,
+			"chars": ["\uEF02"]
 		}
     ]
 }
