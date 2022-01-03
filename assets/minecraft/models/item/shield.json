@@ -301,6 +301,81 @@
                 "custom_model_data": 17
             },
             "model": "item/shield/presentshield1"			
+        },
+			{
+            "predicate": {
+				"blocking": 0,
+                "custom_model_data": 18
+				
+            },
+            "model": "item/shield/wingsdemona"
+        },
+		        {
+            "predicate": {
+				"blocking": 1,
+                "custom_model_data": 18
+            },
+            "model": "item/shield/wingsdemonb"			
+        },
+			{
+            "predicate": {
+				"blocking": 0,
+                "custom_model_data": 19
+				
+            },
+            "model": "item/shield/wingsdemon2a"
+        },
+		        {
+            "predicate": {
+				"blocking": 1,
+                "custom_model_data": 19
+            },
+            "model": "item/shield/wingsdemon2b"			
+        },
+			{
+            "predicate": {
+				"blocking": 0,
+                "custom_model_data": 20
+				
+            },
+            "model": "item/shield/wingsdemon3a"
+        },
+		        {
+            "predicate": {
+				"blocking": 1,
+                "custom_model_data": 20
+            },
+            "model": "item/shield/wingsdemon3b"			
+        },
+			{
+            "predicate": {
+				"blocking": 0,
+                "custom_model_data": 21
+				
+            },
+            "model": "item/shield/wingsdemon4a"
+        },
+		        {
+            "predicate": {
+				"blocking": 1,
+                "custom_model_data": 21
+            },
+            "model": "item/shield/wingsdemon4b"			
+        },
+			{
+            "predicate": {
+				"blocking": 0,
+                "custom_model_data": 22
+				
+            },
+            "model": "item/shield/wingsdemon5a"
+        },
+		        {
+            "predicate": {
+				"blocking": 1,
+                "custom_model_data": 22
+            },
+            "model": "item/shield/wingsdemon5b"			
         }		
     ]
 }
