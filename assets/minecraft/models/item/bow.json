@@ -328,6 +328,50 @@
 				"custom_model_data": 13
 			},
 			"model": "item/bow/hydrabow3"
-		}			
+		},
+		{ "predicate": { "custom_model_data": 14}, "model": "item/bow/vs_frostfestivalbow0" },
+		{
+			"predicate": {
+				"custom_model_data": 14,
+				"pulling": 1
+			},
+			"model": "item/bow/vs_frostfestivalbow1"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 0.65,
+				"custom_model_data": 14
+			},
+			"model": "item/bow/vs_frostfestivalbow2"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 0.9,
+				"custom_model_data": 14
+			},
+			"model": "item/bow/vs_frostfestivalbow3"
+		},
+		{ "predicate": { "custom_model_data": 15}, "model": "item/tools/cc_aetherite_bow0" },
+		{
+			"predicate": {
+				"custom_model_data": 15,
+				"pulling": 1
+			},
+			"model": "item/tools/cc_aetherite_bow1"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 0.65,
+				"custom_model_data": 15
+			},
+			"model": "item/tools/cc_aetherite_bow2"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 0.9,
+				"custom_model_data": 15
+			},
+			"model": "item/tools/cc_aetherite_bow3"
+		}				
 	]
 }

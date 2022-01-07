@@ -14,6 +14,8 @@
 		{ "predicate": { "custom_model_data": 16}, "model": "littleroom:item/goblinaxe" },
 		{ "predicate": { "custom_model_data": 17}, "model": "item/netheriteaxe/netheraxe" },
 		{ "predicate": { "custom_model_data": 18}, "model": "item/netheriteaxe/hammer2" },
-		{ "predicate": { "custom_model_data": 19}, "model": "item/netheriteaxe/lumberaxe" }		
+		{ "predicate": { "custom_model_data": 19}, "model": "item/netheriteaxe/lumberaxe" },
+		{ "predicate": { "custom_model_data": 20}, "model": "item/tools/vs_frostfestivalaxe" },
+		{ "predicate": { "custom_model_data": 21}, "model": "item/tools/cc_aetherite_axe" }		
 	]
 }

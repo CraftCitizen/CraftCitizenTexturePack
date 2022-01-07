@@ -1471,6 +1471,13 @@
 			"ascent": 7.75,
 			"height": 7.75,
 			"chars": ["\uEF02"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/titles/store_item.png",
+			"ascent": 7.75,
+			"height": 7.75,
+			"chars": ["\uEF03"]
 		}
     ]
 }

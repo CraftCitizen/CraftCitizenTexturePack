@@ -376,6 +376,36 @@
                 "custom_model_data": 22
             },
             "model": "item/shield/wingsdemon5b"			
+        },
+			{
+            "predicate": {
+				"blocking": 0,
+                "custom_model_data": 23
+				
+            },
+            "model": "item/shield/vs_frostfestivalshield0"
+        },
+		        {
+            "predicate": {
+				"blocking": 1,
+                "custom_model_data": 23
+            },
+            "model": "item/shield/vs_frostfestivalshield1"			
+        },
+			{
+            "predicate": {
+				"blocking": 0,
+                "custom_model_data": 24
+				
+            },
+            "model": "item/tools/cc_aetherite_shield0"
+        },
+		        {
+            "predicate": {
+				"blocking": 1,
+                "custom_model_data": 24
+            },
+            "model": "item/tools/cc_aetherite_shield1"			
         }		
     ]
 }
