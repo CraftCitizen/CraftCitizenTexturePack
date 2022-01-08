@@ -32,6 +32,7 @@
 		{ "predicate": { "custom_model_data": 121}, "model": "item/tools/brokenspearstaff" },
 		{ "predicate": { "custom_model_data": 122}, "model": "item/itemparts/npcquestmark" },
 		{ "predicate": { "custom_model_data": 123}, "model": "item/itemparts/ericcoupon" },
-		{ "predicate": { "custom_model_data": 124}, "model": "item/aetherfragment/aetherlesser" }		
+		{ "predicate": { "custom_model_data": 124}, "model": "item/aetherfragment/aetherlesser" },
+		{ "predicate": { "custom_model_data": 125}, "model": "item/vote/silvercoin" }		
 	]
 }
