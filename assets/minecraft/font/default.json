@@ -1,5 +1,89 @@
 {
     "providers": [
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/tooltips/lshift.png",
+			"ascent": 12,
+			"height": 14,
+			"chars": ["\uE102"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/economy/0.png",
+			"ascent": 27,
+			"height": 51,
+			"chars": ["\uEE00"]
+		},
+        {
+			"type": "bitmap",
+			"file": "minecraft:font/economy/1.png",
+			"ascent": 28,
+			"height": 51,
+			"chars": ["\uEE01"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/economy/2.png",
+			"ascent": 28,
+			"height": 51,
+			"chars": ["\uEE02"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/economy/3.png",
+			"ascent": 28,
+			"height": 51,
+			"chars": ["\uEE03"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/economy/4.png",
+			"ascent": 28,
+			"height": 51,
+			"chars": ["\uEE04"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/economy/5.png",
+			"ascent": 28,
+			"height": 51,
+			"chars": ["\uEE05"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/economy/6.png",
+			"ascent": 28,
+			"height": 51,
+			"chars": ["\uEE06"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/economy/7.png",
+			"ascent": 28,
+			"height": 51,
+			"chars": ["\uEE07"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/economy/8.png",
+			"ascent": 28,
+			"height": 51,
+			"chars": ["\uEE08"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/economy/9.png",
+			"ascent": 28,
+			"height": 51,
+			"chars": ["\uEE09"]
+		},
+        {
+			"type": "bitmap",
+			"file": "minecraft:font/economy/aether.png",
+			"ascent": 29,
+			"height": 53,
+			"chars": ["\uEE10"]
+		},
         {
             "type": "bitmap",
             "file": "space:font/space_split.png",
@@ -851,6 +935,13 @@
 		},
 		{
 			"type": "bitmap",
+			"file": "minecraft:font/inventory/banker.png",
+			"ascent": 13,
+			"height": 127,
+			"chars": ["\uE331"]
+		},
+		{
+			"type": "bitmap",
 			"file": "minecraft:font/tooltips/tip1.png",
 			"ascent": 20,
 			"height": 20,
@@ -1314,79 +1405,16 @@
         {
 			"type": "bitmap",
 			"file": "minecraft:font/economy/0.png",
-			"ascent": 27,
-			"height": 50,
+			"ascent": 31,
+			"height": 51,
 			"chars": ["\uEE00"]
 		},
         {
 			"type": "bitmap",
 			"file": "minecraft:font/economy/1.png",
-			"ascent": 27,
-			"height": 50,
+			"ascent": 31,
+			"height": 51,
 			"chars": ["\uEE01"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/economy/2.png",
-			"ascent": 27,
-			"height": 50,
-			"chars": ["\uEE02"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/economy/3.png",
-			"ascent": 27,
-			"height": 50,
-			"chars": ["\uEE03"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/economy/4.png",
-			"ascent": 27,
-			"height": 50,
-			"chars": ["\uEE04"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/economy/5.png",
-			"ascent": 27,
-			"height": 50,
-			"chars": ["\uEE05"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/economy/6.png",
-			"ascent": 27,
-			"height": 50,
-			"chars": ["\uEE06"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/economy/7.png",
-			"ascent": 27,
-			"height": 50,
-			"chars": ["\uEE07"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/economy/8.png",
-			"ascent": 27,
-			"height": 50,
-			"chars": ["\uEE08"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/economy/9.png",
-			"ascent": 27,
-			"height": 50,
-			"chars": ["\uEE09"]
-		},
-        {
-			"type": "bitmap",
-			"file": "minecraft:font/economy/aether.png",
-			"ascent": 15,
-			"height": 40,
-			"chars": ["\uEE10"]
 		},
         {
 			"type": "bitmap",
