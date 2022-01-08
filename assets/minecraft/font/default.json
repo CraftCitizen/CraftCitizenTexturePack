@@ -1499,6 +1499,48 @@
 			"ascent": 7.75,
 			"height": 7.75,
 			"chars": ["\uEF02"]
-		}
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/titles/store_item.png",
+			"ascent": 7.75,
+			"height": 7.75,
+			"chars": ["\uEF03"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/villager1.png",
+			"ascent": -2,
+			"height": 41,
+			"chars": ["\uEF04"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/villager2.png",
+			"ascent": -2,
+			"height": 41,
+			"chars": ["\uEF10"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/villager3.png",
+			"ascent": -2,
+			"height": 41,
+			"chars": ["\uEF06"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/villager4.png",
+			"ascent": -2,
+			"height": 41,
+			"chars": ["\uEF07"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/villager5.png",
+			"ascent": -2,
+			"height": 41,
+			"chars": ["\uEF08"]
+		}		
     ]
 }
