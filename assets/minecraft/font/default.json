@@ -3,8 +3,8 @@
 		{
 			"type": "bitmap",
 			"file": "minecraft:font/economy/aetherChat.png",
-			"ascent": 8,
-			"height": 8,
+			"ascent": 7,
+			"height": 7,
 			"chars": ["\uEE30"]
 		},
 		{
