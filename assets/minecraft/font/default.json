@@ -17,7 +17,7 @@
 		{
 			"type": "bitmap",
 			"file": "minecraft:font/economy/0.png",
-			"ascent": 27,
+			"ascent": 28,
 			"height": 51,
 			"chars": ["\uEE00"]
 		},
