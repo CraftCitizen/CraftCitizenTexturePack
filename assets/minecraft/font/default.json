@@ -1313,7 +1313,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/avatar/jack.png",
+			"file": "minecraft:font/avatar/vleatherworker.png",
 			"ascent": -2,
 			"height": 41,
 			"chars": ["\uEA15"]
@@ -1327,7 +1327,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/avatar/terry.png",
+			"file": "minecraft:font/avatar/vnothing.png",
 			"ascent": -2,
 			"height": 41,
 			"chars": ["\uEA17"]
@@ -1509,35 +1509,35 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/avatar/villager1.png",
+			"file": "minecraft:font/avatar/vfletcher.png",
 			"ascent": -2,
 			"height": 41,
 			"chars": ["\uEF04"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/avatar/villager2.png",
+			"file": "minecraft:font/avatar/vnothing.png",
 			"ascent": -2,
 			"height": 41,
 			"chars": ["\uEF10"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/avatar/villager3.png",
+			"file": "minecraft:font/avatar/varmorer.png",
 			"ascent": -2,
 			"height": 41,
 			"chars": ["\uEF06"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/avatar/villager4.png",
+			"file": "minecraft:font/avatar/vweaponsmith.png",
 			"ascent": -2,
 			"height": 41,
 			"chars": ["\uEF07"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/avatar/villager5.png",
+			"file": "minecraft:font/avatar/vfarmer.png",
 			"ascent": -2,
 			"height": 41,
 			"chars": ["\uEF08"]

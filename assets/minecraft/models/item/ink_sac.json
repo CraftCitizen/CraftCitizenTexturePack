@@ -33,6 +33,8 @@
 		{ "predicate": { "custom_model_data": 122}, "model": "item/itemparts/npcquestmark" },
 		{ "predicate": { "custom_model_data": 123}, "model": "item/itemparts/ericcoupon" },
 		{ "predicate": { "custom_model_data": 124}, "model": "item/aetherfragment/aetherlesser" },
-		{ "predicate": { "custom_model_data": 125}, "model": "item/vote/silvercoin" }		
+		{ "predicate": { "custom_model_data": 125}, "model": "item/vote/silvercoin" },
+		{ "predicate": { "custom_model_data": 126}, "model": "item/customblocks/cc_aetherblock" },
+		{ "predicate": { "custom_model_data": 127}, "model": "item/customblocks/cc_aetherblockpressed" }		
 	]
 }
