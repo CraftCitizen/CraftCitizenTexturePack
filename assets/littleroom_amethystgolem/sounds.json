@@ -1,0 +1,27 @@
+{
+   "littleroom.amethystgolem.stomp":{
+		 "sounds": [
+			"littleroom/amethystgolem/stomp"
+		 ]
+	},
+	"littleroom.amethystgolem.shardgrab":{
+		 "sounds": [
+			"littleroom/amethystgolem/shardgrab"
+		 ]
+	},
+	"littleroom.amethystgolem.death":{
+		 "sounds": [
+			"littleroom/amethystgolem/death"
+		 ]
+	},
+	"littleroom.amethystgolem.armslam":{
+		 "sounds": [
+			"littleroom/amethystgolem/armslam"
+		 ]
+	},
+	"littleroom.amethystgolem.shardout":{
+		 "sounds": [
+			"littleroom/amethystgolem/shardout"
+		 ]
+	}
+}
