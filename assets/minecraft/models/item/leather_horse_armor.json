@@ -4684,6 +4684,186 @@
 				"custom_model_data": 1148
 			},
 			"model": "modelengine:zombievomit/vomit"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1149
+			},
+			"model": "modelengine:zz_cc_bandit_archer/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1150
+			},
+			"model": "modelengine:zz_cc_bandit_archer/left_arm_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1151
+			},
+			"model": "modelengine:zz_cc_bandit_archer/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1152
+			},
+			"model": "modelengine:zz_cc_bandit_archer/right_arm_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1153
+			},
+			"model": "modelengine:zz_cc_bandit_archer/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1154
+			},
+			"model": "modelengine:zz_cc_bandit_archer/left_leg_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1155
+			},
+			"model": "modelengine:zz_cc_bandit_archer/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1156
+			},
+			"model": "modelengine:zz_cc_bandit_archer/right_leg_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1157
+			},
+			"model": "modelengine:zz_cc_bandit_archer/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1158
+			},
+			"model": "modelengine:zz_cc_bandit_archer/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1159
+			},
+			"model": "modelengine:zz_cc_bandit_assassin/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1160
+			},
+			"model": "modelengine:zz_cc_bandit_assassin/left_arm_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1161
+			},
+			"model": "modelengine:zz_cc_bandit_assassin/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1162
+			},
+			"model": "modelengine:zz_cc_bandit_assassin/right_arm_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1163
+			},
+			"model": "modelengine:zz_cc_bandit_assassin/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1164
+			},
+			"model": "modelengine:zz_cc_bandit_assassin/left_leg_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1165
+			},
+			"model": "modelengine:zz_cc_bandit_assassin/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1166
+			},
+			"model": "modelengine:zz_cc_bandit_assassin/right_leg_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1167
+			},
+			"model": "modelengine:zz_cc_bandit_assassin/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1168
+			},
+			"model": "modelengine:zz_cc_bandit_assassin/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1169
+			},
+			"model": "modelengine:zz_cc_bandit_musketeer/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1170
+			},
+			"model": "modelengine:zz_cc_bandit_musketeer/left_arm_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1171
+			},
+			"model": "modelengine:zz_cc_bandit_musketeer/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1172
+			},
+			"model": "modelengine:zz_cc_bandit_musketeer/right_arm_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1173
+			},
+			"model": "modelengine:zz_cc_bandit_musketeer/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1174
+			},
+			"model": "modelengine:zz_cc_bandit_musketeer/left_leg_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1175
+			},
+			"model": "modelengine:zz_cc_bandit_musketeer/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1176
+			},
+			"model": "modelengine:zz_cc_bandit_musketeer/right_leg_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1177
+			},
+			"model": "modelengine:zz_cc_bandit_musketeer/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1178
+			},
+			"model": "modelengine:zz_cc_bandit_musketeer/body"
 		}		
   ],
   "textures": {

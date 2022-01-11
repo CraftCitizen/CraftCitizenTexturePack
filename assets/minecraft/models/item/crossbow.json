@@ -163,6 +163,41 @@
 				"custom_model_data": 3
 			},
 			"model": "item/crossbow/rocketg"
+		},
+        { "predicate": { "custom_model_data": 4}, "model": "item/npcitems/musket" },
+		{
+			"predicate": {
+				"custom_model_data": 4,
+				"pulling": 1
+			},
+			"model": "item/npcitems/musket_0"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 0.58,
+				"custom_model_data": 4
+			},
+			"model": "item/npcitems/musket_1"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 1.0,
+				"custom_model_data": 4
+			},
+			"model": "item/npcitems/musket_2"
+		}, {
+			"predicate": {
+				"charged": 1,
+				"custom_model_data": 4
+			},
+			"model": "item/npcitems/musket_3"
+		}, {
+			"predicate": {
+				"charged": 1,
+				"firework": 1,
+				"custom_model_data": 4
+			},
+			"model": "item/npcitems/musket_3"
 		}		
     ]
 }
