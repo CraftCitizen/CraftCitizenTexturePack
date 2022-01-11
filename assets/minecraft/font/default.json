@@ -2,14 +2,14 @@
     "providers": [
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/economy/cannotAfford.png",
+			"file": "minecraft:font/economy/cannotafford.png",
 			"ascent": 7,
 			"height": 7,
 			"chars": ["\uEE31"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/economy/aetherChat.png",
+			"file": "minecraft:font/economy/aetherchat.png",
 			"ascent": 7,
 			"height": 7,
 			"chars": ["\uEE30"]
