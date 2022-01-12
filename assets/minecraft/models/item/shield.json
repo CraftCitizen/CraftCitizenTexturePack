@@ -413,14 +413,14 @@
                 "custom_model_data": 25
 				
             },
-            "model": "item/tools/adventurer_shield"
+            "model": "item/shield/adventurer_shield"
         },
 		        {
             "predicate": {
 				"blocking": 1,
                 "custom_model_data": 25
             },
-            "model": "item/tools/adventurer_shield_blocking"			
+            "model": "item/shield/adventurer_shield_blocking"			
         }		
     ]
 }
