@@ -2,7 +2,7 @@
     "providers": [
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/economy/cannotAfford.png",
+			"file": "minecraft:font/economy/cannotafford.png",
 			"ascent": 7,
 			"height": 7,
 			"chars": ["\uEE31"]

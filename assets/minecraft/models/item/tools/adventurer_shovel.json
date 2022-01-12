@@ -1,0 +1,170 @@
+{
+	"texture_size": [32, 32],
+	"textures": {
+		"1": "adventurer/adventurer_shovel"
+	},
+	"elements": [
+		{
+			"from": [6.5, -10.001, 6.999],
+			"to": [9.502, -6.999, 9.001],
+			"rotation": {"angle": 45, "axis": "z", "origin": [8.001, -8.5, 8]},
+			"faces": {
+				"north": {"uv": [7.5, 6.5, 9, 8], "texture": "#1"},
+				"east": {"uv": [0, 9.5, 1, 11], "texture": "#1"},
+				"south": {"uv": [7.5, 8, 9, 9.5], "texture": "#1"},
+				"west": {"uv": [1, 9.5, 2, 11], "texture": "#1"},
+				"up": {"uv": [5, 10.5, 3.5, 9.5], "texture": "#1"},
+				"down": {"uv": [11, 3.5, 9.5, 4.5], "texture": "#1"}
+			}
+		},
+		{
+			"from": [7, -8, 7],
+			"to": [9, 11, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 21.8, 0]},
+			"faces": {
+				"north": {"uv": [3.5, 0, 4.5, 9.5], "texture": "#1"},
+				"east": {"uv": [4.5, 0, 5.5, 9.5], "texture": "#1"},
+				"south": {"uv": [5.5, 0, 6.5, 9.5], "texture": "#1"},
+				"west": {"uv": [6.5, 0, 7.5, 9.5], "texture": "#1"},
+				"up": {"uv": [10.5, 9.5, 9.5, 8.5], "texture": "#1"},
+				"down": {"uv": [10, 9.5, 9, 10.5], "texture": "#1"}
+			}
+		},
+		{
+			"from": [6.48, 10.98, 6.98],
+			"to": [9.52, 15.02, 9.02],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.49, 10.74, 3.99]},
+			"faces": {
+				"north": {"uv": [7.5, 2.5, 9, 4.5], "texture": "#1"},
+				"east": {"uv": [2.5, 7, 3.5, 9], "texture": "#1"},
+				"south": {"uv": [7.5, 4.5, 9, 6.5], "texture": "#1"},
+				"west": {"uv": [2.5, 9, 3.5, 11], "texture": "#1"},
+				"up": {"uv": [11, 5.5, 9.5, 4.5], "texture": "#1"},
+				"down": {"uv": [6.5, 9.5, 5, 10.5], "texture": "#1"}
+			}
+		},
+		{
+			"from": [4.48, 11, 7.5],
+			"to": [11.48, 18, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.47, 10.72, 11.47]},
+			"faces": {
+				"north": {"uv": [0, 0, 3.5, 3.5], "texture": "#1"},
+				"east": {"uv": [9, 2.5, 9.5, 6], "texture": "#1"},
+				"south": {"uv": [0, 3.5, 3.5, 7], "texture": "#1"},
+				"west": {"uv": [9, 6, 9.5, 9.5], "texture": "#1"},
+				"up": {"uv": [13, 3, 9.5, 2.5], "texture": "#1"},
+				"down": {"uv": [13, 3, 9.5, 3.5], "texture": "#1"}
+			}
+		},
+		{
+			"from": [5.48, 15.52, 7.48],
+			"to": [10.52, 20.56, 8.52],
+			"rotation": {"angle": 45, "axis": "z", "origin": [8, 18.04, 8]},
+			"faces": {
+				"north": {"uv": [0, 7, 2.5, 9.5], "texture": "#1"},
+				"east": {"uv": [2, 9.5, 2.5, 12], "texture": "#1"},
+				"south": {"uv": [7.5, 0, 10, 2.5], "texture": "#1"},
+				"west": {"uv": [9.5, 5.5, 10, 8], "texture": "#1"},
+				"up": {"uv": [9, 10, 6.5, 9.5], "texture": "#1"},
+				"down": {"uv": [12, 8, 9.5, 8.5], "texture": "#1"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, 0],
+			"translation": [0, 3.75, 1.25],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, 0],
+			"translation": [0, 3.75, 1.25],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_righthand": {
+			"rotation": [20, -90, 0],
+			"translation": [2, 2, -1],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_lefthand": {
+			"rotation": [20, 90, 0],
+			"translation": [2, 2, -1],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"ground": {
+			"rotation": [0, 0, -45],
+			"translation": [2.5, 7, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [0, 0, -45],
+			"translation": [1, 1, -0.75],
+			"scale": [0.65, 0.65, 0.65]
+		},
+		"head": {
+			"rotation": [0, 0, -180],
+			"translation": [0, 12, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"fixed": {
+			"rotation": [0, -180, -45],
+			"translation": [-1.25, 1, -0.75],
+			"scale": [0.7, 0.7, 0.7]
+		}
+	},
+	"groups": [
+		{
+			"name": "axe",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [
+				{
+					"name": "pommel",
+					"origin": [8, 8, 8],
+					"color": 0,
+					"children": [0]
+				},
+				{
+					"name": "grip",
+					"origin": [8, 8, 8],
+					"color": 0,
+					"children": [1,
+						{
+							"name": "handle",
+							"origin": [8, 8, 8],
+							"color": 0,
+							"children": []
+						}
+					]
+				},
+				{
+					"name": "guard",
+					"origin": [8, 8, 8],
+					"color": 0,
+					"children": [
+						{
+							"name": "cross-guard",
+							"origin": [8, 8, 8],
+							"color": 0,
+							"children": [
+								{
+									"name": "gem",
+									"origin": [8, 8, 8],
+									"color": 0,
+									"children": []
+								},
+								{
+									"name": "blade",
+									"origin": [8, 8, 8],
+									"color": 0,
+									"children": [2, 3, 4]
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

@@ -406,6 +406,21 @@
                 "custom_model_data": 24
             },
             "model": "item/tools/cc_aetherite_shield1"			
+        },
+			{
+            "predicate": {
+				"blocking": 0,
+                "custom_model_data": 25
+				
+            },
+            "model": "item/shield/adventurer_shield"
+        },
+		        {
+            "predicate": {
+				"blocking": 1,
+                "custom_model_data": 25
+            },
+            "model": "item/shield/adventurer_shield_blocking"			
         }		
     ]
 }

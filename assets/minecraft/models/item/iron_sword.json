@@ -10,6 +10,8 @@
 		{ "predicate": { "custom_model_data": 4}, "model": "item/ironsword/vironsword2" },
 		{"predicate": {"custom_model_data":5}, "model": "item/halloween/frankenstein_arm"},
 		{"predicate": {"custom_model_data":6}, "model": "item/halloween/frankenstein_leg"},
-        { "predicate": { "custom_model_data": 85}, "model": "item/swords/hammer1iron"}		
+        { "predicate": { "custom_model_data": 7}, "model": "item/tools/adventurer_sword"},		
+        { "predicate": { "custom_model_data": 85}, "model": "item/swords/hammer1iron"}
+		
 	]
 }
