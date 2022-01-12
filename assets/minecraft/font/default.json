@@ -9,7 +9,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/economy/aetherChat.png",
+			"file": "minecraft:font/economy/aetherchat.png",
 			"ascent": 7,
 			"height": 7,
 			"chars": ["\uEE30"]
@@ -22,80 +22,17 @@
 			"chars": ["\uE102"]
 		},
 		{
-			"type": "bitmap",
-			"file": "minecraft:font/economy/0.png",
-			"ascent": 28,
-			"height": 51,
-			"chars": ["\uEE00"]
-		},
+            "ascent": -16,
+            "chars": ["\uEE00\uEE01\uEE02\uEE03\uEE04\uEE05\uEE06\uEE07\uEE08\uEE09"],
+            "file": "font/economy/balancenumbers.png",
+            "height": 8,
+            "type": "bitmap"
+        },
         {
 			"type": "bitmap",
-			"file": "minecraft:font/economy/1.png",
-			"ascent": 28,
-			"height": 51,
-			"chars": ["\uEE01"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/economy/2.png",
-			"ascent": 28,
-			"height": 51,
-			"chars": ["\uEE02"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/economy/3.png",
-			"ascent": 28,
-			"height": 51,
-			"chars": ["\uEE03"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/economy/4.png",
-			"ascent": 28,
-			"height": 51,
-			"chars": ["\uEE04"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/economy/5.png",
-			"ascent": 28,
-			"height": 51,
-			"chars": ["\uEE05"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/economy/6.png",
-			"ascent": 28,
-			"height": 51,
-			"chars": ["\uEE06"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/economy/7.png",
-			"ascent": 28,
-			"height": 51,
-			"chars": ["\uEE07"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/economy/8.png",
-			"ascent": 28,
-			"height": 51,
-			"chars": ["\uEE08"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/economy/9.png",
-			"ascent": 28,
-			"height": 51,
-			"chars": ["\uEE09"]
-		},
-        {
-			"type": "bitmap",
-			"file": "minecraft:font/economy/aether.png",
-			"ascent": 29,
-			"height": 53,
+			"file": "minecraft:font/economy/aetherchat.png",
+			"ascent": -15,
+			"height": 10,
 			"chars": ["\uEE10"]
 		},
         {
@@ -690,122 +627,66 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/titles/admin.png",
-			"ascent": 7.75,
-			"height": 7.75,
+			"file": "minecraft:font/titles/staff.png",
+			"ascent": 7.9,
+			"height": 7.9,
 			"chars": ["\uE002"]
 		},
-				{
+		{
 			"type": "bitmap",
-			"file": "minecraft:font/titles/mod.png",
-			"ascent": 7.75,
-			"height": 7.75,
+			"file": "minecraft:font/titles/staffText.png",
+			"ascent": 7.9,
+			"height": 7.9,
 			"chars": ["\uE003"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/titles/donor.png",
-			"ascent": 7.75,
-			"height": 7.75,
+			"file": "minecraft:font/titles/donator.png",
+			"ascent": 7.9,
+			"height": 7.9,
 			"chars": ["\uE004"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/titles/lifetime_donor.png",
-			"ascent": 7.75,
-			"height": 7.75,
-			"chars": ["\uE008"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/titles/builder.png",
-			"ascent": 7.75,
-			"height": 7.75,
+			"file": "minecraft:font/titles/donatorText.png",
+			"ascent": 7.9,
+			"height": 7.9,
 			"chars": ["\uE005"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/titles/chat_tick.png",
-			"ascent": 8,
-			"height": 10,
-			"chars": ["\uE009"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/titles/player.png",
-			"ascent": 7.75,
-			"height": 7.75,
+			"file": "minecraft:font/titles/citizen.png",
+			"ascent": 7.9,
+			"height": 7.9,
 			"chars": ["\uE006"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/titles/season1champion.png",
-			"ascent": 15,
-			"height": 15,
+			"file": "minecraft:font/titles/citizenText.png",
+			"ascent": 7.9,
+			"height": 7.9,
 			"chars": ["\uE007"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/titles/peasant.png",
-			"ascent": 7.75,
-			"height": 7.75,
+			"file": "minecraft:font/titles/veteran.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": ["\uE008"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/titles/veteranText.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": ["\uE009"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/titles/crown.png",
+			"ascent": 8,
+			"height": 8,
 			"chars": ["\uE010"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/titles/hireling.png",
-			"ascent": 7.75,
-			"height": 7.75,
-			"chars": ["\uE011"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/titles/merchant.png",
-			"ascent": 7.75,
-			"height": 7.75,
-			"chars": ["\uE012"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/titles/knight.png",
-			"ascent": 7.75,
-			"height": 7.75,
-			"chars": ["\uE013"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/titles/noble.png",
-			"ascent": 7.75,
-			"height": 7.75,
-			"chars": ["\uE014"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/titles/lord.png",
-			"ascent": 7.75,
-			"height": 7.75,
-			"chars": ["\uE015"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/titles/artistocrat.png",
-			"ascent": 7.75,
-			"height": 7.75,
-			"chars": ["\uE016"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/titles/citizen.png",
-			"ascent": 7.75,
-			"height": 7.75,
-			"chars": ["\uE017"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/titles/creator.png",
-			"ascent": 7.75,
-			"height": 7.75,
-			"chars": ["\uE018"]
 		},
 		{
 			"type": "bitmap",
