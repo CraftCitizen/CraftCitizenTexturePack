@@ -630,63 +630,63 @@
 			"file": "minecraft:font/titles/staff.png",
 			"ascent": 7.9,
 			"height": 7.9,
-			"chars": ["\uE002"]
+			"chars": [""]
 		},
 		{
 			"type": "bitmap",
 			"file": "minecraft:font/titles/staff_text.png",
 			"ascent": 7.9,
 			"height": 7.9,
-			"chars": ["\uE003"]
+			"chars": [""]
 		},
 		{
 			"type": "bitmap",
 			"file": "minecraft:font/titles/donator.png",
 			"ascent": 7.9,
 			"height": 7.9,
-			"chars": ["\uE004"]
+			"chars": [""]
 		},
 		{
 			"type": "bitmap",
 			"file": "minecraft:font/titles/donator_text.png",
 			"ascent": 7.9,
 			"height": 7.9,
-			"chars": ["\uE005"]
+			"chars": [""]
 		},
 		{
 			"type": "bitmap",
 			"file": "minecraft:font/titles/citizen.png",
 			"ascent": 7.9,
 			"height": 7.9,
-			"chars": ["\uE006"]
+			"chars": [""]
 		},
 		{
 			"type": "bitmap",
 			"file": "minecraft:font/titles/citizen_text.png",
 			"ascent": 7.9,
 			"height": 7.9,
-			"chars": ["\uE007"]
+			"chars": [""]
 		},
 		{
 			"type": "bitmap",
 			"file": "minecraft:font/titles/veteran.png",
 			"ascent": 7,
 			"height": 7,
-			"chars": ["\uE008"]
+			"chars": [""]
 		},
 		{
 			"type": "bitmap",
 			"file": "minecraft:font/titles/veteran_text.png",
 			"ascent": 7,
 			"height": 7,
-			"chars": ["\uE009"]
+			"chars": [""]
 		},
 		{
 			"type": "bitmap",
 			"file": "minecraft:font/titles/crown.png",
 			"ascent": 8,
 			"height": 8,
-			"chars": ["\uE010"]
+			"chars": [""]
 		},
 		{
 			"type": "bitmap",
@@ -858,24 +858,10 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:particle/heart.png",
+			"file": "minecraft:font/emojis/emojis.png",
 			"ascent": 8,
-			"height": 9,
-			"chars": ["\u2661"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/emojis/thonk.png",
-			"ascent": 8,
-			"height": 9,
-			"chars": ["\uE100"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/emojis/eyes.png",
-			"ascent": 8,
-			"height": 9,
-			"chars": ["\uE101"]
+			"height": 10,
+			"chars": ["", "  "]
 		},
 		{
 			"type": "bitmap",
