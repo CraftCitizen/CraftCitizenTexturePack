@@ -861,7 +861,7 @@
 			"file": "minecraft:font/emojis/emojis.png",
 			"ascent": 8,
 			"height": 10,
-			"chars": ["", "  "]
+			"chars": ["", ""]
 		},
 		{
 			"type": "bitmap",
