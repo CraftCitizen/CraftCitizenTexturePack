@@ -4864,6 +4864,66 @@
 				"custom_model_data": 1178
 			},
 			"model": "modelengine:zz_cc_bandit_musketeer/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1179
+			},
+			"model": "modelengine:zz_vs_sign_aether/shield"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1180
+			},
+			"model": "modelengine:zz_vs_sign_aether/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1181
+			},
+			"model": "modelengine:zz_vs_sign_armor/shield"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1182
+			},
+			"model": "modelengine:zz_vs_sign_armor/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1183
+			},
+			"model": "modelengine:zz_vs_sign_bow/shield"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1184
+			},
+			"model": "modelengine:zz_vs_sign_bow/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1185
+			},
+			"model": "modelengine:zz_vs_sign_tavern/shield"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1186
+			},
+			"model": "modelengine:zz_vs_sign_tavern/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1187
+			},
+			"model": "modelengine:zz_vs_sign_weapon/shield"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1188
+			},
+			"model": "modelengine:zz_vs_sign_weapon/body"
 		}		
   ],
   "textures": {
