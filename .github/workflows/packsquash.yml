@@ -12,4 +12,4 @@ jobs:
       - name: Run PackSquash
         uses: ComunidadAylas/PackSquash-action@v2
         with:
-          path: pack
+          path: .
