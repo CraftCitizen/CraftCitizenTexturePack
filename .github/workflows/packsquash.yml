@@ -12,7 +12,6 @@ jobs:
       - name: Run PackSquash
         uses: ComunidadAylas/PackSquash-action@v2
         with:
-          name: optimized-pack
           path: .
           allow_optifine_mod: true
           image_color_quantization_target: none
@@ -24,7 +23,7 @@ jobs:
       - name: Download 
         uses: actions/download-artifact@v2
         with:
-          name: optimized-pack
+          name: Optimized pack
         id: create-new-release
       - name: Create release
         uses: actions/create-release@v1
