@@ -416,6 +416,28 @@
 				"custom_model_data": 17
 			},
 			"model": "item/npcitems/bow2_3"
+		},
+		{ "predicate": { "custom_model_data": 18}, "model": "item/bow/vs_enderfirebow" },
+		{
+			"predicate": {
+				"custom_model_data": 18,
+				"pulling": 1
+			},
+			"model": "item/bow/vs_enderfirebow10"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 0.65,
+				"custom_model_data": 18
+			},
+			"model": "item/bow/vs_enderfirebow20"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 0.9,
+				"custom_model_data": 18
+			},
+			"model": "item/bow/vs_enderfirebow30"
 		}					
 	]
 }
