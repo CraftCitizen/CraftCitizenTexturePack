@@ -12,4 +12,33 @@ jobs:
       - name: Run PackSquash
         uses: ComunidadAylas/PackSquash-action@v2
         with:
+          name: optimized-pack
           path: .
+          allow_optifine_mod: true
+          image_color_quantization_target: none
+  release-project:
+    name: Release pack
+    runs-on: ubuntu-latest
+    needs: packsquash
+    steps:
+      - name: Download 
+        uses: actions/download-artifact@v2
+        with:
+          name: optimized-pack
+        id: create-new-release
+      - name: Create release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with: 
+          tag_name: v${{ github.run_number }}
+          release_name: Release v${{ github.run_number }}
+       - name: Upload assets
+         uses: actions/upload-release-asset@v1
+         env:
+           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+         with:
+           upload_url: ${{ steps.create-new-release }}
+           asset: ./pack.zip
+           asset_name: CraftCitizenResourcePack-v${{ github.run_number }}.zip
+           asset_content_type: application/zip
