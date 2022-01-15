@@ -684,9 +684,16 @@
 		{
 			"type": "bitmap",
 			"file": "minecraft:font/titles/crown.png",
-			"ascent": 8,
-			"height": 8,
+			"ascent": 7,
+			"height": 7,
 			"chars": [""]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/titles/numbers.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": [""]
 		},
 		{
 			"type": "bitmap",
