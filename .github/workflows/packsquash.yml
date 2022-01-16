@@ -1,6 +1,6 @@
 name: Optimize Resource Pack
 on:
-  push:
+  workflow_dispatch:
     paths:
       - 'pack/**'
       - '.github/workflows/packsquash.yml'
