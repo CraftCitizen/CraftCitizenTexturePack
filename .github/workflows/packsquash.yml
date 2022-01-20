@@ -2,7 +2,7 @@ name: Optimize Resource Pack
 on:
   push:
     paths:
-      - 'pack/.'
+      - 'pack/'
       - '.github/workflows/packsquash.yml'
 jobs:
   packsquash:
@@ -15,7 +15,7 @@ jobs:
       - name: Run PackSquash
         uses: ComunidadAylas/PackSquash-action@v2
         with:
-          path: pack/.
+          path: .
           allow_optifine_mod: true
           image_color_quantization_target: none
       - name: Download Optimize Pack
