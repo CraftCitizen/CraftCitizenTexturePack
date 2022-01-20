@@ -1,6 +1,6 @@
 name: Optimize Resource Pack
 on:
-  workflow_dispatch:
+  push:
 jobs:
   packsquash:
     runs-on: ubuntu-latest
