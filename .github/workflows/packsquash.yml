@@ -15,7 +15,7 @@ jobs:
       - name: Run PackSquash
         uses: ComunidadAylas/PackSquash-action@v2
         with:
-          path: .
+          path: pack/.
           allow_optifine_mod: true
           image_color_quantization_target: none
       - name: Download Optimize Pack
