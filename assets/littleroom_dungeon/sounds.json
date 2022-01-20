@@ -1,0 +1,42 @@
+{
+   "littleroom.dungeon.clay_break":{
+		 "sounds": [
+			"littleroom/dungeon/clay_break"
+		 ]
+	},
+   "littleroom.dungeon.metal_break":{
+		 "sounds": [
+			"littleroom/dungeon/metal_break"
+		 ]
+	},
+   "littleroom.dungeon.saw_hit":{
+		 "sounds": [
+			"littleroom/dungeon/saw_hit"
+		 ]
+	},
+   "littleroom.dungeon.saw_loop":{
+		 "sounds": [
+			"littleroom/dungeon/saw_loop"
+		 ]
+	},
+   "littleroom.dungeon.wood_break":{
+		 "sounds": [
+			"littleroom/dungeon/wood_break"
+		 ]
+	},
+   "littleroom.dungeon.spawn_set":{
+		 "sounds": [
+			"littleroom/dungeon/spawn_set"
+		 ]
+	},
+   "littleroom.dungeon.coin_pickup":{
+		 "sounds": [
+			"littleroom/dungeon/coin_pickup"
+		 ]
+	},
+   "littleroom.dungeon.loot_open":{
+		 "sounds": [
+			"littleroom/dungeon/loot_open"
+		 ]
+	}
+}

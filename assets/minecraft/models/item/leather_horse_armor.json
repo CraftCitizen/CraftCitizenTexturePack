@@ -4924,6 +4924,12 @@
 				"custom_model_data": 1188
 			},
 			"model": "modelengine:zz_vs_sign_weapon/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1189
+			},
+			"model": "modelengine:zzz_dungeon_weapon_rack/stand"
 		}		
   ],
   "textures": {
