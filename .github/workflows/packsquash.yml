@@ -2,7 +2,7 @@ name: Optimize Resource Pack
 on:
   workflow_dispatch:
     paths:
-      - 'pack/**'
+      - '.'
       - '.github/workflows/packsquash.yml'
 jobs:
   packsquash:
