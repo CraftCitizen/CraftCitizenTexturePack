@@ -1,9 +1,6 @@
 name: Optimize Resource Pack
 on:
   workflow_dispatch:
-    paths:
-      - '.'
-      - '.github/workflows/packsquash.yml'
 jobs:
   packsquash:
     runs-on: ubuntu-latest
