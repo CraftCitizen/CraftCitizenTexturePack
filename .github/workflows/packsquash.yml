@@ -1,15 +1,30 @@
-name: Optimize resource pack
-on: [push]
+name: Optimize Resource Pack
+on:
+  workflow_dispatch:
+    paths:
+      - 'pack/**'
+      - '.github/workflows/packsquash.yml'
 jobs:
   packsquash:
-    name: Optimize resource pack
     runs-on: ubuntu-latest
     steps:
-      - name: Clone repository
-        uses: actions/checkout@v2
+      - name: Clone Repository
+        uses: actions/checkout@master
         with:
-          fetch-depth: 0 
+          fetch-depth: 0
       - name: Run PackSquash
         uses: ComunidadAylas/PackSquash-action@v2
         with:
           path: .
+          allow_optifine_mod: true
+          image_color_quantization_target: none
+      - name: Download Optimize Pack
+        uses: actions/download-artifact@v2
+        with:
+          name: Optimized pack
+      - name: Create Release
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: action-v${{ github.run_number }}
+          files: |
+            pack.zip
