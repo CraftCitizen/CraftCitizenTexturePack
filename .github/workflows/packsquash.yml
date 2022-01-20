@@ -1,9 +1,5 @@
 name: Optimize Resource Pack
-on:
-  push:
-    paths:
-      - 'pack/'
-      - '.github/workflows/packsquash.yml'
+on: [push]
 jobs:
   packsquash:
     runs-on: ubuntu-latest
