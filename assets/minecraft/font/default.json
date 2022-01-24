@@ -35,6 +35,13 @@
 			"height": 10,
 			"chars": ["\uEE10"]
 		},
+		{
+            "ascent": -17,
+            "chars": [""],
+            "file": "font/economy/balance_comma.png",
+            "height": 8,
+            "type": "bitmap"
+        },
         {
             "type": "bitmap",
             "file": "space:font/space_split.png",
