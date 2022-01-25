@@ -5188,6 +5188,252 @@
 				"custom_model_data": 1232
 			},
 			"model": "modelengine:zzz_vss_topf/group"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1233
+			},
+			"model": "modelengine:zzz_vsss_bandit_brute/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1234
+			},
+			"model": "modelengine:zzz_vsss_bandit_brute/left_arm_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1235
+			},
+			"model": "modelengine:zzz_vsss_bandit_brute/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1236
+			},
+			"model": "modelengine:zzz_vsss_bandit_brute/right_arm_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1237
+			},
+			"model": "modelengine:zzz_vsss_bandit_brute/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1238
+			},
+			"model": "modelengine:zzz_vsss_bandit_brute/left_leg_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1239
+			},
+			"model": "modelengine:zzz_vsss_bandit_brute/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1240
+			},
+			"model": "modelengine:zzz_vsss_bandit_brute/right_leg_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1241
+			},
+			"model": "modelengine:zzz_vsss_bandit_brute/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1242
+			},
+			"model": "modelengine:zzz_vsss_bandit_brute/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1243
+			},
+			"model": "modelengine:zzz_vsss_bandit_longbow/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1244
+			},
+			"model": "modelengine:zzz_vsss_bandit_longbow/left_arm_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1245
+			},
+			"model": "modelengine:zzz_vsss_bandit_longbow/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1246
+			},
+			"model": "modelengine:zzz_vsss_bandit_longbow/right_arm_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1247
+			},
+			"model": "modelengine:zzz_vsss_bandit_longbow/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1248
+			},
+			"model": "modelengine:zzz_vsss_bandit_longbow/left_leg_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1249
+			},
+			"model": "modelengine:zzz_vsss_bandit_longbow/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1250
+			},
+			"model": "modelengine:zzz_vsss_bandit_longbow/right_leg_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1251
+			},
+			"model": "modelengine:zzz_vsss_bandit_longbow/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1252
+			},
+			"model": "modelengine:zzz_vsss_bandit_longbow/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1253
+			},
+			"model": "modelengine:zzz_vsss_bandit_warrior/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1254
+			},
+			"model": "modelengine:zzz_vsss_bandit_warrior/left_arm_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1255
+			},
+			"model": "modelengine:zzz_vsss_bandit_warrior/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1256
+			},
+			"model": "modelengine:zzz_vsss_bandit_warrior/right_arm_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1257
+			},
+			"model": "modelengine:zzz_vsss_bandit_warrior/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1258
+			},
+			"model": "modelengine:zzz_vsss_bandit_warrior/left_leg_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1259
+			},
+			"model": "modelengine:zzz_vsss_bandit_warrior/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1260
+			},
+			"model": "modelengine:zzz_vsss_bandit_warrior/right_leg_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1261
+			},
+			"model": "modelengine:zzz_vsss_bandit_warrior/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1262
+			},
+			"model": "modelengine:zzz_vsss_bandit_warrior/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1263
+			},
+			"model": "modelengine:zzz_vsss_stag_mount/left_frontfoot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1264
+			},
+			"model": "modelengine:zzz_vsss_stag_mount/left_frontleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1265
+			},
+			"model": "modelengine:zzz_vsss_stag_mount/right_frontfoot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1266
+			},
+			"model": "modelengine:zzz_vsss_stag_mount/right_frontleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1267
+			},
+			"model": "modelengine:zzz_vsss_stag_mount/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1268
+			},
+			"model": "modelengine:zzz_vsss_stag_mount/neck"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1269
+			},
+			"model": "modelengine:zzz_vsss_stag_mount/right_backfoot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1270
+			},
+			"model": "modelengine:zzz_vsss_stag_mount/right_backleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1271
+			},
+			"model": "modelengine:zzz_vsss_stag_mount/left_backfoot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1272
+			},
+			"model": "modelengine:zzz_vsss_stag_mount/left_backleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1273
+			},
+			"model": "modelengine:zzz_vsss_stag_mount/body"
 		}		
   ],
   "textures": {
