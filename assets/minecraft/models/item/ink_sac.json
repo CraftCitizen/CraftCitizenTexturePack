@@ -37,7 +37,8 @@
 		{ "predicate": { "custom_model_data": 126}, "model": "item/customblocks/cc_aetherblock" },
 		{ "predicate": { "custom_model_data": 127}, "model": "item/customblocks/cc_aetherblockpressed" },
 		{ "predicate": { "custom_model_data": 128}, "model": "item/tools/vs_syringe" },
-		{ "predicate": { "custom_model_data": 129}, "model": "item/tools/amethystshard" },		
-		{ "predicate": { "custom_model_data": 130}, "model": "item/aetherfragment/aetherlesser_16x16" }
+		{ "predicate": { "custom_model_data": 129}, "model": "item/aetherfragment/aetherlesser_16x16" },		
+		{ "predicate": { "custom_model_data": 130}, "model": "item/tools/amethystshard" }		
+
 	]
 }
