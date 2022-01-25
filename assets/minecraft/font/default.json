@@ -2,7 +2,7 @@
     "providers": [
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/economy/cannotafford.png",
+			"file": "minecraft:font/economy/cannot_afford.png",
 			"ascent": 7,
 			"height": 7,
 			"chars": ["\uEE31"]
@@ -24,13 +24,13 @@
 		{
             "ascent": -16,
             "chars": ["\uEE00\uEE01\uEE02\uEE03\uEE04\uEE05\uEE06\uEE07\uEE08\uEE09"],
-            "file": "font/economy/balancenumbers.png",
+            "file": "font/economy/numbers.png",
             "height": 8,
             "type": "bitmap"
         },
         {
 			"type": "bitmap",
-			"file": "minecraft:font/economy/aetherchat.png",
+			"file": "minecraft:font/economy/aether_chat.png",
 			"ascent": -15,
 			"height": 10,
 			"chars": ["\uEE10"]
