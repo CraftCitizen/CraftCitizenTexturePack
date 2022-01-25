@@ -27,6 +27,7 @@
 		{ "predicate": { "custom_model_data": 23}, "model": "item/customblocks/signpostsimple" },
 		{ "predicate": { "custom_model_data": 24}, "model": "item/customblocks/anvilbig" },
 		{ "predicate": { "custom_model_data": 25}, "model": "item/customblocks/piano" },
-		{ "predicate": { "custom_model_data": 26}, "model": "item/customblocks/cc_shop" }		
+		{ "predicate": { "custom_model_data": 26}, "model": "item/customblocks/cc_shop" },
+		{ "predicate": { "custom_model_data": 27}, "model": "item/tools/stag_icon" }		
 	]
 }
