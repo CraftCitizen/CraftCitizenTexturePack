@@ -9,7 +9,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/economy/aetherchat.png",
+			"file": "minecraft:font/economy/aether_chat.png",
 			"ascent": 7,
 			"height": 7,
 			"chars": ["\uEE30"]
