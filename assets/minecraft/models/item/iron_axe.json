@@ -4,6 +4,7 @@
     "layer0": "minecraft:item/iron_axe"
   },
 	"overrides": [
-		{ "predicate": { "custom_model_data": 1}, "model": "item/tools/adventurer_axe_iron" }		
+		{ "predicate": { "custom_model_data": 1}, "model": "item/tools/adventurer_axe_iron" },
+		{ "predicate": { "custom_model_data": 2}, "model": "item/tools/maul" }		
 	]
 }

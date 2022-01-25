@@ -421,6 +421,36 @@
                 "custom_model_data": 25
             },
             "model": "item/shield/adventurer_shield_blocking"			
+        },
+			{
+            "predicate": {
+				"blocking": 0,
+                "custom_model_data": 26
+				
+            },
+            "model": "item/tools/amethystshield"
+        },
+		        {
+            "predicate": {
+				"blocking": 1,
+                "custom_model_data": 26
+            },
+            "model": "item/tools/amethystshield_blocking"			
+        },
+			{
+            "predicate": {
+				"blocking": 0,
+                "custom_model_data": 27
+				
+            },
+            "model": "item/tools/knight_shield"
+        },
+		        {
+            "predicate": {
+				"blocking": 1,
+                "custom_model_data": 27
+            },
+            "model": "item/tools/knight_shield_block"			
         }		
     ]
 }

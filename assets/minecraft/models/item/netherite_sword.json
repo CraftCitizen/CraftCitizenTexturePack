@@ -75,6 +75,7 @@
         { "predicate": { "custom_model_data": 92}, "model": "item/netheritesword/presentsword"},
         { "predicate": { "custom_model_data": 93}, "model": "item/netheritesword/vs_frostfestivalsword"},
         { "predicate": { "custom_model_data": 94}, "model": "item/tools/cc_aetherite_sword"},
-        { "predicate": { "custom_model_data": 95}, "model": "item/netheritesword/vs_enderfire_sword"}		
+        { "predicate": { "custom_model_data": 95}, "model": "item/netheritesword/vs_enderfire_sword"},
+        { "predicate": { "custom_model_data": 96}, "model": "item/tools/amethystsword"}		
 	]
 }

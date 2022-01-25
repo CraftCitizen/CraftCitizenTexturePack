@@ -438,6 +438,28 @@
 				"custom_model_data": 18
 			},
 			"model": "item/bow/vs_enderfirebow30"
+		},
+		{ "predicate": { "custom_model_data": 19}, "model": "item/tools/long_bow" },
+		{
+			"predicate": {
+				"custom_model_data": 19,
+				"pulling": 1
+			},
+			"model": "item/tools/long_bow"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 0.65,
+				"custom_model_data": 19
+			},
+			"model": "item/tools/long_bow"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 0.9,
+				"custom_model_data": 19
+			},
+			"model": "item/tools/long_bow"
 		}					
 	]
 }
