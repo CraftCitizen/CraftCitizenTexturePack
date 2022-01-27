@@ -458,14 +458,14 @@
                 "custom_model_data": 28
 				
             },
-            "model": "item/shield/vs_viking_shield1"
+            "model": "item/shield/vs_viking_shield"
         },
 		        {
             "predicate": {
 				"blocking": 1,
                 "custom_model_data": 28
             },
-            "model": "item/vs_viking_shield_block1"			
+            "model": "item/shield/vs_viking_shield_block"			
         },
 			{
             "predicate": {
@@ -480,7 +480,7 @@
 				"blocking": 1,
                 "custom_model_data": 29
             },
-            "model": "item/vs_viking_shield_block2"			
+            "model": "item/shield/vs_viking_shield_block2"			
         },
 			{
             "predicate": {
@@ -495,7 +495,7 @@
 				"blocking": 1,
                 "custom_model_data": 30
             },
-            "model": "item/vs_viking_shield_block3"			
+            "model": "item/shield/vs_viking_shield_block3"			
         },
 			{
             "predicate": {
@@ -510,7 +510,7 @@
 				"blocking": 1,
                 "custom_model_data": 31
             },
-            "model": "item/vs_viking_shield_block4"			
+            "model": "item/shield/vs_viking_shield_block4"			
         },
 			{
             "predicate": {
@@ -525,7 +525,7 @@
 				"blocking": 1,
                 "custom_model_data": 32
             },
-            "model": "item/vs_viking_shield_block5"			
+            "model": "item/shield/vs_viking_shield_block5"			
         },
 			{
             "predicate": {
@@ -540,7 +540,7 @@
 				"blocking": 1,
                 "custom_model_data": 33
             },
-            "model": "item/vs_viking_shield_block6"			
+            "model": "item/shield/vs_viking_shield_block6"			
         },
 			{
             "predicate": {
@@ -555,7 +555,7 @@
 				"blocking": 1,
                 "custom_model_data": 34
             },
-            "model": "item/vs_viking_shield_block7"			
+            "model": "item/shield/vs_viking_shield_block7"			
         },
 			{
             "predicate": {
@@ -570,7 +570,7 @@
 				"blocking": 1,
                 "custom_model_data": 35
             },
-            "model": "item/vs_viking_shield_block7"			
+            "model": "item/shield/vs_viking_shield_block7"			
         },
 			{
             "predicate": {
@@ -585,7 +585,7 @@
 				"blocking": 1,
                 "custom_model_data": 36
             },
-            "model": "item/vs_viking_shield_block8"			
+            "model": "item/shield/vs_viking_shield_block8"			
         },
 			{
             "predicate": {
@@ -600,7 +600,7 @@
 				"blocking": 1,
                 "custom_model_data": 37
             },
-            "model": "item/vs_viking_shield_block9"			
+            "model": "item/shield/vs_viking_shield_block9"			
         },
 			{
             "predicate": {
@@ -615,7 +615,7 @@
 				"blocking": 1,
                 "custom_model_data": 38
             },
-            "model": "item/vs_viking_shield_block10"			
+            "model": "item/shield/vs_viking_shield_block10"			
         }			
     ]
 }
