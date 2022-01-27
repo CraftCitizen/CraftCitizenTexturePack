@@ -5434,6 +5434,72 @@
 				"custom_model_data": 1273
 			},
 			"model": "modelengine:zzz_vsss_stag_mount/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1274
+			},
+			"model": "modelengine:zzz_vssss_chieftain/b_hitbox2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1275
+			},
+			"model": "modelengine:zzz_vssss_chieftain/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1276
+			},
+			"model": "modelengine:zzz_vssss_chieftain/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1277
+			},
+			"model": "modelengine:zzz_vssss_chieftain/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1278
+			},
+			"model": "modelengine:zzz_vssss_chieftain/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1279
+			},
+			"model": "modelengine:zzz_vssss_chieftain/head2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1280
+			},
+			"model": "modelengine:zzz_vssss_chieftain/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1281
+			},
+			"model": "modelengine:zzz_vssss_chieftain/left_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1282
+			},
+			"model": "modelengine:zzz_vssss_chieftain/right_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1283
+			},
+			"model": "modelengine:zzz_vssss_chieftain/body2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1284
+			},
+			"model": "modelengine:zzz_vssss_chieftain/body"
 		}		
   ],
   "textures": {

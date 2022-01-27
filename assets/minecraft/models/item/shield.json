@@ -451,6 +451,171 @@
                 "custom_model_data": 27
             },
             "model": "item/tools/knight_shield_block"			
-        }		
+        },
+			{
+            "predicate": {
+				"blocking": 0,
+                "custom_model_data": 28
+				
+            },
+            "model": "item/shield/vs_viking_shield1"
+        },
+		        {
+            "predicate": {
+				"blocking": 1,
+                "custom_model_data": 28
+            },
+            "model": "item/vs_viking_shield_block1"			
+        },
+			{
+            "predicate": {
+				"blocking": 0,
+                "custom_model_data": 29
+				
+            },
+            "model": "item/shield/vs_viking_shield2"
+        },
+		        {
+            "predicate": {
+				"blocking": 1,
+                "custom_model_data": 29
+            },
+            "model": "item/vs_viking_shield_block2"			
+        },
+			{
+            "predicate": {
+				"blocking": 0,
+                "custom_model_data": 30
+				
+            },
+            "model": "item/shield/vs_viking_shield3"
+        },
+		        {
+            "predicate": {
+				"blocking": 1,
+                "custom_model_data": 30
+            },
+            "model": "item/vs_viking_shield_block3"			
+        },
+			{
+            "predicate": {
+				"blocking": 0,
+                "custom_model_data": 31
+				
+            },
+            "model": "item/shield/vs_viking_shield4"
+        },
+		        {
+            "predicate": {
+				"blocking": 1,
+                "custom_model_data": 31
+            },
+            "model": "item/vs_viking_shield_block4"			
+        },
+			{
+            "predicate": {
+				"blocking": 0,
+                "custom_model_data": 32
+				
+            },
+            "model": "item/shield/vs_viking_shield5"
+        },
+		        {
+            "predicate": {
+				"blocking": 1,
+                "custom_model_data": 32
+            },
+            "model": "item/vs_viking_shield_block5"			
+        },
+			{
+            "predicate": {
+				"blocking": 0,
+                "custom_model_data": 33
+				
+            },
+            "model": "item/shield/vs_viking_shield6"
+        },
+		        {
+            "predicate": {
+				"blocking": 1,
+                "custom_model_data": 33
+            },
+            "model": "item/vs_viking_shield_block6"			
+        },
+			{
+            "predicate": {
+				"blocking": 0,
+                "custom_model_data": 34
+				
+            },
+            "model": "item/shield/vs_viking_shield7"
+        },
+		        {
+            "predicate": {
+				"blocking": 1,
+                "custom_model_data": 34
+            },
+            "model": "item/vs_viking_shield_block7"			
+        },
+			{
+            "predicate": {
+				"blocking": 0,
+                "custom_model_data": 35
+				
+            },
+            "model": "item/shield/vs_viking_shield8"
+        },
+		        {
+            "predicate": {
+				"blocking": 1,
+                "custom_model_data": 35
+            },
+            "model": "item/vs_viking_shield_block7"			
+        },
+			{
+            "predicate": {
+				"blocking": 0,
+                "custom_model_data": 36
+				
+            },
+            "model": "item/shield/vs_viking_shield8"
+        },
+		        {
+            "predicate": {
+				"blocking": 1,
+                "custom_model_data": 36
+            },
+            "model": "item/vs_viking_shield_block8"			
+        },
+			{
+            "predicate": {
+				"blocking": 0,
+                "custom_model_data": 37
+				
+            },
+            "model": "item/shield/vs_viking_shield9"
+        },
+		        {
+            "predicate": {
+				"blocking": 1,
+                "custom_model_data": 37
+            },
+            "model": "item/vs_viking_shield_block9"			
+        },
+			{
+            "predicate": {
+				"blocking": 0,
+                "custom_model_data": 38
+				
+            },
+            "model": "item/shield/vs_viking_shield10"
+        },
+		        {
+            "predicate": {
+				"blocking": 1,
+                "custom_model_data": 38
+            },
+            "model": "item/vs_viking_shield_block10"			
+        }			
     ]
 }
