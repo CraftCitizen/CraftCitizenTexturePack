@@ -1407,7 +1407,7 @@
 			"file": "minecraft:font/avatar/varmorer.png",
 			"ascent": -2,
 			"height": 41,
-			"chars": ["\uEF06"]
+			"chars": ["\uEF09"]
 		},
 		{
 			"type": "bitmap",
