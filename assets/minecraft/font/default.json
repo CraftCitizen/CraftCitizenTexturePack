@@ -1,5 +1,27 @@
 {
     "providers": [
+	    {
+			"type": "bitmap",
+			"file": "minecraft:font/titles/letters/letters.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": ["\uC102\uC103\uC104\uC105\uC106\uC107\uC108\uC109\uC110\uC111\uC112\uC113\uC114",
+			          "\uC115\uC116\uC117\uC118\uC119\uC120\uC121\uC122\uC123\uC124\uC125\uC126\uC127"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/titles/letters/nameplate.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": ["\uC100"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/titles/letters/nameplate_end.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": ["\uC101"]
+		},
 		{
 			"type": "bitmap",
 			"file": "minecraft:font/economy/cannot_afford.png",
@@ -845,8 +867,8 @@
 		{
 			"type": "bitmap",
 			"file": "minecraft:font/inventory/banker.png",
-			"ascent": 13,
-			"height": 127,
+			"ascent": 17,
+			"height": 131,
 			"chars": ["\uE331"]
 		},
 		{
