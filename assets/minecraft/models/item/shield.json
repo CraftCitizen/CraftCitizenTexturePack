@@ -616,6 +616,21 @@
                 "custom_model_data": 38
             },
             "model": "item/shield/vs_viking_shield_block10"			
-        }			
+        },
+			{
+            "predicate": {
+				"blocking": 0,
+                "custom_model_data": 39
+				
+            },
+            "model": "item/tools/vs_season3_shield"
+        },
+		        {
+            "predicate": {
+				"blocking": 1,
+                "custom_model_data": 39
+            },
+            "model": "item/tools/vs_season3_shield_blocking"			
+        }		
     ]
 }
