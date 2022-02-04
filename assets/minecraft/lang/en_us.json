@@ -1,3 +1,6 @@
 {
-  "key.keyboard.left.shift": ""
+  "key.keyboard.left.shift": "",
+  "menu.game": "",
+  "menu.disconnect": "Are you sure you want to leave?",
+  "menu.shareToLan": "\u00A76Use /discord"
 }

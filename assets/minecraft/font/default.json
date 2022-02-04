@@ -640,12 +640,19 @@
                 "\uF830"
             ]
         },
-				{
+		{
 			"type": "bitmap",
 			"file": "minecraft:font/cc2.png",
 			"ascent": 0,
 			"height": 50,
 			"chars": ["\uE000"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/cc2.png",
+			"ascent": 25,
+			"height": 100,
+			"chars": ["\uED00"]
 		},
 		{
 			"type": "bitmap",
