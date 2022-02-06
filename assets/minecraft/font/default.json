@@ -1458,6 +1458,13 @@
 			"ascent": -2,
 			"height": 41,
 			"chars": ["\uEF08"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/titles/season3.png",
+			"ascent": 7.75,
+			"height": 7.75,
+			"chars": ["\uEF11"]
 		}		
     ]
 }
