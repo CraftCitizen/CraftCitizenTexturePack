@@ -5500,6 +5500,18 @@
 				"custom_model_data": 1284
 			},
 			"model": "modelengine:zzz_vssss_chieftain/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1285
+			},
+			"model": "modelengine:zzz_vsssss_citybanner/bone2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1286
+			},
+			"model": "modelengine:zzz_vsssss_citybanner/bone"
 		}		
   ],
   "textures": {
