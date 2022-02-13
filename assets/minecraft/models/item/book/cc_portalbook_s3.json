@@ -3,8 +3,8 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "itempieces/cc_season3_pbook",
-		"1": "itempieces/vs_season3_shield_glow_2",
-		"2": "itempieces/vs_season3_shield_glow_1",
+		"1": "itempieces/vs_season3_shield_glow_21",
+		"2": "itempieces/vs_season3_shield_glow_11",
 		"particle": "itempieces/cc_season3_pbook"
 	},
 	"elements": [
