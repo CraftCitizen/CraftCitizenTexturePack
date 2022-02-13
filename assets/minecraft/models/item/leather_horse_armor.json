@@ -5512,6 +5512,12 @@
 				"custom_model_data": 1286
 			},
 			"model": "modelengine:zzz_vsssss_citybanner/bone"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1287
+			},
+			"model": "modelengine:zzz_w0_cityaether/bone"
 		}		
   ],
   "textures": {
