@@ -6,7 +6,7 @@
 	"overrides": [
 		{ "predicate": { "custom_model_data": 1}, "model": "item/diamondsword/dawnbreaker" },
 		{ "predicate": { "custom_model_data": 2}, "model": "item/diamondsword/frostmourne" },
-		{ "predicate": { "custom_model_data": 3}, "model": "item/diamondsword/ashbringer" },
+		{ "predicate": { "custom_model_data": 3}, "model": "item/diamondsword/ashbringer2" },
 		{ "predicate": { "custom_model_data": 4}, "model": "item/diamondsword/shalamayne" },
 		{ "predicate": { "custom_model_data": 5}, "model": "item/diamondsword/thunderfury" },
 		{ "predicate": { "custom_model_data": 7}, "model": "item/diamondsword/vsword" },
