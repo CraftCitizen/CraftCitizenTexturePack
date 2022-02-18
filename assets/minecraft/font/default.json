@@ -803,6 +803,13 @@
 		},
 		{
 			"type": "bitmap",
+			"file": "minecraft:font/inventory/titles.png",
+			"ascent": 10,
+			"height": 131,
+			"chars": ["\uE308"]
+		},
+		{
+			"type": "bitmap",
 			"file": "minecraft:font/inventory/quest_page0.png",
 			"ascent": 13,
 			"height": 127,
