@@ -15,6 +15,9 @@
 		{ "predicate": { "custom_model_data": 8}, "model": "item/pots/silvergoblet" },
 		{ "predicate": { "custom_model_data": 9}, "model": "item/pots/goldgoblet" },
 		{ "predicate": { "custom_model_data": 10}, "model": "item/vote/vampiric_goblet" },
-        { "predicate": { "custom_model_data": 11}, "model": "item/customblocks/silvergobletfilled" }		
+        { "predicate": { "custom_model_data": 11}, "model": "item/customblocks/silvergobletfilled" },
+		{ "predicate": { "custom_model_data": 12}, "model": "item/pots/vs_potion" },
+		{ "predicate": { "custom_model_data": 13}, "model": "item/pots/vs_potion2" },
+		{ "predicate": { "custom_model_data": 14}, "model": "item/pots/vs_potion3" }		
 	]	
 }

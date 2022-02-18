@@ -5524,6 +5524,72 @@
 				"custom_model_data": 1288
 			},
 			"model": "modelengine:zzz_w1_citytinkerer/bone"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1289
+			},
+			"model": "modelengine:zzz_w2_alchemist/mantel"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1290
+			},
+			"model": "modelengine:zzz_w2_alchemist/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1291
+			},
+			"model": "modelengine:zzz_w2_alchemist/left_arm_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1292
+			},
+			"model": "modelengine:zzz_w2_alchemist/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1293
+			},
+			"model": "modelengine:zzz_w2_alchemist/right_arm_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1294
+			},
+			"model": "modelengine:zzz_w2_alchemist/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1295
+			},
+			"model": "modelengine:zzz_w2_alchemist/left_leg_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1296
+			},
+			"model": "modelengine:zzz_w2_alchemist/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1297
+			},
+			"model": "modelengine:zzz_w2_alchemist/right_leg_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1298
+			},
+			"model": "modelengine:zzz_w2_alchemist/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1299
+			},
+			"model": "modelengine:zzz_w2_alchemist/body"
 		}		
   ],
   "textures": {
