@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "itempieces/vs_season3_shield",
-		"2": "itempieces/vs_season3_shield_glow_2",
-		"3": "itempieces/vs_season3_shield_glow_1",
+		"2": "itempieces/vs_season3_shield_glow_21",
+		"3": "itempieces/vs_season3_shield_glow_11",
 		"particle": "itempieces/vs_season3_shield"
 	},
 	"elements": [
