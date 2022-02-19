@@ -14,6 +14,7 @@
 		{ "predicate": { "custom_model_data": 8}, "model": "item/book/spellbook3" },
 		{ "predicate": { "custom_model_data": 9}, "model": "item/book/wizardbook" },
 		{ "predicate": { "custom_model_data": 10}, "model": "item/book/santabook" },
-		{ "predicate": { "custom_model_data": 11}, "model": "item/book/cc_portalbook_s3" }		
+		{ "predicate": { "custom_model_data": 11}, "model": "item/book/cc_portalbook_s3" },
+		{ "predicate": { "custom_model_data": 12}, "model": "item/book/alchemistbook" }		
 	]
 }

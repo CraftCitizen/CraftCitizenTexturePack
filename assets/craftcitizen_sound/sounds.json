@@ -8,5 +8,15 @@
 		 "sounds": [
 			"craftcitizen/quest/quest_complete"
 		 ]
+	}, 
+	"vs.alchemistlaugh.1":{
+		 "sounds": [
+			"craftcitizen/craftcitizen/alchemistlaugh1"
+		 ]
+	}, 
+	"vs.alchemistlaugh.2":{
+		 "sounds": [
+			"craftcitizen/craftcitizen/alchemistlaugh2"
+		 ]
 	}
 }
