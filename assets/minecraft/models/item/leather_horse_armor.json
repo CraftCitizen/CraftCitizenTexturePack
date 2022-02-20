@@ -5590,6 +5590,126 @@
 				"custom_model_data": 1299
 			},
 			"model": "modelengine:zzz_w2_alchemist/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1300
+			},
+			"model": "modelengine:zzz_w3_bobby/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1301
+			},
+			"model": "modelengine:zzz_w3_bobby/left_arm_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1302
+			},
+			"model": "modelengine:zzz_w3_bobby/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1303
+			},
+			"model": "modelengine:zzz_w3_bobby/right_arm_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1304
+			},
+			"model": "modelengine:zzz_w3_bobby/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1305
+			},
+			"model": "modelengine:zzz_w3_bobby/left_leg_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1306
+			},
+			"model": "modelengine:zzz_w3_bobby/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1307
+			},
+			"model": "modelengine:zzz_w3_bobby/right_leg_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1308
+			},
+			"model": "modelengine:zzz_w3_bobby/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1309
+			},
+			"model": "modelengine:zzz_w3_bobby/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1310
+			},
+			"model": "modelengine:zzz_w4_jess/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1311
+			},
+			"model": "modelengine:zzz_w4_jess/left_arm_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1312
+			},
+			"model": "modelengine:zzz_w4_jess/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1313
+			},
+			"model": "modelengine:zzz_w4_jess/right_arm_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1314
+			},
+			"model": "modelengine:zzz_w4_jess/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1315
+			},
+			"model": "modelengine:zzz_w4_jess/left_leg_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1316
+			},
+			"model": "modelengine:zzz_w4_jess/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1317
+			},
+			"model": "modelengine:zzz_w4_jess/right_leg_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1318
+			},
+			"model": "modelengine:zzz_w4_jess/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1319
+			},
+			"model": "modelengine:zzz_w4_jess/body"
 		}		
   ],
   "textures": {

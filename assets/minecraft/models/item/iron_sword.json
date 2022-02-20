@@ -13,7 +13,9 @@
         { "predicate": { "custom_model_data": 7}, "model": "item/tools/adventurer_sword"},		
         { "predicate": { "custom_model_data": 85}, "model": "item/swords/hammer1iron"},
         { "predicate": { "custom_model_data": 86}, "model": "item/tools/knight_sword"},
-        { "predicate": { "custom_model_data": 87}, "model": "item/tools/knight_great_sword"}		
-		
+        { "predicate": { "custom_model_data": 87}, "model": "item/tools/knight_great_sword"},
+        { "predicate": { "custom_model_data": 88}, "model": "item/ironsword/viking_axe"},
+        { "predicate": { "custom_model_data": 89}, "model": "item/ironsword/viking_sword"},
+        { "predicate": { "custom_model_data": 90}, "model": "item/ironsword/viking_greataxe"}
 	]
 }
