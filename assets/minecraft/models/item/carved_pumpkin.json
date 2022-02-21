@@ -43,6 +43,7 @@
 		{ "predicate": { "custom_model_data": 36}, "model": "item/pumpkin/champion_necklace_s1" },
 		{ "predicate": { "custom_model_data": 37}, "model": "item/pumpkin/champion_necklace_s2" },
 		{ "predicate": { "custom_model_data": 38}, "model": "item/pumpkin/hoolismask" },
-		{ "predicate": { "custom_model_data": 39}, "model": "item/tools/cc_season3_cap" }		
+		{ "predicate": { "custom_model_data": 39}, "model": "item/tools/cc_season3_cap" },
+		{ "predicate": { "custom_model_data": 40}, "model": "item/pumpkin/vs_alchemist_head" }		
 	]
 }
