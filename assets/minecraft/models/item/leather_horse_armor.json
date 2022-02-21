@@ -5710,6 +5710,96 @@
 				"custom_model_data": 1319
 			},
 			"model": "modelengine:zzz_w4_jess/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1320
+			},
+			"model": "modelengine:zzz_w5_crabmount/jaw"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1321
+			},
+			"model": "modelengine:zzz_w5_crabmount/leg2b_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1322
+			},
+			"model": "modelengine:zzz_w5_crabmount/leg2_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1323
+			},
+			"model": "modelengine:zzz_w5_crabmount/legb_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1324
+			},
+			"model": "modelengine:zzz_w5_crabmount/leg_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1325
+			},
+			"model": "modelengine:zzz_w5_crabmount/legb_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1326
+			},
+			"model": "modelengine:zzz_w5_crabmount/leg_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1327
+			},
+			"model": "modelengine:zzz_w5_crabmount/leg2b_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1328
+			},
+			"model": "modelengine:zzz_w5_crabmount/leg2_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1329
+			},
+			"model": "modelengine:zzz_w5_crabmount/whiskers4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1330
+			},
+			"model": "modelengine:zzz_w5_crabmount/clawclaw2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1331
+			},
+			"model": "modelengine:zzz_w5_crabmount/clawhand2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1332
+			},
+			"model": "modelengine:zzz_w5_crabmount/clawclaw"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1333
+			},
+			"model": "modelengine:zzz_w5_crabmount/clawhand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1334
+			},
+			"model": "modelengine:zzz_w5_crabmount/mainbody"
 		}		
   ],
   "textures": {
