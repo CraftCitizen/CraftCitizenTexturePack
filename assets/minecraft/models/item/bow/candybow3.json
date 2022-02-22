@@ -668,11 +668,11 @@
 			"scale": [0.76172, -1, 0.80664]
 		},
 		"firstperson_righthand": {
-			"rotation": [0.75, -8, 91.75],
+			"rotation": [7.25, -8, 91.75],
 			"translation": [5.25, 4.25, -12.25]
 		},
 		"firstperson_lefthand": {
-			"rotation": [0.75, -8, 91.75],
+			"rotation": [7.25, -8, 91.75],
 			"translation": [5.25, 4.25, -12.25]
 		},
 		"ground": {

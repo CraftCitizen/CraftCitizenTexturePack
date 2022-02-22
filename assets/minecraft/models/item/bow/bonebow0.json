@@ -721,14 +721,14 @@
 			"scale": [0.79688, 0.77734, 0.75]
 		},
 		"firstperson_righthand": {
-			"rotation": [0, 20, -88.75],
-			"translation": [5.75, 6.25, -9.25],
-			"scale": [1.17578, -1, 1]
+			"rotation": [-16.93, -1, -85],
+			"translation": [-0.5, 2.75, 0.5],
+			"scale": [-0.69, -0.69, 0.69]
 		},
 		"firstperson_lefthand": {
-			"rotation": [0, 20, -88.75],
-			"translation": [5.75, 6.25, -9.25],
-			"scale": [-1.17578, -1, 1]
+			"rotation": [-17.5, 19.63, -76.97],
+			"translation": [5.75, -1.5, -1.5],
+			"scale": [-0.69, -0.69, 0.69]
 		},
 		"ground": {
 			"translation": [0, 3.25, 0],

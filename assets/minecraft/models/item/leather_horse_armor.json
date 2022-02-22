@@ -5800,6 +5800,18 @@
 				"custom_model_data": 1334
 			},
 			"model": "modelengine:zzz_w5_crabmount/mainbody"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1335
+			},
+			"model": "modelengine:zzz_w6_sign_portal/shield"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1336
+			},
+			"model": "modelengine:zzz_w6_sign_portal/body"
 		}		
   ],
   "textures": {

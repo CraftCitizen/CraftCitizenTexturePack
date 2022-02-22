@@ -460,6 +460,28 @@
 				"custom_model_data": 19
 			},
 			"model": "item/tools/long_bow"
+		},
+		{ "predicate": { "custom_model_data": 20}, "model": "item/bow/vs_windhaven_bow_1" },
+		{
+			"predicate": {
+				"custom_model_data": 20,
+				"pulling": 1
+			},
+			"model": "item/bow/vs_windhaven_bow_2"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 0.65,
+				"custom_model_data": 20
+			},
+			"model": "item/bow/vs_windhaven_bow_3"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 0.9,
+				"custom_model_data": 20
+			},
+			"model": "item/bow/vs_windhaven_bow_4"
 		}					
 	]
 }
