@@ -1265,7 +1265,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/avatar/vleatherworker.png",
+			"file": "minecraft:font/avatar/jack.png",
 			"ascent": -2,
 			"height": 41,
 			"chars": ["\uEA15"]
@@ -1279,7 +1279,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/avatar/vnothing.png",
+			"file": "minecraft:font/avatar/terry.png",
 			"ascent": -2,
 			"height": 41,
 			"chars": ["\uEA17"]
@@ -1486,6 +1486,13 @@
 			"ascent": 7.75,
 			"height": 7.75,
 			"chars": ["\uEF11"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/maximus.png",
+			"ascent": -2,
+			"height": 41,
+			"chars": ["\uEF12"]
 		}		
     ]
 }
