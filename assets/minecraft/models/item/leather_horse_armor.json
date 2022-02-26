@@ -5818,6 +5818,12 @@
 				"custom_model_data": 1337
 			},
 			"model": "modelengine:zzz_w7_questmarkblue/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1338
+			},
+			"model": "modelengine:zzz_w8_cclabel/bone"
 		}		
   ],
   "textures": {
