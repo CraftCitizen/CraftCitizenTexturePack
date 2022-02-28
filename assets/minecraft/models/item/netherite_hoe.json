@@ -4,6 +4,7 @@
     "layer0": "minecraft:item/netherite_hoe"
 	},
 	"overrides": [
-		{ "predicate": { "custom_model_data": 2}, "model": "item/tools/cc_aetherite_scythe" }		
+		{ "predicate": { "custom_model_data": 2}, "model": "item/tools/cc_aetherite_scythe" },
+		{ "predicate": { "custom_model_data": 3}, "model": "item/tools/steampunk_hoe" }		
 	]
 }

@@ -5824,6 +5824,12 @@
 				"custom_model_data": 1338
 			},
 			"model": "modelengine:zzz_w8_cclabel/bone"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1339
+			},
+			"model": "modelengine:zzz_w9_dungeonlabel/bone"
 		}		
   ],
   "textures": {

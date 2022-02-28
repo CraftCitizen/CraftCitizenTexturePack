@@ -482,6 +482,28 @@
 				"custom_model_data": 20
 			},
 			"model": "item/bow/vs_windhaven_bow_4"
+		},
+		{ "predicate": { "custom_model_data": 21}, "model": "item/bow/steampunk_bow_0" },
+		{
+			"predicate": {
+				"custom_model_data": 21,
+				"pulling": 1
+			},
+			"model": "item/bow/steampunk_bow_1"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 0.65,
+				"custom_model_data": 21
+			},
+			"model": "item/bow/steampunk_bow_2"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 0.9,
+				"custom_model_data": 21
+			},
+			"model": "item/bow/steampunk_bow_3"
 		}					
 	]
 }

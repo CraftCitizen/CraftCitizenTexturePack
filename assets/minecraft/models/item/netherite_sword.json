@@ -78,6 +78,7 @@
         { "predicate": { "custom_model_data": 95}, "model": "item/netheritesword/vs_enderfire_sword"},
         { "predicate": { "custom_model_data": 96}, "model": "item/tools/amethystsword"},
         { "predicate": { "custom_model_data": 97}, "model": "item/tools/cc_season3_hammer"},
-		{ "predicate": { "custom_model_data": 98}, "model": "item/diamondsword/ashbringer" }		
+		{ "predicate": { "custom_model_data": 98}, "model": "item/diamondsword/ashbringer" },
+        { "predicate": { "custom_model_data": 99}, "model": "item/netheritesword/steampunk_sword"}		
 	]
 }

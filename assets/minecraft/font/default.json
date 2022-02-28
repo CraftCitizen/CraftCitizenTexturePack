@@ -1493,6 +1493,20 @@
 			"ascent": -2,
 			"height": 41,
 			"chars": ["\uEF12"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/arthur.png",
+			"ascent": -2,
+			"height": 41,
+			"chars": ["\uEF14"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/dungeonmaster.png",
+			"ascent": -2,
+			"height": 41,
+			"chars": ["\uEF16"]
 		}		
     ]
 }
