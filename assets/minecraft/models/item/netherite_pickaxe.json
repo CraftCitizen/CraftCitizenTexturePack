@@ -9,6 +9,9 @@
 		{ "predicate": { "custom_model_data": 4}, "model": "item/tools/hammertinkerer" },
 		{ "predicate": { "custom_model_data": 5}, "model": "item/tools/frostie" },
 		{ "predicate": { "custom_model_data": 6}, "model": "item/tools/cc_aetherite_pickaxe" },
-		{ "predicate": { "custom_model_data": 7}, "model": "item/tools/steampunk_pickaxe" }		
+		{ "predicate": { "custom_model_data": 7}, "model": "item/tools/steampunk_pickaxe" },
+		{ "predicate": { "custom_model_data": 8}, "model": "item/tools/oceanic_pickaxe" },
+		{ "predicate": { "custom_model_data": 9}, "model": "item/tools/oceanic_pickaxe_gold" },
+		{ "predicate": { "custom_model_data": 10}, "model": "item/tools/discord_nitro_pickaxe" }
 	]
 }

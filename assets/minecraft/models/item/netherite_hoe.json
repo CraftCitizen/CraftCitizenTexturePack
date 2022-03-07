@@ -5,6 +5,8 @@
 	},
 	"overrides": [
 		{ "predicate": { "custom_model_data": 2}, "model": "item/tools/cc_aetherite_scythe" },
-		{ "predicate": { "custom_model_data": 3}, "model": "item/tools/steampunk_hoe" }		
+		{ "predicate": { "custom_model_data": 3}, "model": "item/tools/steampunk_hoe" },
+		{ "predicate": { "custom_model_data": 4}, "model": "item/tools/oceanic_hoe" },
+		{ "predicate": { "custom_model_data": 5}, "model": "item/tools/discord_nitro_hoe" }		
 	]
 }

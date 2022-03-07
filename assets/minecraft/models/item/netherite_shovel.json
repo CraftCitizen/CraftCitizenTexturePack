@@ -9,6 +9,8 @@
 		{ "predicate": { "custom_model_data": 3}, "model": "item/shovel/shovel1netherite" },
 		{ "predicate": { "custom_model_data": 4}, "model": "item/tools/vs_frostfestivalshovel" },
 		{ "predicate": { "custom_model_data": 5}, "model": "item/tools/cc_aetherite_shovel" },
-		{ "predicate": { "custom_model_data": 6}, "model": "item/tools/steampunk_shovel" }		
+		{ "predicate": { "custom_model_data": 6}, "model": "item/tools/steampunk_shovel" },
+		{ "predicate": { "custom_model_data": 7}, "model": "item/tools/oceanic_shovel" },
+		{ "predicate": { "custom_model_data": 8}, "model": "item/tools/discord_nitro_shovel" }
 	]
 }

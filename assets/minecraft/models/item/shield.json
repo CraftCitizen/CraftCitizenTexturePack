@@ -621,7 +621,6 @@
             "predicate": {
 				"blocking": 0,
                 "custom_model_data": 39
-				
             },
             "model": "item/tools/vs_season3_shield"
         },
@@ -631,6 +630,48 @@
                 "custom_model_data": 39
             },
             "model": "item/tools/vs_season3_shield_blocking"			
-        }		
+        },
+			{
+            "predicate": {
+				"blocking": 0,
+                "custom_model_data": 40
+            },
+            "model": "item/shield/vs_thorns_shield"
+        },
+		        {
+            "predicate": {
+				"blocking": 1,
+                "custom_model_data": 40
+            },
+            "model": "item/shield/vs_thorns_shield"			
+        },
+			{
+            "predicate": {
+				"blocking": 0,
+                "custom_model_data": 41
+            },
+            "model": "item/tools/discord_nitro_shield"
+        },
+		        {
+            "predicate": {
+				"blocking": 1,
+                "custom_model_data": 41
+            },
+            "model": "item/tools/discord_nitro_shield_blocking"			
+        },
+			{
+            "predicate": {
+				"blocking": 0,
+                "custom_model_data": 42
+            },
+            "model": "item/tools/oceanic_shield"
+        },
+		        {
+            "predicate": {
+				"blocking": 1,
+                "custom_model_data": 42
+            },
+            "model": "item/tools/oceanic_shield_blocking"			
+        }
     ]
 }
