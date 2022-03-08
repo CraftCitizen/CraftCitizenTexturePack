@@ -1507,6 +1507,34 @@
 			"ascent": -2,
 			"height": 41,
 			"chars": ["\uEF16"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/seasonmaster.png",
+			"ascent": -2,
+			"height": 41,
+			"chars": ["\uEF17"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/martin.png",
+			"ascent": -2,
+			"height": 41,
+			"chars": ["\uEF18"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/cloe.png",
+			"ascent": -2,
+			"height": 41,
+			"chars": ["\uEF19"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/avatar/sue.png",
+			"ascent": -2,
+			"height": 41,
+			"chars": ["\uEF20"]
 		}		
     ]
 }

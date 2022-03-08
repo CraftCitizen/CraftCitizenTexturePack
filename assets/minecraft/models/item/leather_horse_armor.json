@@ -5830,6 +5830,18 @@
 				"custom_model_data": 1339
 			},
 			"model": "modelengine:zzz_w9_dungeonlabel/bone"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1340
+			},
+			"model": "modelengine:zzz_x1_boxbag/bag"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1341
+			},
+			"model": "modelengine:zzz_x1_boxbag/body"
 		}		
   ],
   "textures": {
