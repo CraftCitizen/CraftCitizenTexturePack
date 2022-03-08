@@ -11,7 +11,6 @@
 		{"predicate": {"custom_model_data":5}, "model": "item/halloween/frankenstein_arm"},
 		{"predicate": {"custom_model_data":6}, "model": "item/halloween/frankenstein_leg"},
         { "predicate": { "custom_model_data": 7}, "model": "item/tools/adventurer_sword"},		
-        { "predicate": { "custom_model_data": 85}, "model": "item/swords/hammer1iron"},
         { "predicate": { "custom_model_data": 86}, "model": "item/tools/knight_sword"},
         { "predicate": { "custom_model_data": 87}, "model": "item/tools/knight_great_sword"},
         { "predicate": { "custom_model_data": 88}, "model": "item/ironsword/viking_axe"},

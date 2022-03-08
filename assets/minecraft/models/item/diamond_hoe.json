@@ -4,8 +4,7 @@
 		"layer0": "item/diamond_hoe"
 	},
 	"overrides": [
-		{ "predicate": { "custom_model_data": 1}, "model": "item/diamondhoe/druidsichel" },
-		{ "predicate": { "custom_model_data": 2}, "model": "item/diamondhoe/valgardhoe" },
-		{ "predicate": { "custom_model_data": 3}, "model": "item/diamondhoe/pitchfork" }		
+		{ "predicate": { "custom_model_data": 1}, "model": "item/tools/druidsichel" },
+		{ "predicate": { "custom_model_data": 3}, "model": "item/tools/pitchfork" }		
 	]
 }

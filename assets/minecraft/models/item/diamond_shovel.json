@@ -4,7 +4,6 @@
         "layer0": "item/diamond_shovel"
     },
 	"overrides": [
-		{ "predicate": { "custom_model_data": 1}, "model": "item/tools/southshovel" },
-		{ "predicate": { "custom_model_data": 3}, "model": "item/shovel/shovel1dia" }		
+		{ "predicate": { "custom_model_data": 1}, "model": "item/tools/southshovel" }		
 	]
 }

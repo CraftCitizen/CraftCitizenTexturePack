@@ -14,7 +14,6 @@
 		{ "predicate": { "custom_model_data": 10}, "model": "item/netheritesword/claiveswordn" },
 		{ "predicate": { "custom_model_data": 19}, "model": "item/netheritesword/piratecurse" },
 		{ "predicate": { "custom_model_data": 20}, "model": "item/netheritesword/barstooln" },
-		{ "predicate": { "custom_model_data": 21}, "model": "item/netheritesword/candlen" },
 		{ "predicate": { "custom_model_data": 22}, "model": "item/netheritesword/halloweensword" },
 		{ "predicate": { "custom_model_data": 23}, "model": "item/netheritesword/zhulu" },
 		{ "predicate": { "custom_model_data": 24}, "model": "item/netheritesword/tchak" },
