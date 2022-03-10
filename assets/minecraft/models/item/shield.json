@@ -672,6 +672,20 @@
                 "custom_model_data": 42
             },
             "model": "item/tools/oceanic_shield_blocking"			
+        },
+			{
+            "predicate": {
+				"blocking": 0,
+                "custom_model_data": 43
+            },
+            "model": "item/tools/gondor_shield"
+        },
+		        {
+            "predicate": {
+				"blocking": 1,
+                "custom_model_data": 43
+            },
+            "model": "item/tools/gondor_shield_b"			
         }
     ]
 }

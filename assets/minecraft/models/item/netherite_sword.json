@@ -81,6 +81,7 @@
         { "predicate": { "custom_model_data": 99}, "model": "item/netheritesword/steampunk_sword"},
         { "predicate": { "custom_model_data": 100}, "model": "item/netheritesword/vs_thorns_dagger"},
         { "predicate": { "custom_model_data": 101}, "model": "item/tools/oceanic_sword"},
-        { "predicate": { "custom_model_data": 102}, "model": "item/tools/discord_nitro_sword"}		
+        { "predicate": { "custom_model_data": 102}, "model": "item/tools/discord_nitro_sword"},
+        { "predicate": { "custom_model_data": 103}, "model": "item/tools/vs_narsil"}		
 	]
 }

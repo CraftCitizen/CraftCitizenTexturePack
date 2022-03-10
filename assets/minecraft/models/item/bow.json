@@ -548,6 +548,28 @@
 				"custom_model_data": 23
 			},
 			"model": "item/tools/discord_nitro_bow_pulling_2"
+		},
+		{ "predicate": { "custom_model_data": 24}, "model": "item/bow/vs_pack_bow3" },
+		{
+			"predicate": {
+				"custom_model_data": 24,
+				"pulling": 1
+			},
+			"model": "item/bow/vs_pack_bow31"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 0.65,
+				"custom_model_data": 24
+			},
+			"model": "item/bow/vs_pack_bow32"
+		}, {
+			"predicate": {
+				"pulling": 1,
+				"pull": 0.9,
+				"custom_model_data": 24
+			},
+			"model": "item/bow/vs_pack_bow33"
 		}					
 	]
 }
