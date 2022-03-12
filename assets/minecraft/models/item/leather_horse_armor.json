@@ -15,6 +15,8 @@
 		{ "predicate": { "custom_model_data": 54}, "model": "item/customblocks/tablecloth" },
 		{ "predicate": { "custom_model_data": 55}, "model": "item/customblocks/ladder1" },
         { "predicate": { "custom_model_data": 63}, "model": "item/customblocks/rockingchair1" },
+        { "predicate": { "custom_model_data": 64}, "model": "item/tools/vs_flintlock" },
+        { "predicate": { "custom_model_data": 65}, "model": "item/tools/rifle" },		
         { "predicate": { "custom_model_data": 165}, "model": "item/customblocks/silvergobletfilled" },
         { "predicate": { "custom_model_data": 370}, "model": "item/customblocks/goldengobletfilled" },
 		{
